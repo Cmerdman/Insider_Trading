@@ -1,0 +1,105 @@
+,Insider_Name,Insider_Title,Buy_or_Sell,Ticker,Price,Quantity,Value,Number_Owned,Change_in_Number_Owned,Filing_Date,Trade_Date
+0,Smolyansky Edward,"CAO, COO, Treas., Secretary",S - Sale,LWAY,$11.25,"-30,000","-$337,646","761,515",-4%,2016-01-11 21:50:56,2016-01-06
+1,Brandenburg Chet Ian,Chief Product Officer,S - Sale,MB,$15.28,"-4,500","-$68,743",0,-100%,2016-01-11 21:49:58,2016-01-07
+2,Smith Jeffrey C,Dir,S - Sale,DRI,$62.50,"-1,300,000","-$81,247,640","10,335,000",-11%,2016-01-11 21:42:24,2016-01-07
+3,Brockstedt Dirk G.,"SVP of Research, Dev.",S - Sale+OE,ADRO,$21.77,"-22,000","-$479,015","12,000",-65%,2016-01-11 20:35:55,2016-01-11
+4,Schafer Gregory W,COO,S - Sale+OE,ADRO,$23.58,"-20,000","-$471,600","49,279",-29%,2016-01-11 20:33:29,2016-01-08
+5,Lister John,"SVP, GC",S - Sale,DXCM,$82.57,"-3,560","-$293,935","97,710",-4%,2016-01-11 20:33:28,2016-01-08
+6,Fluor Peter J,Dir,P - Purchase,APC,$41.19,"+25,000","+$1,029,855","104,758",+31%,2016-01-11 20:23:20,2016-01-07
+7,Berkshire Hathaway Inc,10%,P - Purchase,PSX,$76.63,"+1,645,887","+$126,127,770","63,940,380",+3%,2016-01-11 20:22:50,2016-01-07
+8,"Energy Capital Partners Ii, LLC","Dir, 10%",P - Purchase,SMLP,$17.57,"+136,283","+$2,394,659","5,882,672",+2%,2016-01-11 20:14:07,2016-01-07
+9,Eberwein Jeffrey E.,10%,P - Purchase,SDPI,$1.01,"+7,038","+$7,108","1,792,611",0%,2016-01-11 20:05:50,2016-01-07
+10,Lampert Edward S,10%,P - Purchase,LE,$22.89,"+1,342","+$30,713","17,015,152",0%,2016-01-11 19:57:51,2016-01-07
+11,"Redmile Group, LLC",10%,P - Purchase,ARRY,$3.67,"+925,000","+$3,394,500","18,775,650",+5%,2016-01-11 19:33:42,2016-01-07
+12,"Redmile Group, LLC",10%,P - Purchase,ARRY,$4.58,"+600,140","+$2,750,700","17,850,650",+3%,2016-01-11 19:27:34,2015-09-29
+13,Parker Geoffrey M.,Dir,P - Purchase,CCXI,$4.63,"+20,000","+$92,512","78,114",+34%,2016-01-11 19:26:09,2016-01-11
+14,King James Winston,"GC, Secretary",S - Sale+OE,GWRE,$57.07,-978,"-$55,814",0,-100%,2016-01-11 19:01:13,2016-01-08
+15,"Hg Vora Capital Management, LLC",10%,P - Purchase,CLUB,$1.11,"+50,000","+$55,400","4,575,000",+1%,2016-01-11 18:44:23,2016-01-07
+16,Sandring Rebecca M,Chief Accounting Officer,P - Purchase,CORR,$16.42,"+1,400","+$22,988","3,351",+72%,2016-01-11 18:37:06,2016-01-07
+17,Schneider David,Chief Revenue Officer,S - Sale+OE,NOW,$80.08,"-10,000","-$800,794","30,315",-25%,2016-01-11 18:06:56,2016-01-07
+18,Schneider David,Chief Revenue Officer,S - Sale+OE,NOW,$86.91,"-20,000","-$1,738,178","30,315",-40%,2016-01-11 18:05:09,2015-12-09
+19,Rubin Marc,Exec COB,P - Purchase,TTNP,$3.25,"+5,000","+$16,250","156,317",+3%,2016-01-11 17:58:43,2016-01-11
+20,Bhonsle Sunil,"Pres, CEO",P - Purchase,TTNP,$3.18,"+17,000","+$54,060","162,658",+12%,2016-01-11 17:57:01,2016-01-11
+21,Kirk Randal J,10%,P - Purchase,TBIO,$1.00,"+4,474,825","+$4,474,825","7,550,669",+145%,2016-01-11 17:56:37,2016-01-06
+22,Elam Nevan C,CEO,S - Sale+OE,ANTB,$0.00,"-842,949",-$0,0,-100%,2016-01-11 17:50:06,2015-02-09
+23,Goldman Sachs Group Inc,10%,P - Purchase,GSBD,$19.31,"+23,247","+$448,915","6,102,305",0%,2016-01-11 17:40:45,2016-01-07
+24,Williams Clara R,Member of a group,P - Purchase,NC,$42.50,+617,"+$26,223","126,597",0%,2016-01-11 17:39:22,2016-01-08
+25,Williams David B,Member of a group,P - Purchase,NC,$42.50,+617,"+$26,223","126,597",0%,2016-01-11 17:38:16,2016-01-08
+26,Ventura Jeffrey L,"Pres, CEO",S - Sale,RRC,$25.75,"-4,398","-$113,249","685,319",-1%,2016-01-11 17:37:45,2016-01-08
+27,Butler Helen Rankin,Member of a Group,P - Purchase,NC,$42.50,+617,"+$26,223","158,668",0%,2016-01-11 17:37:09,2016-01-08
+28,Farquharson Alan W,SVP,S - Sale,RRC,$25.75,"-11,953","-$307,790","138,552",-8%,2016-01-11 17:36:55,2016-01-08
+29,Rankin Victoire G,Member of a Group,P - Purchase,NC,$42.50,"+3,699","+$157,212","410,392",+1%,2016-01-11 17:35:58,2016-01-08
+30,Walker Ray N Jr,"EVP, COO",S - Sale,RRC,$25.75,"-2,500","-$64,375","165,894",-1%,2016-01-11 17:35:50,2016-01-08
+31,Lewis Earl R,Dir,P - Purchase,HBIO,$3.28,"+27,221","+$89,285","389,800",+8%,2016-01-11 17:35:47,2015-12-02
+32,Rankin Alison A,Member of a group,P - Purchase,NC,$42.50,+308,"+$13,091","184,562",0%,2016-01-11 17:34:38,2016-01-08
+33,Manny Roger S,"EVP, CFO",S - Sale,RRC,$25.75,-633,"-$16,300","370,352",0%,2016-01-11 17:33:30,2016-01-08
+34,Rankin Roger F,Member of a group,P - Purchase,NC,$42.50,+308,"+$13,091","184,562",0%,2016-01-11 17:33:27,2016-01-08
+35,Rankin Alfred M Et Al,CEO,P - Purchase,NC,$42.50,"+3,699","+$157,212","410,392",+1%,2016-01-11 17:32:06,2016-01-08
+36,Butler John C Jr,"SrVP-Fin Treas, Chief Adm Off",P - Purchase,NC,$42.50,+617,"+$26,223","158,668",0%,2016-01-11 17:30:47,2016-01-08
+37,Rankin Bruce T,Member of a group,P - Purchase,NC,$42.50,"+1,233","+$52,404","54,253",+2%,2016-01-11 17:29:21,2016-01-08
+38,Adest Meir,"VP, Core Technologies",S - Sale,SEDG,$27.92,"-2,574","-$71,877","425,454",-1%,2016-01-11 17:20:33,2015-01-07
+39,"Biglari, Sardar","COB, CEO, 10%",P - Purchase,BH,$329.32,"+2,961","+$975,125","1,018,838",0%,2016-01-11 17:19:46,2016-01-07
+40,Prince Edward M Jr.,"SVP, Corporate Development",S - Sale,NSR,$21.93,"-2,730","-$59,869",0,-100%,2016-01-11 17:18:11,2016-01-07
+41,Gallenberger Mark J,"Sr.VP, COO, CFO",P - Purchase,XCRA,$5.20,"+15,000","+$77,955","533,028",+3%,2016-01-11 17:13:48,2016-01-08
+42,Jordan Robert E,Dir,P - Purchase,TCS,$4.40,"+15,000","+$66,039","20,000",+300%,2016-01-11 17:09:06,2016-01-11
+43,Taylor Diana L,Dir,S - Sale,BID,$50.52,"-1,000","-$50,516",0,-100%,2016-01-11 17:08:50,2013-11-14
+44,Hastings Carl W,Chief Scientific Officer,P - Purchase,RELV,$0.62,"+8,065","+$5,000","598,791",+1%,2016-01-11 17:07:51,2016-01-08
+45,Hoch Louis A,"Pres, COO, 10%",S - Sale,PYDS,$2.03,-100,-$203,"2,457,893",0%,2016-01-11 17:02:55,2016-01-07
+46,Block Arthur R,"EVP, GC, Secretary",S - Sale+OE,CMCSA,$55.08,"-2,632","-$144,958","28,836",-8%,2016-01-11 17:01:15,2016-01-08
+47,Steel Excel Inc.,10%,S - Sale,FES,$0.25,"-52,750","-$13,188","3,597,592",-1%,2016-01-11 17:00:13,2016-01-07
+48,Filler James J,10%,P - Purchase,CNBKA,$42.70,+78,"+$3,331","489,925",0%,2016-01-11 16:59:00,2016-01-11
+49,Dougherty Neil,"SVP, CFO",S - Sale+OE,KEYS,$26.76,"-11,307","-$302,600","80,604",-12%,2016-01-11 16:57:30,2016-01-07
+50,"Coliseum Capital Management, LLC",10%,P - Purchase,UTI,$3.48,"+485,000","+$1,688,850","3,665,674",+15%,2016-01-11 16:48:53,2016-01-07
+51,Foehr Matthew W,Dir,P - Purchase,RTTR,$1.64,"+13,000","+$21,320","17,000",+325%,2016-01-11 16:40:36,2016-01-08
+52,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,JASN,$3.43,"+43,516","+$149,107","1,579,705",+3%,2016-01-11 16:30:13,2015-01-07
+53,Mower Clark M,"Pres, CEO",P - Purchase,FLXT,$0.08,"+20,000","+$1,513","695,000",+3%,2016-01-11 16:23:44,2016-01-05
+54,Rowland G Joyce,SVP,S - Sale,SRE,$88.20,"-11,428","-$1,007,950","17,754",-39%,2016-01-11 16:22:08,2016-01-11
+55,Turk Joseph E Jr,Pres,S - Sale+OE,NXTM,$21.03,"-1,500","-$31,545","110,663",-1%,2016-01-11 16:21:13,2016-01-08
+56,Towse Matthew W,"SVP, Chief Financial Office",S - Sale+OE,NXTM,$20.40,"-3,472","-$70,829","12,947",-21%,2016-01-11 16:21:09,2016-01-11
+57,Celgene Corp /de/,10%,P - Purchase,XLRN,$40.00,"+800,000","+$32,000,000","5,372,887",+17%,2016-01-11 16:17:51,2016-01-11
+58,Shoquist Debora,"EVP, Operations",S - Sale+OE,NVDA,$30.36,"-98,226","-$2,982,151","315,809",-24%,2016-01-11 16:10:27,2016-01-07
+59,Patel Paresh,CEO,P - Purchase,HCI,$31.76,"+1,000","+$31,759","867,939",0%,2016-01-11 16:08:19,2016-01-08
+60,Stiefler Jeffrey E,Dir,S - Sale,VNTV,$47.41,"-2,271","-$107,668","22,722",-9%,2016-01-11 16:08:16,2016-01-08
+61,Abbott John,Dir,S - Sale+OE,MEET,$4.01,"-210,000","-$843,086","127,500",-62%,2016-01-11 16:02:34,2016-01-07
+62,Watson David Hibbert,"SVP, CFO",P - Purchase,AGX,$29.18,+350,"+$10,213","1,350",+35%,2016-01-11 15:44:21,2016-01-08
+63,Austin Roxanne S,Dir,S - Sale+OE,TGT,$75.03,"-3,706","-$278,073","29,627",-11%,2016-01-11 15:39:39,2016-01-07
+64,Edman Thomas T,"Pres, CEO",S - Sale,TTMI,$5.66,"-6,449","-$36,512","154,983",-4%,2016-01-11 15:20:31,2016-01-08
+65,Gerencser Charles Neale,CHIEF REVENUE OFFICER,P - Purchase,SSPC,$0.59,"+14,250","+$8,413","32,000",+80%,2016-01-11 15:14:20,2015-02-03
+66,Hanson Bryan C,"EVP, Pres Min Invas Therapies",S - Sale,MDT,$75.00,"-5,000","-$375,000","106,514",-4%,2016-01-11 15:14:08,2016-01-08
+67,Washburn Halbert S,CEO,P - Purchase,BBEP,$0.68,"+35,710","+$24,104","35,710",New,2016-01-11 14:52:14,2016-01-07
+68,Brown Gregory C,"EVP, Gen. Counsel, CAO",P - Purchase,BBEP,$0.67,"+30,000","+$20,106","432,374",+7%,2016-01-11 14:51:56,2016-01-08
+69,Fisher Jan E,Dir,P - Purchase,CZNC,$20.39,+305,"+$6,219","11,546",+3%,2016-01-11 14:39:34,2016-01-08
+70,Schools Timothy Kyle,CEO,P - Purchase,HBKA,$4.25,"+235,294","+$1,000,000","235,294",New,2016-01-11 14:28:06,2016-01-08
+71,Defeo Ronald M,Former Chairman and CEO,P - Purchase,TEX,$17.19,+67,"+$1,152","1,518,292",0%,2016-01-11 14:25:32,2016-01-07
+72,Ellis George,"Pres, Construction",P - Purchase,TEX,$17.19,+54,+$928,"241,350",0%,2016-01-11 14:24:53,2016-01-07
+73,Henry Brian J,"SVP Finance, Bus Development",P - Purchase,TEX,$17.19,+134,"+$2,303","297,066",0%,2016-01-11 14:24:30,2016-01-07
+74,Lousberg Kenneth D.,"Pres, Terex Cranes",P - Purchase,TEX,$17.19,+100,"+$1,719","106,893",0%,2016-01-11 14:23:57,2016-01-07
+75,Bradley Kevin,"SVP, CFO",P - Purchase,TEX,$17.19,+67,"+$1,152","204,516",0%,2016-01-11 14:23:25,2016-01-07
+76,Barr Kevin A,Senior V. P. HR,P - Purchase,TEX,$17.19,+13,+$223,"141,253",0%,2016-01-11 14:22:54,2016-01-07
+77,Leader Martin R,Dir,S - Sale,SBGI,$30.71,"-1,000","-$30,712","62,794",-2%,2016-01-11 14:09:18,2016-01-08
+78,Fortunato Joe,Dir,P - Purchase,MFRM,$41.21,"+5,000","+$206,050","12,215",+69%,2016-01-11 13:45:05,2016-01-08
+79,Niland Barbara A,"Corp VP, CFO",S - Sale,HII,$130.00,"-20,261","-$2,633,930","47,973",-30%,2016-01-11 13:41:03,2016-01-08
+80,"Esw Capital, LLC",10%,P - Purchase,UPLD,$6.82,"+7,500","+$51,158","4,128,212",0%,2016-01-11 13:35:25,2016-01-07
+81,Morlock Stephen,Dir,P - Purchase,BPMX,$1.47,"+5,000","+$7,350","233,071",+2%,2016-01-11 13:06:42,2016-01-07
+82,"Mangrove Partners Master Fund, Ltd.",10%,P - Purchase,ASFI,$7.73,"+2,800","+$21,654","1,485,345",0%,2016-01-11 12:57:34,2016-01-08
+83,Tasman Norman,Dir,P - Purchase,SYBT,$36.72,+20,+$730,"245,156",0%,2016-01-11 12:13:11,2016-01-07
+84,Simon Nicholas X,Dir,P - Purchase,SYBT,$36.72,+20,+$730,"56,948",0%,2016-01-11 12:10:21,2016-01-07
+85,Priebe Stephen M,Dir,P - Purchase,SYBT,$36.72,+20,+$730,"7,933",0%,2016-01-11 12:06:47,2016-01-07
+86,Northern Richard,Dir,P - Purchase,SYBT,$36.72,+20,+$730,"25,102",0%,2016-01-11 12:04:00,2016-01-07
+87,Herde Carl G,Dir,P - Purchase,SYBT,$36.72,+20,+$730,"25,939",0%,2016-01-11 12:00:35,2016-01-07
+88,Gutin Boris,Dir,P - Purchase,EVBS,$6.78,"+2,500","+$16,950","1,120,135",0%,2016-01-11 11:56:20,2016-01-08
+89,Edinger Charles R III,Dir,P - Purchase,SYBT,$36.72,+20,+$730,"216,777",0%,2016-01-11 11:56:16,2016-01-07
+90,Ebrahimi Farhad Fred,10%,P - Purchase,NNUTU,$3.15,"+10,000","+$31,500","7,336,821",0%,2016-01-11 11:44:47,2016-01-08
+91,Rogers William H Jr,"COB, CEO",P - Purchase,STI,$0.00,"+2,610",+$0,"223,468",+1%,2016-01-11 11:40:49,2015-08-26
+92,Vollers Robert D,Dir,P - Purchase,MSBF,$12.67,"+6,828","+$86,492","20,919",+48%,2016-01-11 11:19:46,2016-01-08
+93,Barnes Michael Gene,"Exec COB, 10%",P - Purchase,TIPT,$5.73,"+4,500","+$25,805","3,319,270",0%,2016-01-11 10:51:46,2016-01-07
+94,Estate of Perry Sumas,Member of group 10% owner,S - Sale,VLGEA,$25.42,"-5,558","-$141,298","748,425",-1%,2016-01-11 10:29:13,2016-01-05
+95,Gregory Richard J.,"EVP, CSO",S - Sale,IMGN,$11.10,"-2,369","-$26,305","22,631",-9%,2016-01-11 10:03:25,2016-01-08
+96,Solomon Aaron,Interim CFO,P - Purchase,IDI,$6.06,+250,"+$1,515","53,250",0%,2016-01-11 09:15:13,2016-01-08
+97,O'Keeffe Charles B,Dir,P - Purchase,CPRX,$1.94,"+5,000","+$9,685","377,126",+1%,2016-01-11 09:03:36,2016-01-08
+98,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,BSX,$17.67,"-7,160","-$126,549","303,776",-2%,2016-01-11 08:53:48,2016-01-08
+99,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale,BSX,$17.67,"-18,221","-$322,045","91,400",-17%,2016-01-11 08:53:46,2016-01-08
+100,Langan Eric Scott,"Pres, CEO",P - Purchase,RICK,$9.28,"+4,000","+$37,115","700,424",+1%,2016-01-11 08:25:15,2016-01-08
+101,Bvf Partners L P/il,10%,P - Purchase,CTIC,$1.22,"+1,001,327","+$1,218,715","20,353,944",+5%,2016-01-11 08:17:38,2016-01-07
+102,Frost Phillip Md Et Al,"Dir, 10%",P - Purchase,LTS,$2.44,"+10,000","+$24,396","56,614,630",0%,2016-01-11 08:12:50,2016-01-08
+103,Frost Phillip Md Et Al,"CEO, COB, 10%",P - Purchase,OPK,$8.79,"+10,000","+$87,898","181,718,856",0%,2016-01-11 07:27:15,2016-01-08

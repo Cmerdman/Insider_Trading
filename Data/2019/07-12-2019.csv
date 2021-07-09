@@ -1,0 +1,211 @@
+,Insider_Name,Insider_Title,Buy_or_Sell,Ticker,Price,Quantity,Value,Number_Owned,Change_in_Number_Owned,Filing_Date,Trade_Date
+0,Hissong Joseph,SVP,S - Sale,ESNT,$48.34,"-19,886","-$961,289","57,519",-26%,2019-07-12 21:17:11,2019-07-10
+1,Anderson Brian P,Dir,S - Sale,PHM,$33.03,"-21,191","-$699,860","66,078",-24%,2019-07-12 21:01:03,2019-07-12
+2,Vintage Capital Management LLC,10%,P - Purchase,TAXA,$12.00,"+6,910,944","+$82,931,327","8,986,095",+333%,2019-07-12 20:54:18,2019-07-10
+3,Johnson Paul T,"EVP OF SALES, SERVICES",S - Sale,VCRA,$29.32,"-1,000","-$29,320","136,999",-1%,2019-07-12 20:15:00,2019-07-12
+4,O'Keefe Sharon,Dir,S - Sale+OE,VCRA,$29.60,"-4,000","-$118,389","42,060",-9%,2019-07-12 20:13:54,2019-07-11
+5,Stack David M,Dir,S - Sale+OE,AMRN,$22.28,"-51,991","-$1,158,354",0,-100%,2019-07-12 20:03:50,2019-07-11
+6,Haley Patrick J.,"SVP, Commercial",S - Sale,EXEL,$20.96,"-1,000","-$20,960","121,640",-1%,2019-07-12 19:53:37,2019-07-10
+7,Malik Fady Ibraham,"EVP Research, Development",S - Sale,CYTK,$11.26,"-1,500","-$16,890","126,567",-1%,2019-07-12 19:41:23,2019-07-11
+8,Bw Group Ltd,10%,S - Sale,LPG,$9.72,"-87,466","-$849,888","6,579,094",-1%,2019-07-12 19:38:14,2019-07-10
+9,Reed Christopher J,CIO,S - Sale,REED,$3.34,"-13,179","-$44,062","1,499,571",-1%,2019-07-12 19:31:03,2019-07-11
+10,Keeton Ryan S.,Chief Brand Officer,S - Sale+OE,CVNA,$67.66,"-9,000","-$608,940","25,683",-26%,2019-07-12 19:27:44,2019-07-10
+11,Gill Daniel J.,Chief Product Officer,S - Sale+OE,CVNA,$67.65,"-12,500","-$845,625","23,183",-35%,2019-07-12 19:27:23,2019-07-10
+12,Sipes David,COO,S - Sale+OE,RNG,$123.07,"-9,589","-$1,180,123","254,472",-4%,2019-07-12 19:14:45,2019-07-10
+13,Shandell Jason B.,"Pres, GC",S - Sale,AMPH,$20.31,"-6,615","-$134,333","154,443",-4%,2019-07-12 19:05:07,2019-07-10
+14,Woodford Brent,"EVP, Control, Fin Plan, Tax",S - Sale+OE,DIS,$144.25,"-2,000","-$288,500","33,060",-6%,2019-07-12 19:03:28,2019-07-11
+15,Milliken Darren J.,"SVP, GC, Corp Compliance Ofcr",S - Sale+OE,FSCT,$38.22,"-3,870","-$147,908","46,018",-8%,2019-07-12 19:01:12,2019-07-12
+16,Jassy Andrew R,CEO Amazon Web Services,S - Sale,AMZN,"$2,000.00","-7,308","-$14,616,000","93,104",-7%,2019-07-12 18:58:24,2019-07-10
+17,Aldrich David J,Dir,S - Sale+OE,SWKS,$79.34,"-5,000","-$396,700","223,371",-2%,2019-07-12 18:58:20,2019-07-12
+18,Zapolsky David,SVP,S - Sale,AMZN,"$2,000.00",-763,"-$1,526,000","2,698",-22%,2019-07-12 18:51:56,2019-07-10
+19,Helms Thomas F. Jr.,Dir,S - Sale,SDI,$20.25,"-15,000","-$303,811","149,995",-9%,2019-07-12 18:49:36,2019-07-10
+20,Labrucherie Gil M,"SVP, CFO",S - Sale+OE,NKTR,$34.57,"-25,000","-$864,250","127,935",-16%,2019-07-12 18:31:26,2019-07-10
+21,Flatley Jay T,Dir,S - Sale,ILMN,$376.50,"-3,300","-$1,242,450","276,616",-1%,2019-07-12 18:19:46,2019-07-10
+22,Shaughnessy James P,"SVP, GC, Secty",S - Sale,WDAY,$219.32,"-1,500","-$328,980","76,680",-2%,2019-07-12 18:17:28,2019-07-10
+23,Nevens Thomas Michael,Dir,S - Sale,CIEN,$43.40,"-2,000","-$86,800","36,675",-5%,2019-07-12 17:59:31,2019-07-11
+24,Sciammas Maurice,"SVPof Sales, Marketing",S - Sale,MPWR,$140.75,"-2,001","-$281,638","387,487",-1%,2019-07-12 17:48:13,2019-07-10
+25,Steele Gary,CEO,S - Sale,PFPT,$123.79,"-20,000","-$2,475,820","91,374",-18%,2019-07-12 17:45:27,2019-07-11
+26,Mader Mark Patrick,"Pres, CEO",S - Sale+OE,SMAR,$53.09,"-40,000","-$2,123,692","155,003",-21%,2019-07-12 17:44:02,2019-07-10
+27,Knight David,"EVP Product Mgmnt, Marketing",S - Sale,PFPT,$123.67,"-8,500","-$1,051,165","7,130",-54%,2019-07-12 17:43:55,2019-07-11
+28,Hansen Brian B,"EVP, CHIEF COMMERCIAL OFFICER",S - Sale+OE,TNDM,$70.04,"-13,031","-$912,691","2,991",-81%,2019-07-12 17:43:22,2019-07-11
+29,Porrini Paul,"GC, GC",S - Sale+OE,SMAR,$53.52,"-20,000","-$1,070,456","2,363",-89%,2019-07-12 17:41:41,2019-07-10
+30,Farrell Eugene,Chief Product Officer,S - Sale+OE,SMAR,$53.30,"-4,056","-$216,194","24,319",-14%,2019-07-12 17:39:39,2019-07-11
+31,Diorio Chris Ph.D.,CEO,S - Sale,PI,$35.00,"-4,200","-$147,000","981,277",0%,2019-07-12 17:21:11,2019-07-11
+32,Williams Steven C,"CEO, PFNA",S - Sale,PEP,$133.95,"-2,420","-$324,170","55,274",-4%,2019-07-12 17:18:42,2019-07-11
+33,Doane W Allen Jr,Dir,S - Sale,ALEX,$23.49,"-10,000","-$234,868","49,916",-17%,2019-07-12 17:17:52,2019-07-10
+34,Young Caroline,Dir,P - Purchase,CPIX,$6.23,"+1,554","+$9,677","5,554",+39%,2019-07-12 17:17:06,2019-04-05
+35,Bernard Gordon R,Dir,S - Sale,CPIX,$6.28,"-14,376","-$90,286","60,573",-19%,2019-07-12 17:16:03,2019-06-27
+36,"Brigade Capital Management, LP",10%,S - Sale,LBY,$1.75,"-320,000","-$560,714","6,470,000",-5%,2019-07-12 17:14:40,2019-07-10
+37,Gallagher Maurice J Jr,"CEO, COB, 10%",S - Sale,ALGT,$148.18,"-10,778","-$1,597,026","2,910,176",0%,2019-07-12 17:07:27,2019-07-12
+38,Anderson Keith A,Dir,S - Sale,SKY,$27.13,"-46,500","-$1,261,635","915,686",-5%,2019-07-12 17:06:50,2019-07-10
+39,Miller Brian,Dir,S - Sale+OE,INSG,$4.80,"-3,900,000","-$18,720,000","6,462,078",-38%,2019-07-12 17:01:32,2019-07-10
+40,Henderson Cal,CTO,S - Sale,WORK,$35.45,"-1,500","-$53,175","229,000",-1%,2019-07-12 17:00:55,2019-07-10
+41,Dixon Tom Christopher,CTO,S - Sale,YEXT,$20.64,"-10,000","-$206,398","241,672",-4%,2019-07-12 17:00:45,2019-07-11
+42,Butterfield Stewart,CEO,S - Sale,WORK,$35.38,"-2,500","-$88,460","127,755",-2%,2019-07-12 17:00:38,2019-07-10
+43,Lerman Howard,CEO,S - Sale,YEXT,$20.65,"-30,000","-$619,416","4,309,427",-1%,2019-07-12 17:00:28,2019-07-11
+44,Distelburger Brian,Pres,S - Sale,YEXT,$20.76,"-10,000","-$207,573","3,897,657",0%,2019-07-12 17:00:12,2019-07-10
+45,Jones Serena,"Member of 10% owner group, 10%",S - Sale+OE,GSHD,$46.14,"-2,415","-$111,424","1,025,394",0%,2019-07-12 16:56:51,2019-07-11
+46,Colby Michael C.,"Pres, COO",S - Sale+OE,GSHD,$46.11,"-4,431","-$204,312","2,017,323",0%,2019-07-12 16:55:55,2019-07-11
+47,Jones Robyn Mary Elizabeth,"Member of 10% owner group, 10%",S - Sale,GSHD,$46.11,"-12,374","-$570,548","1,953,735",-1%,2019-07-12 16:55:13,2019-07-11
+48,Jones Mark Evan,"CEO, 10%",S - Sale,GSHD,$46.11,"-12,374","-$570,548","1,945,162",-1%,2019-07-12 16:54:32,2019-07-11
+49,Mark & Robyn Jones Descendants Trust 2014,"Member of 10% owner group, 10%",S - Sale,GSHD,$46.11,"-12,374","-$570,548","1,195,845",-1%,2019-07-12 16:53:50,2019-07-11
+50,Benton Barry G,"SVP, GC",S - Sale+OE,QTWO,$80.00,"-3,469","-$277,520","37,024",-9%,2019-07-12 16:51:43,2019-07-10
+51,"Riverstone/carlyle Energy Partners Iv, L.P.","Dir, 10%",S - Sale+OE,LBRT,$14.61,"-8,000,000","-$116,880,000","27,807,873",-22%,2019-07-12 16:48:09,2019-07-11
+52,Canty Kevin M.,COO,S - Sale,ICHR,$23.35,"-1,000","-$23,350","49,511",-2%,2019-07-12 16:47:51,2019-07-10
+53,Faltemier Sharon K,SVP HR,S - Sale,SMTC,$48.84,"-4,000","-$195,346","33,276",-11%,2019-07-12 16:46:22,2019-07-12
+54,Fulton Alisair,"VP, GM",S - Sale,SMTC,$49.38,"-1,500","-$74,070",382,-80%,2019-07-12 16:45:18,2019-07-12
+55,Gottesfeld Stephen P,"EVP, Chief S, EA Officer",S - Sale,NEM,$39.00,"-3,500","-$136,500","204,404",-2%,2019-07-12 16:44:22,2019-07-10
+56,Engel E Randall,"EVP, Strategic Development",S - Sale,NEM,$39.00,"-3,500","-$136,500","312,219",-1%,2019-07-12 16:43:52,2019-07-10
+57,Lipson Nancy,"EVP, GC",S - Sale,NEM,$39.00,"-5,055","-$197,145","27,825",-15%,2019-07-12 16:43:30,2019-07-10
+58,Melito David P,See Remarks,S - Sale,SYF,$36.00,"-3,204","-$115,344","23,567",-12%,2019-07-12 16:39:26,2019-07-10
+59,Fain Richard D,"COB, CEO",S - Sale+OE,RCL,$110.22,"-20,000","-$2,204,349","1,125,745",-2%,2019-07-12 16:32:28,2019-07-11
+60,Geschke John,"CLO, SVP Administration",S - Sale+OE,ZEN,$93.93,"-1,500","-$140,901","20,568",-7%,2019-07-12 16:27:59,2019-07-11
+61,Neff Thomas B,CEO,S - Sale+OE,FGEN,$44.97,"-39,636","-$1,782,614","2,529,700",-2%,2019-07-12 16:27:04,2019-07-10
+62,Krohn Tracy W,"COB, CEO, Pres, 10%",P - Purchase,WTI,$4.65,"+15,000","+$69,750","46,012,298",0%,2019-07-12 16:24:21,2019-07-10
+63,Chung Christine,"SVP, China Operations",S - Sale+OE,FGEN,$44.97,"-11,250","-$505,868","151,570",-7%,2019-07-12 16:23:59,2019-07-10
+64,Scelfo John J,Dir,S - Sale,PED,$1.88,"-9,000","-$16,920","11,000",-45%,2019-07-12 16:20:20,2019-07-12
+65,Rishe Bryan,"SVP, Sales",S - Sale+OE,TCMD,$55.27,"-4,813","-$265,995","45,862",-9%,2019-07-12 16:19:44,2019-07-10
+66,Surdykowski Andrew J,GC,S - Sale,ICE,$90.00,"-1,000","-$90,000","39,026",-2%,2019-07-12 16:19:16,2019-07-10
+67,Kummeth Charles R.,CEO,S - Sale+OE,TECH,$213.12,"-16,969","-$3,616,428","92,176",-16%,2019-07-12 16:18:28,2019-07-10
+68,Hill Scott A,CFO,S - Sale+OE,ICE,$90.06,"-33,875","-$3,050,783","146,920",-19%,2019-07-12 16:18:00,2019-07-10
+69,Schwab Susan C,Dir,S - Sale+OE,FDX,$160.00,"-6,440","-$1,030,400","4,812",-57%,2019-07-12 16:15:48,2019-07-11
+70,Bozigian Haig P.,CHIEF DEVELOPMENT OFFICER,S - Sale+OE,NBIX,$87.63,"-7,220","-$632,717","141,976",-5%,2019-07-12 16:15:18,2019-07-10
+71,Vanderploeg Martin J,"Pres, CEO, 10%",S - Sale+OE,WK,$60.80,"-25,000","-$1,520,000","639,918",-4%,2019-07-12 16:14:48,2019-07-10
+72,Walsh Paul S,Dir,S - Sale+OE,FDX,$161.88,"-4,440","-$718,753","12,000",-27%,2019-07-12 16:14:29,2019-07-11
+73,Mossman Benjamin,"CEO, Pres",P - Purchase,RYES,$0.07,"+714,286","+$50,000","1,628,286",+78%,2019-07-12 16:13:52,2019-07-03
+74,Duffy Michael P,"SVP, GC",S - Sale,LNTH,$28.14,"-8,819","-$248,167","144,494",-6%,2019-07-12 16:13:39,2019-07-10
+75,Klein Lawrence Otto,Chief Business Officer,S - Sale+OE,CRSP,$50.02,"-20,000","-$1,000,353","20,000",-50%,2019-07-12 16:13:30,2019-07-10
+76,"Biglari, Sardar",10%,S - Sale,CBRL,$174.46,"-75,910","-$13,243,041","2,491,094",-3%,2019-07-12 16:12:20,2019-07-10
+77,Duda Kenneth,"CTO, SVP Software Eng.",S - Sale,ANET,$271.29,"-10,874","-$2,949,961","944,434",-1%,2019-07-12 16:11:06,2019-07-10
+78,Novak Rodger,Pres,S - Sale,CRSP,$50.00,"-50,000","-$2,500,065","848,007",-6%,2019-07-12 16:10:23,2019-07-10
+79,Gaehde Nicholas C,Co-Pres,S - Sale,RST,$22.69,"-2,500","-$56,725","66,642",-4%,2019-07-12 16:09:14,2019-07-10
+80,Dreyer Scott,"EVP, Chief Commercial Officer",S - Sale,COLL,$12.31,"-2,857","-$35,170","37,739",-7%,2019-07-12 16:08:47,2019-07-11
+81,Zaucha Laurie L.,VP,S - Sale+OE,PAYX,$85.33,-151,"-$12,885","42,405",0%,2019-07-12 16:08:22,2019-07-11
+82,Norrington Lorrie M,Dir,S - Sale+OE,HUBS,$178.10,"-28,333","-$5,046,175","2,346",-92%,2019-07-12 16:07:31,2019-07-11
+83,Schaeffer Stephanie L,"CLO, Secretary",S - Sale+OE,PAYX,$85.33,-217,"-$18,517","51,632",0%,2019-07-12 16:05:50,2019-07-11
+84,Markison Brian A,Dir,S - Sale,LNTH,$28.07,"-4,918","-$138,048","27,549",-15%,2019-07-12 16:05:34,2019-07-10
+85,Siu Christine,"CFO, Secretary",S - Sale+OE,EIDX,$39.37,"-5,000","-$196,850","36,470",-12%,2019-07-12 16:05:23,2019-07-10
+86,Leung Gabriel,Dir,S - Sale+OE,NVCR,$64.83,"-5,000","-$324,155","69,504",-7%,2019-07-12 16:04:57,2019-07-10
+87,Gualberto Antonio,"Head of Development, CMO",S - Sale+OE,KURA,$21.11,"-18,000","-$379,903","339,973",-5%,2019-07-12 16:04:43,2019-07-10
+88,Mathews Michael,CEO,P - Purchase,ASPU,$4.69,"+5,330","+$24,986","562,589",+1%,2019-07-12 16:04:29,2019-07-10
+89,Hadley Philip A,Dir,S - Sale,FDS,$291.48,"-42,600","-$12,417,229","567,368",-7%,2019-07-12 16:03:46,2019-07-10
+90,Mucci Martin,"CEO, Pres",S - Sale+OE,PAYX,$85.33,"-2,456","-$209,570","338,008",-1%,2019-07-12 16:02:29,2019-07-11
+91,Daly Brian G,Principal Accounting Officer,S - Sale+OE,FDS,$294.17,-473,"-$139,142",262,-64%,2019-07-12 16:02:22,2019-07-11
+92,Mathes Rainer,"Pres, Cision Insights",S - Sale,CISN,$10.95,"-15,662","-$171,499","1,651,287",-1%,2019-07-12 16:02:00,2019-07-10
+93,Gioja Michael E,SVP,S - Sale+OE,PAYX,$85.33,-434,"-$37,033","71,134",-1%,2019-07-12 15:59:13,2019-07-11
+94,Gibson John B,"SVP, Service",S - Sale+OE,PAYX,$85.33,-301,"-$25,684","33,571",-1%,2019-07-12 15:57:46,2019-07-11
+95,Bottini Mark Anthony,SVP of Sales,S - Sale+OE,PAYX,$85.33,-248,"-$21,162","64,018",0%,2019-07-12 15:56:28,2019-07-11
+96,Bergwall Timothy,"SVP, Division Pres, PP",P - Purchase,GEF,$33.55,+500,"+$16,775","20,287",+3%,2019-07-12 15:55:59,2019-07-10
+97,Shipley Kenneth E,"CEO, 10%",S - Sale,LEGH,$12.87,-501,"-$6,448","3,390,333",0%,2019-07-12 15:48:22,2019-07-11
+98,Shipley Douglas M,10%,S - Sale,LEGH,$12.87,-500,"-$6,435","3,290,804",0%,2019-07-12 15:46:37,2019-07-11
+99,Hodgson Curtis Drew,"Chairman of the Board, 10%",S - Sale,LEGH,$12.87,-530,"-$6,821","8,799,304",0%,2019-07-12 15:45:37,2019-07-11
+100,Evangelista Paul A,EVP,P - Purchase,CNBKA,$152.32,+0,+$58,"7,968",0%,2019-07-12 15:45:36,2019-07-12
+101,Barnwell James S III,Dir,P - Purchase,BRN,$1.00,"+6,000","+$6,000","41,726",+17%,2019-07-12 15:45:35,2019-07-10
+102,Shipley William G,10%,S - Sale,LEGH,$12.87,-500,"-$6,435","3,290,380",0%,2019-07-12 15:44:22,2019-07-11
+103,Sloane Barry R,"CEO, Pres",P - Purchase,CNBKA,$152.32,+1,+$87,"4,866",0%,2019-07-12 15:43:04,2019-07-12
+104,Gardner Murray C,Dir,P - Purchase,BRN,$1.01,"+4,000","+$4,040","41,302",+11%,2019-07-12 15:41:58,2019-07-11
+105,West Michael J.,Dir,S - Sale,CNMF,$0.03,"-8,000,000","-$272,000","344,000",-96%,2019-07-12 15:36:39,2019-06-21
+106,"David Bh Williams, Trustee Uad the Margo Janison Victoire Williams 2004 Trust",member of a group,P - Purchase,HY,$53.92,+2,+$108,"14,238",0%,2019-07-12 15:23:17,2019-07-10
+107,Williams Margo J.V.,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"14,238",0%,2019-07-12 15:22:27,2019-07-10
+108,"David Bh Williams, Trustee Uad the Helen Charles Williams 2004 Trust",Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"14,239",0%,2019-07-12 15:21:34,2019-07-10
+109,Shaw Thomas J,"Pres, CEO, 10%",P - Purchase,RVP,$0.69,"+4,600","+$3,174","18,519,596",0%,2019-07-12 15:20:43,2019-07-10
+110,Williams Helen Charles,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"14,239",0%,2019-07-12 15:20:17,2019-07-10
+111,Williams David B,Member of a Group,P - Purchase,HY,$53.92,+281,"+$15,152","335,053",0%,2019-07-12 15:19:11,2019-07-10
+112,Williams Clara R,Member of a Group,P - Purchase,HY,$53.92,+281,"+$15,152","335,053",0%,2019-07-12 15:18:04,2019-07-10
+113,Btr 2012 Gst Trust For Clara R. Williams,Member of a Group,P - Purchase,HY,$53.92,+176,"+$9,490","5,363",+3%,2019-07-12 15:16:43,2019-07-10
+114,"Chloe R. Seelbach, Trustee Under Claiborne Rankin Trust For Children of Chloe R. Seelbach Dtd 12/21/04 Fbo Thomas Wilson Seelbach",Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"1,486",0%,2019-07-12 15:15:57,2019-07-10
+115,Seelbach Thomas Wilson,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"1,486",0%,2019-07-12 15:15:08,2019-07-10
+116,"Chloe R. Seelbach, Trustee Uad 2/2/05 the Taplin Elizabeth Seelbach Trust",Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"1,830",0%,2019-07-12 15:13:14,2019-07-10
+117,Seelbach Taplin E,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"1,830",0%,2019-07-12 15:10:50,2019-07-10
+118,Seelbach Scott W,Member of a Group,P - Purchase,HY,$53.90,+13,+$701,"25,021",0%,2019-07-12 15:10:00,2019-07-10
+119,"Chloe R. Seelbach, Trustee Under Claiborne Rankin Trust For Children of Chloe R. Seelbach Dtd 12/21/04 Fbo Isabelle Scott Seelbach",Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"1,830",0%,2019-07-12 15:09:06,2019-07-10
+120,Seelbach Isabelle,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"1,830",0%,2019-07-12 15:05:07,2019-07-10
+121,Seelbach Chloe R,Member of a Group,P - Purchase,HY,$53.90,+13,+$701,"25,021",0%,2019-07-12 15:00:51,2019-07-10
+122,"Matthew M. Rankin & James T. Rankin Co-Trustees For William Alexander Rankin U/a/d May 10, 2007",Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"2,909",0%,2019-07-12 14:59:29,2019-07-10
+123,Rankin William A,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"2,909",0%,2019-07-12 14:58:23,2019-07-10
+124,"Trust Dated January 11, 1965, Pnc Bank & Alfred M. Rankin, Jr. As Co-Trustees, For the Benefit of Grandchildren",member of a group,P - Purchase,HY,$52.81,"+2,362","+$124,749","20,987",+13%,2019-07-12 14:56:54,2019-06-13
+125,Rankin Victoire G,Member of a Group,P - Purchase,HY,$53.84,"+3,077","+$165,663","693,044",0%,2019-07-12 14:55:23,2019-07-11
+126,Rankin Victoire G,Member of a Group,P - Purchase,HY,$53.87,+667,"+$35,932","692,863",0%,2019-07-12 14:53:42,2019-07-10
+127,Rankin Victoire G,Member of a Group,P - Purchase,HY,$53.99,"+4,160","+$224,594","689,308",+1%,2019-07-12 14:52:05,2019-07-10
+128,Rankin Thomas T,Member of a Group,P - Purchase,HY,$53.92,+316,"+$17,040","402,088",0%,2019-07-12 14:50:12,2019-07-10
+129,Rankin Thomas Parker,Member of a Group,P - Purchase,HY,$53.90,+8,+$431,"27,865",0%,2019-07-12 14:49:03,2019-07-10
+130,Rankin Roger F,Member of a Group,P - Purchase,HY,$53.84,+47,"+$2,530","513,004",0%,2019-07-12 14:47:36,2019-07-11
+131,Rankin Roger F,Member of a Group,P - Purchase,HY,$53.84,+539,"+$29,019","512,963",0%,2019-07-12 14:46:27,2019-07-11
+132,Rankin Roger F,Member of a Group,P - Purchase,HY,$53.89,+394,"+$21,234","512,716",0%,2019-07-12 14:45:08,2019-07-10
+133,Rankin Roger F,Member of a Group,P - Purchase,HY,$53.99,+863,"+$46,592","512,036",0%,2019-07-12 14:43:48,2019-07-10
+134,Rankin Matthew M,Member of a Group,P - Purchase,HY,$53.91,+9,+$485,"30,442",0%,2019-07-12 14:42:14,2019-07-10
+135,"Matthew M Rankin & James T. Rankin Co-Trustees For Mary M. Rankin U/a/d May 10, 2007",member of a group,P - Purchase,HY,$53.92,+2,+$108,"3,139",0%,2019-07-12 14:41:12,2019-07-10
+136,Rankin Mary M,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"3,139",0%,2019-07-12 14:40:20,2019-07-10
+137,Vested Trust For Margaret Pollard Rankin,Member of a group,P - Purchase,HY,$53.92,+2,+$108,"1,395",0%,2019-07-12 14:39:28,2019-07-10
+138,Rankin Margaret Pollard,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"1,395",0%,2019-07-12 14:38:40,2019-07-10
+139,Rankin Lynne T,Member of a Group,P - Purchase,HY,$53.91,+13,+$701,"36,128",0%,2019-07-12 14:37:54,2019-07-10
+140,Rankin Lauran,Family Member of Group,P - Purchase,HY,$53.90,+7,+$377,"13,655",0%,2019-07-12 14:36:49,2019-07-10
+141,Rankin James T,Member of a Group,P - Purchase,HY,$53.91,+13,+$701,"36,128",0%,2019-07-12 14:35:32,2019-07-10
+142,"Vested Trust For James T. Rankin, Jr.",Member of a group,P - Purchase,HY,$53.92,+2,+$108,"1,203",0%,2019-07-12 14:34:32,2019-07-10
+143,Rankin Elizabeth B,Member of a Group,P - Purchase,HY,$53.91,+9,+$485,"29,808",0%,2019-07-12 14:33:38,2019-07-10
+144,"Alison A. Rankin, As Trustee Fbo Elisabeth M. Rankin Under Irrevocable Trust, Dated December 18, 1997, with Roger Rankin, Grantor",Member of a Group,P - Purchase,HY,$53.89,+3,+$162,"21,831",0%,2019-07-12 14:32:41,2019-07-10
+145,Rankin Elisabeth M,Member of a Group,P - Purchase,HY,$53.89,+3,+$162,"23,882",0%,2019-07-12 14:31:54,2019-07-10
+146,Rankin Corbin,Member of a Group,P - Purchase,HY,$53.92,+316,"+$17,040","402,078",0%,2019-07-12 14:29:57,2019-07-10
+147,"Trust Dated 1/1/1977, Pnc Bank & Alfred M. Rankin, Jr. As Co-Trustees & Clara L.T. Rankin, Fbo Clara L.T. Rankin",member of a group,P - Purchase,HY,$53.92,+931,"+$50,200","40,599",+2%,2019-07-12 14:28:50,2019-07-10
+148,Rankin Clara L T,Member of a Group,P - Purchase,HY,$53.92,+931,"+$50,200","40,599",+2%,2019-07-12 14:27:53,2019-07-10
+149,Claiborne Rankin Trust For Children of Claiborne Rankin Jr Fbo Claiborne Read Rankin III,Member of a group,P - Purchase,HY,$53.89,+3,+$162,"1,302",0%,2019-07-12 14:27:06,2019-07-10
+150,Rankin Claiborne R,Member of a Group,P - Purchase,HY,$53.84,+82,"+$4,415","386,202",0%,2019-07-12 14:23:50,2019-07-11
+151,Rankin Claiborne R,Member of a Group,P - Purchase,HY,$53.94,+462,"+$24,920","386,120",0%,2019-07-12 14:22:42,2019-07-10
+152,Rankin Chloe O,Member of a Group,P - Purchase,HY,$53.84,+82,"+$4,415","386,202",0%,2019-07-12 14:21:20,2019-07-11
+153,Rankin Chloe O,Member of a Group,P - Purchase,HY,$53.94,+462,"+$24,920","386,120",0%,2019-07-12 14:19:55,2019-07-10
+154,Btr 2012 Gst Trust For Elisabeth M. Rankin,Member of a Group,P - Purchase,HY,$53.92,+160,"+$8,628","5,269",+3%,2019-07-12 14:18:06,2019-07-10
+155,Btr 2012 Gst Trust For Anne F. Rankin,Member of a Group,P - Purchase,HY,$53.92,+160,"+$8,628","5,269",+3%,2019-07-12 14:17:14,2019-07-10
+156,"Trust Dated 9/28/2000 Between Alfred M. Rankin, Jr., As Trustee & Bruce T. Rankin, For the Benefit of Bruce T. Rankin",Member of a Group,P - Purchase,HY,$53.92,"+1,087","+$58,612","188,033",+1%,2019-07-12 14:16:21,2019-07-10
+157,Rankin Bruce T,Member of a Group,P - Purchase,HY,$53.92,"+1,087","+$58,612","188,033",+1%,2019-07-12 14:15:27,2019-07-10
+158,Rankin Alison A,Member of a Group,P - Purchase,HY,$53.84,+47,"+$2,530","512,814",0%,2019-07-12 14:14:27,2019-07-11
+159,Vahabzadeh Amir,"Dir, 10%",P - Purchase,LIVC,$0.05,"+25,000","+$1,275","4,179,400",+1%,2019-07-12 14:14:23,2019-07-10
+160,Rankin Alison A,Member of a Group,P - Purchase,HY,$53.84,+539,"+$29,019","513,308",0%,2019-07-12 14:10:11,2019-07-11
+161,Rankin Alison A,Member of a Group,P - Purchase,HY,$53.89,+394,"+$21,234","512,528",0%,2019-07-12 14:08:55,2019-07-10
+162,Rankin Alison A,Member of a Group,P - Purchase,HY,$53.99,+863,"+$46,592","512,381",0%,2019-07-12 14:07:37,2019-07-10
+163,Robinson James George,Dir,P - Purchase,NYMX,$1.73,"+7,000","+$12,104","3,510,550",0%,2019-07-12 14:07:25,2019-07-10
+164,Rankin Alfred M Et Al,COB,P - Purchase,HY,$53.84,"+3,159","+$170,078","693,044",0%,2019-07-12 14:06:17,2019-07-11
+165,Rankin Alfred M Et Al,COB,P - Purchase,HY,$53.88,+585,"+$31,517","692,902",0%,2019-07-12 14:04:35,2019-07-10
+166,Rankin Alfred M Et Al,COB,P - Purchase,HY,$53.99,"+4,160","+$224,594","689,308",+1%,2019-07-12 14:03:06,2019-07-10
+167,Rankin A Farnham,Member of a Group,P - Purchase,HY,$53.89,+3,+$162,"23,881",0%,2019-07-12 14:01:33,2019-07-10
+168,Anne Farnham Rankin Trust 8/15/2012,Member of a Group,P - Purchase,HY,$53.89,+3,+$162,"2,156",0%,2019-07-12 14:00:34,2019-07-10
+169,Rankin James T. Jr.,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"1,203",0%,2019-07-12 13:59:44,2019-07-10
+170,Rankin Claiborne R Jr,Member of a Group,P - Purchase,HY,$53.90,+7,+$377,"13,655",0%,2019-07-12 13:58:48,2019-07-10
+171,Rankin Claiborne Read III,Member of a Group,P - Purchase,HY,$53.89,+3,+$162,"1,302",0%,2019-07-12 13:57:54,2019-07-10
+172,Trust For Children of Julia Kuipers Fbo Matilda Alan Kuipers,Member of a group,P - Purchase,HY,$53.92,+2,+$108,"1,200",0%,2019-07-12 13:57:04,2019-07-10
+173,Kuipers Matilda Alan,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"1,200",0%,2019-07-12 13:56:02,2019-07-10
+174,"Trust Dated December 21, 2004, Between Claiborne R. Rankin, As Trustee, & Julia L. Rankin, Creating A Trust Fbo Julia L. Rankin",Member of a Group,P - Purchase,HY,$53.88,+4,+$216,"24,880",0%,2019-07-12 13:55:10,2019-07-10
+175,Rankin Julia L,Member of a Group,P - Purchase,HY,$53.89,+11,+$593,"27,666",0%,2019-07-12 13:54:09,2019-07-10
+176,Kuipers Jacob A,Member of a Group,P - Purchase,HY,$53.89,+11,+$593,"27,666",0%,2019-07-12 13:53:18,2019-07-10
+177,2013 Trust Fbo Evelyn R. Kuipers,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"1,345",0%,2019-07-12 13:52:28,2019-07-10
+178,Kuipers Evelyn R,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"1,345",0%,2019-07-12 13:51:37,2019-07-10
+179,Btr 2012 Gst Trust For Julia R. Kuipers,Member of a Group,P - Purchase,HY,$53.97,+7,+$378,"3,945",0%,2019-07-12 13:50:40,2019-07-10
+180,Butler Helen Rankin,Member of a Group,P - Purchase,HY,$53.92,+281,"+$15,152","363,164",0%,2019-07-12 13:49:53,2019-07-10
+181,Griffin Bedwell Butler 2002 Trust Dtd 11/5/2002,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"14,240",0%,2019-07-12 13:48:56,2019-07-10
+182,Butler Griffin B,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"14,240",0%,2019-07-12 13:48:05,2019-07-10
+183,Clara Rankin Butler 2002 Trust Dtd 11/5/2002,member of a group,P - Purchase,HY,$53.92,+2,+$108,"14,240",0%,2019-07-12 13:47:17,2019-07-10
+184,Butler Clara R,Member of a Group,P - Purchase,HY,$53.92,+2,+$108,"14,240",0%,2019-07-12 13:46:30,2019-07-10
+185,Btr 2012 Gst Trust For Helen R. Butler,Member of Group,P - Purchase,HY,$53.92,+176,"+$9,490","5,363",+3%,2019-07-12 13:45:42,2019-07-10
+186,Butler John C Jr,Member of a Group,P - Purchase,HY,$53.92,+281,"+$15,152","363,164",0%,2019-07-12 13:44:50,2019-07-10
+187,Werdann Michael A,SVP of Worldwide Sales,S - Sale+OE,NTGR,$26.03,"-2,234","-$58,151","15,547",-13%,2019-07-12 13:38:31,2019-07-10
+188,Saunders Thomas A,Dir,S - Sale,DLTR,$112.37,"-1,000","-$112,373","2,443,071",0%,2019-07-12 13:09:01,2019-07-11
+189,Sheehan John D,"SVP, CFO",P - Purchase,TEX,$29.66,+441,"+$13,080","216,353",0%,2019-07-12 13:02:42,2019-07-10
+190,Barr Kevin A,Senior V. P. HR,P - Purchase,TEX,$29.32,+8,+$235,"110,049",0%,2019-07-12 13:02:20,2019-07-10
+191,Henry Brian J,"SVP Finance, Bus Development",P - Purchase,TEX,$29.32,+78,"+$2,287","336,658",0%,2019-07-12 13:02:01,2019-07-10
+192,Ceiley Glen,"CEO, COB, 10%",S - Sale,EACO,$18.20,-550,"-$10,010","4,709,336",0%,2019-07-12 12:55:00,2019-07-10
+193,El-Hibri Fuad,"Dir, 10%",P - Purchase,APVO,$0.85,"+14,691","+$12,454","858,146",+2%,2019-07-12 12:41:48,2019-07-11
+194,Orban George,Dir,S - Sale,ROST,$102.50,"-1,000","-$102,500","5,580,723",0%,2019-07-12 12:07:13,2019-07-10
+195,Horizon Kinetics Asset Management LLC,10%,P - Purchase,TPL,$808.89,+49,"+$39,636","298,958",0%,2019-07-12 11:46:21,2019-07-11
+196,Hodges Paul E. III,Dir,S - Sale,HLIX,$1.00,"-2,000","-$2,000","917,000",0%,2019-07-12 11:40:33,2019-07-10
+197,Shipley Kenneth E,"CEO, 10%",S - Sale,LEGH,$12.85,-879,"-$11,295","3,390,834",0%,2019-07-12 11:22:21,2019-07-10
+198,Shipley Douglas M,10%,S - Sale,LEGH,$12.85,-900,"-$11,565","3,291,304",0%,2019-07-12 11:21:37,2019-07-10
+199,Hodgson Curtis Drew,"Chairman of the Board, 10%",S - Sale,LEGH,$12.85,-900,"-$11,565","8,799,834",0%,2019-07-12 11:20:52,2019-07-10
+200,Shipley William G,10%,S - Sale,LEGH,$12.85,-990,"-$12,722","3,290,880",0%,2019-07-12 11:19:22,2019-07-10
+201,Spero Vincent A,"EVP, Head of Comml Real Estate",S - Sale+OE,PGC,$28.26,"-3,000","-$84,786","62,095",-5%,2019-07-12 11:05:00,2019-07-10
+202,Babcock John P,"SEVP, Pres of Priv Wealth Mgt",S - Sale+OE,PGC,$28.30,"-2,000","-$56,591","60,881",-3%,2019-07-12 11:01:24,2019-07-10
+203,McClennen Peter A,Pres,S - Sale,TDOC,$70.00,"-9,670","-$676,900",0,-100%,2019-07-12 10:09:55,2019-07-10
+204,Levy Lewis,Chief Medical Officer,S - Sale+OE,TDOC,$70.00,"-2,700","-$189,000","4,380",-38%,2019-07-12 09:57:14,2019-07-10
+205,Christ George J,10%,S - Sale+OE,ALTR,$42.22,"-56,926","-$2,403,138",0,-100%,2019-07-12 08:36:23,2019-07-10
+206,Carrel Michael H,"Pres, CEO, Dir",S - Sale+OE,ATRC,$32.00,"-25,000","-$800,000","636,103",-4%,2019-07-12 08:30:22,2019-07-10
+207,Christ Revocable Trust,10%,S - Sale+OE,ALTR,$42.22,"-36,850","-$1,555,770",0,-100%,2019-07-12 08:22:05,2019-07-10
+208,Gc Investments LLC,10%,S - Sale+OE,ALTR,$42.21,"-20,076","-$847,368",0,-100%,2019-07-12 08:21:47,2019-07-10
+209,Tan Meng Dong,"Dir, 10%",P - Purchase,JFKKU,$0.00,"+18,750",+$0,"1,677,500",+1%,2019-07-12 06:10:20,2019-04-04

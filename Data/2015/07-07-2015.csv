@@ -1,0 +1,126 @@
+,Insider_Name,Insider_Title,Buy_or_Sell,Ticker,Price,Quantity,Value,Number_Owned,Change_in_Number_Owned,Filing_Date,Trade_Date
+0,Healy James,Dir,P - Purchase,NTRA,$22.81,"+400,000","+$9,123,800","400,000",New,2015-07-07 21:57:40,2015-07-02
+1,Stad Marc,10%,P - Purchase,APPF,$13.73,"+13,233","+$181,689","833,665",+2%,2015-07-07 21:40:48,2015-07-06
+2,Scovic Stephen A,Chief Revenue Officer,S - Sale+OE,TUBE,$13.87,"-10,000","-$138,673","45,349",-18%,2015-07-07 21:31:54,2015-07-06
+3,Shapiro David,"CMO, EVP - Development",S - Sale+OE,ICPT,$236.29,-851,"-$201,083","19,005",-4%,2015-07-07 21:00:57,2015-07-02
+4,Pruzanski Mark,"CEO, Pres",S - Sale+OE,ICPT,$236.26,-158,"-$37,328","507,014",0%,2015-07-07 21:00:28,2015-07-02
+5,Duncan Barbara Gayle,CFO,S - Sale+OE,ICPT,$236.26,-53,"-$12,522","18,768",0%,2015-07-07 21:00:13,2015-07-02
+6,Lampert Edward S,10%,P - Purchase,LE,$0.00,"+637,595",+$0,"14,827,651",+4%,2015-07-07 20:17:52,2015-07-02
+7,Lampert Edward S,"CEO, 10%",P - Purchase,SHLD,$0.00,"+2,119,706",+$0,"49,497,386",+4%,2015-07-07 20:15:27,2015-07-02
+8,Harris Parker,Co-Founder,S - Sale+OE,CRM,$69.48,"-5,000","-$347,401","2,068,991",0%,2015-07-07 20:10:07,2015-07-07
+9,Johnson Paul T,"EVP OF SALES, SERVICES",S - Sale,VCRA,$11.26,"-1,200","-$13,513","142,331",-1%,2015-07-07 20:03:24,2015-07-02
+10,Kintzel Joann,"Pres, TaxAct, Inc.",S - Sale,BCOR,$15.85,-425,"-$6,737","44,545",-1%,2015-07-07 20:01:28,2015-07-02
+11,Kintzel Joann,"Pres, TaxAct, Inc.",S - Sale,BCOR,$13.63,"-1,389","-$18,932","45,680",-3%,2015-07-07 19:57:15,2015-04-01
+12,Prince Edward M Jr.,"SVP, Information Services",S - Sale,NSR,$28.06,"-17,573","-$493,098","3,389",-84%,2015-07-07 19:56:20,2015-07-02
+13,Edwards Steve,"SVP, Carrier Services",S - Sale,NSR,$28.06,"-40,055","-$1,123,943","45,931",-47%,2015-07-07 19:53:30,2015-07-02
+14,Haggard Billie R.,"SVP, Data Centers",S - Sale+OE,COR,$46.59,"-5,000","-$232,950","43,986",-10%,2015-07-07 19:40:59,2015-07-02
+15,Emans Eric Michael,CFO,S - Sale,BCOR,$15.76,"-4,050","-$63,828","72,987",-5%,2015-07-07 19:38:44,2015-07-02
+16,Nader Tavakoli,Interim Chief Exec. Officer,P - Purchase,AMBC,$16.54,"+15,000","+$248,061","15,000",New,2015-07-07 19:21:23,2015-07-02
+17,Wynnefield Partners Small Cap Value LP,10%,P - Purchase,JASN,$6.47,"+9,800","+$63,440","1,303,551",+1%,2015-07-07 19:19:28,2015-07-02
+18,Yu K Peony,"VP, Clinical Development",S - Sale,FGEN,$22.69,"-5,381","-$122,097","204,654",-3%,2015-07-07 19:12:30,2015-07-06
+19,Walske Steven,Dir,S - Sale,SNPS,$49.77,"-6,709","-$333,905","23,565",-22%,2015-07-07 19:03:27,2015-07-06
+20,Westberg Paul,"SVP, Business Development",S - Sale+OE,VSAR,$15.00,"-2,400","-$36,000","20,578",-10%,2015-07-07 18:53:04,2015-07-06
+21,Carson Tom,"Pres, CEO",P - Purchase,ROVI,$15.88,"+10,000","+$158,800","248,493",+4%,2015-07-07 18:46:34,2015-07-06
+22,Missling Christopher U,"Pres, CEO, CFO, Treasurer",P - Purchase,AVXL,$0.49,"+2,000",+$979,"4,011,000",0%,2015-07-07 18:42:30,2015-07-06
+23,Coe Charles B,Dir,P - Purchase,DY,$64.14,"+2,500","+$160,350","61,504",+4%,2015-07-07 18:36:30,2015-07-02
+24,Behrent Matthew K,Dir,P - Purchase,TGC,$0.00,+0,+$0,"33,000",0%,2015-07-07 18:25:49,2010-04-08
+25,Xiao Deming,Pres of MPS Asia Operations,S - Sale,MPWR,$51.01,-82,"-$4,183","247,618",0%,2015-07-07 18:23:10,2015-07-06
+26,Xiao Deming,Pres of MPS Asia Operations,S - Sale,MPWR,$53.18,-146,"-$7,764","1,507",-9%,2015-07-07 18:21:55,2015-06-11
+27,McGorry James Joseph,"Pres, CEO",P - Purchase,HART,$4.21,"+30,000","+$126,400","30,000",New,2015-07-07 18:19:21,2014-04-10
+28,Hayes Robin,"CEO, Pres",S - Sale,JBLU,$20.68,"-5,000","-$103,394","292,841",-2%,2015-07-07 18:19:03,2015-07-06
+29,White Jonathan,"Chief Science, Technology",S - Sale,HAE,$41.14,"-2,385","-$98,119","25,620",-9%,2015-07-07 18:18:23,2015-07-02
+30,Finestone Mark A.,SVP,S - Sale+OE,AZO,$678.14,"-4,500","-$3,051,639","3,099",-59%,2015-07-07 18:18:15,2015-07-07
+31,Bartel Ralph,"Dir, 10%",P - Purchase,TZOO,$10.89,"+200,000","+$2,178,000","7,430,538",+3%,2015-07-07 18:15:42,2015-07-02
+32,McClellan Curtis D,"CFO, Treasurer",S - Sale,MYCC,$23.98,"-13,200","-$316,492","111,625",-11%,2015-07-07 18:13:59,2015-07-06
+33,Ralph Bartel 2005 Trust,10%,P - Purchase,TZOO,$10.89,"+200,000","+$2,178,000","7,430,538",+3%,2015-07-07 18:13:29,2015-07-02
+34,Bartel Holger,COB,S - Sale,TZOO,$10.89,"-200,000","-$2,178,000",0,-100%,2015-07-07 18:11:28,2015-07-02
+35,Whitfield Roy A,Dir,S - Sale+OE,ILMN,$218.11,"-4,500","-$981,478","13,648",-25%,2015-07-07 18:10:20,2015-07-06
+36,Azzurro Capital Inc,10%,P - Purchase,TZOO,$10.89,"+200,000","+$2,178,000","7,430,538",+3%,2015-07-07 18:09:15,2015-07-02
+37,Bush Jonathan,"CEO, Pres",S - Sale+OE,ATHN,$114.17,"-1,000","-$114,170","451,226",0%,2015-07-07 17:55:09,2015-07-02
+38,Lucy Patrick K.,Chief Business Officer,S - Sale,PFNX,$19.17,"-1,500","-$28,750","112,490",-1%,2015-07-07 17:33:42,2015-07-06
+39,"Polaris Venture Partners V, L.P.",10%,S - Sale,TTOO,$15.91,"-44,997","-$715,692","2,215,357",-2%,2015-07-07 17:31:08,2015-07-02
+40,Riggs Steven,VP Operations,S - Sale+OE,ICUI,$97.00,"-33,890","-$3,287,330","3,115",-92%,2015-07-07 17:30:47,2015-07-06
+41,Hook Thomas J,"Pres, CEO",S - Sale+OE,GB,$53.72,"-2,358","-$126,672","198,904",-1%,2015-07-07 17:27:10,2015-07-02
+42,McCourt Joseph E. Jr.,"EVP, Chief Revenue Officer",S - Sale+OE,LMOS,$14.48,"-3,000","-$43,440","47,584",-6%,2015-07-07 17:26:59,2015-07-06
+43,"Fundamental Global Investors, LLC","Dir, 10%",P - Purchase,RWC,$4.93,"+12,723","+$62,686","1,826,261",+1%,2015-07-07 17:25:39,2015-06-24
+44,Hanna Michael G Jr,"Dir, 10%",S - Sale,VGEN,$3.71,"-60,900","-$225,646","3,648,426",-2%,2015-07-07 17:24:37,2015-02-09
+45,Ervington Investments Ltd,10%,P - Purchase,PROP,$0.00,"+56,677,477",+$0,"64,302,467",+743%,2015-07-07 17:21:14,2015-07-06
+46,Ricci Paul,CEO,S - Sale+OE,NUAN,$16.65,"-541,700","-$9,017,117","2,240,730",-19%,2015-07-07 17:16:09,2015-07-06
+47,Ricci Paul,CEO,S - Sale,NUAN,$16.98,"-258,300","-$4,386,690","2,782,430",-8%,2015-07-07 17:15:44,2015-07-02
+48,Kirloskar Virendra A,"SVP, Chief Accounting Officer",S - Sale,KLAC,$56.73,-289,"-$16,395","24,084",-1%,2015-07-07 17:12:48,2015-07-02
+49,Higgins Bren D.,"EVP, CFO",S - Sale,KLAC,$56.73,-355,"-$20,139","30,052",-1%,2015-07-07 17:12:02,2015-07-02
+50,Chodakewitz Jeffrey,"EVP GMDA, CMO",S - Sale+OE,VRTX,$129.36,"-2,291","-$296,357","100,562",-2%,2015-07-07 17:11:46,2015-07-02
+51,Dupont Jakob,"SVP, Chief Medical Officer",S - Sale+OE,OMED,$21.22,"-2,500","-$53,050","22,377",-10%,2015-07-07 17:06:32,2015-07-06
+52,Rallo James M,"CFO, Treasurer, Pres RSCG",S - Sale+OE,LQDT,$9.34,"-3,054","-$28,524","32,794",-9%,2015-07-07 17:06:15,2015-07-05
+53,Rosenberger Karen,"EVP, CFO",S - Sale,SNCR,$45.16,-709,"-$32,018","34,609",-2%,2015-07-07 17:03:51,2015-07-06
+54,Antoun Georges,"Pres, US",S - Sale+OE,FSLR,$44.27,"-9,497","-$420,432","10,987",-46%,2015-07-07 17:01:31,2015-07-06
+55,Santilli Carla,"Dir, 10%",S - Sale,MNGA,$0.96,"-229,350","-$219,220","4,753,051",-5%,2015-07-07 17:00:49,2015-04-16
+56,Doran Patrick Joseph,"EVP, Chief Technology Office",S - Sale,SNCR,$45.08,-132,"-$5,951","25,637",-1%,2015-07-07 16:58:44,2015-07-06
+57,Oliver George,CEO,S - Sale+OE,TYC,$38.20,"-22,586","-$862,756","321,174",-7%,2015-07-07 16:55:05,2015-07-06
+58,Garcia Robert,Pres,S - Sale,SNCR,$45.08,-497,"-$22,405","84,122",-1%,2015-07-07 16:49:34,2015-07-06
+59,Mahon Janice K,VP of Tech Commercialization,S - Sale+OE,OLED,$51.07,"-20,000","-$1,021,400","48,465",-29%,2015-07-07 16:47:13,2015-07-06
+60,Roberts Charles S,"EVP, 10%",S - Sale,AIII,$1.60,-155,-$248,"4,282,634",0%,2015-07-07 16:45:15,2015-07-06
+61,Selig Allan H,Dir,P - Purchase,ODC,$30.18,"+1,000","+$30,180","22,000",+5%,2015-07-07 16:39:32,2015-07-06
+62,Oberndorf William E,10%,P - Purchase,APPF,$13.95,"+9,100","+$126,943","1,195,059",+1%,2015-07-07 16:34:40,2015-07-02
+63,Steele Gary,CEO,S - Sale+OE,PFPT,$62.45,"-20,000","-$1,249,095",1,-100%,2015-07-07 16:33:30,2015-07-02
+64,Moore Elizabeth D,"SVP, GC",P - Purchase,ED,$58.22,+53,"+$3,089","34,673",0%,2015-07-07 16:31:41,2015-06-30
+65,Del Giudice Michael J,Dir,P - Purchase,ED,$58.22,+0,+$12,"39,263",0%,2015-07-07 16:30:34,2015-06-30
+66,Bruggeworth Robert A,"Pres, CEO",S - Sale+OE,QRVO,$79.77,"-23,125","-$1,844,630","248,772",-9%,2015-07-07 16:30:21,2015-07-06
+67,Nothhaft Henry R,Dir,P - Purchase,CNSI,$19.11,"+2,500","+$47,783","58,505",+4%,2015-07-07 16:30:18,2015-07-06
+68,Hoglund Robert N,"SVP, CFO",P - Purchase,ED,$58.22,+119,"+$6,944","36,605",0%,2015-07-07 16:28:35,2015-06-30
+69,Ivey Craig S,Pres (CECONY),P - Purchase,ED,$58.22,+77,"+$4,485","39,478",0%,2015-07-07 16:27:23,2015-06-30
+70,Myers Keith G,"CEO, COB, 10%",S - Sale,LHCG,$37.47,"-21,651","-$811,297","2,146,786",-1%,2015-07-07 16:25:50,2015-07-06
+71,Muccilo Robert,"VP, Chief Accounting Officer",P - Purchase,ED,$58.22,+92,"+$5,384","4,812",+2%,2015-07-07 16:24:58,2015-06-30
+72,Nadkarni Gurudatta D,"VP, Strategic Planning",P - Purchase,ED,$58.22,+93,"+$5,419","4,751",+2%,2015-07-07 16:23:54,2015-06-30
+73,McAvoy John,"COB, Pres, CEO",P - Purchase,ED,$58.22,+60,"+$3,473","16,030",0%,2015-07-07 16:22:38,2015-06-30
+74,Resheske Frances,"SVP, Public Affairs",P - Purchase,ED,$58.22,+1,+$68,"44,334",0%,2015-07-07 16:21:40,2015-06-30
+75,Cawley Timothy,"Pres, CEO, O, R",P - Purchase,ED,$58.22,+54,"+$3,160","1,505",+4%,2015-07-07 16:20:19,2015-06-30
+76,Oates Joseph P,"SVP, Business Shared Services",P - Purchase,ED,$58.22,+27,"+$1,563","22,108",0%,2015-07-07 16:19:44,2015-06-30
+77,Marcus Robert D,"COB, CEO",S - Sale+OE,TWC,$181.17,"-10,000","-$1,811,658","78,830",-11%,2015-07-07 16:18:50,2015-07-06
+78,Filler James J,10%,P - Purchase,CNBKA,$40.07,+591,"+$23,681","420,858",0%,2015-07-07 16:10:44,2015-07-07
+79,London Daniel T,"Grp Chief Exec-Health, PS",S - Sale,ACN,$97.11,-312,"-$30,297","25,962",-1%,2015-07-07 16:10:20,2015-07-06
+80,Tocqueville Asset Management L.P.,10%,P - Purchase,XRM,$17.76,"+7,500","+$133,171","1,581,958",0%,2015-07-07 16:09:09,2015-07-06
+81,Prange Karen,"SVP, Pres, Uro, Women's Health",S - Sale,BSX,$17.66,"-17,456","-$308,308","18,430",-49%,2015-07-07 16:08:39,2015-07-07
+82,Stiefler Jeffrey E,Dir,S - Sale,VNTV,$38.25,"-1,935","-$74,014","80,679",-2%,2015-07-07 16:04:45,2015-07-06
+83,Halvorsen Kris,Dir,S - Sale+OE,ADSK,$50.62,"-5,000","-$253,105","38,640",-11%,2015-07-07 16:03:32,2015-07-02
+84,Benioff Marc,"COB, CEO",S - Sale+OE,CRM,$69.72,"-25,000","-$1,743,087","37,663,400",0%,2015-07-07 16:01:22,2015-07-02
+85,State Automobile Mutual Insurance Co,10%,P - Purchase,STFC,$25.45,"+4,262","+$108,450","25,897,167",0%,2015-07-07 15:55:52,2015-07-06
+86,Benet Jay S,"Vice COB, CFO",S - Sale+OE,TRV,$99.40,"-6,857","-$681,558","66,235",-9%,2015-07-07 15:48:41,2015-07-02
+87,Krehbiel Bradley,"CEO, Pres",P - Purchase,HMNF,$11.75,+500,"+$5,875","119,422",0%,2015-07-07 15:35:31,2015-07-07
+88,Meltzer Carol,GC,S - Sale,AMRK,$10.58,"-2,000","-$21,156","30,401",-6%,2015-07-07 15:33:48,2015-07-02
+89,Wilson Dow R,"Pres, CEO",S - Sale+OE,VAR,$85.80,"-9,000","-$772,227","38,767",-19%,2015-07-07 15:27:47,2015-07-06
+90,Strollo Gregg,Dir,P - Purchase,FMNB,$8.16,+184,"+$1,501","12,858",+1%,2015-07-07 15:17:52,2015-07-01
+91,Wallace Amber B,"SVP, Chief Retail, Marketing",P - Purchase,FMNB,$8.16,+25,+$204,"3,610",+1%,2015-07-07 15:15:46,2015-07-01
+92,Shaffer Timothy F,"VP, Dir of Comm Banking, PCS",P - Purchase,FMNB,$8.16,+25,+$204,834,+3%,2015-07-07 15:11:16,2015-07-01
+93,Sabat Joseph W,"VP, Controller",P - Purchase,FMNB,$8.16,+49,+$400,"3,109",+2%,2015-07-07 15:09:32,2015-07-01
+94,Paull David Z,Dir,P - Purchase,FMNB,$8.16,+41,+$335,"29,368",0%,2015-07-07 15:07:42,2015-07-01
+95,Nicastro Mark A,"SVP, Human Resource Dir",P - Purchase,FMNB,$8.16,+25,+$204,"2,969",+1%,2015-07-07 15:05:00,2015-07-01
+96,Moore Terry A,Dir,P - Purchase,FMNB,$8.16,+357,"+$2,913","21,196",+2%,2015-07-07 15:02:49,2015-07-01
+97,"Summit Capital Usa, Inc.",10%,S - Sale,SMRS,$0.18,"-57,000","-$10,345","3,130,109",-2%,2015-07-07 15:02:05,2015-07-06
+98,Macali Ralph D,Dir,P - Purchase,FMNB,$8.16,+6,+$49,"114,903",0%,2015-07-07 15:00:57,2015-07-01
+99,Jackson Brian E,"SVP, CIO",P - Purchase,FMNB,$8.16,+25,+$204,"2,796",+1%,2015-07-07 14:58:00,2015-07-01
+100,Helmick Kevin J,"Pres, CEO",P - Purchase,FMNB,$8.16,+49,+$400,"15,540",0%,2015-07-07 14:54:12,2015-07-01
+101,Bassett John E III,"SVP, Wood",S - Sale+OE,BSET,$36.00,"-7,400","-$266,400","41,789",-15%,2015-07-07 14:52:18,2015-07-06
+102,Stern Neal,EVP of Operations,S - Sale,PRAA,$62.37,"-3,512","-$219,043","46,317",-7%,2015-07-07 14:48:13,2015-07-06
+103,Scott Judith S,"EVP-GC, Secretary",S - Sale,PRAA,$62.38,"-3,000","-$187,125","37,468",-7%,2015-07-07 14:44:53,2015-07-06
+104,Gerzina Joseph A,"Cmmty Pr, Chief Lending Office",P - Purchase,FMNB,$8.16,+49,+$400,"7,748",+1%,2015-07-07 14:42:34,2015-07-01
+105,Brogan Edward Francis,Dir,P - Purchase,SMRS,$0.50,"+500,000","+$250,000","2,294,500",+28%,2015-07-07 14:32:22,2015-06-30
+106,Marchal Joseph Hamilton,"CEO, 10%",P - Purchase,SMRS,$0.50,"+172,000","+$86,000","5,105,161",+3%,2015-07-07 14:28:36,2015-06-30
+107,Breuckmann Pamela A,Dir,P - Purchase,FGP,$22.99,"+4,400","+$101,156","14,955",+42%,2015-07-07 14:27:19,2015-07-07
+108,Van Buren Thomas M,"EVP, FNA, Midstream",P - Purchase,FGP,$22.62,"+1,000","+$22,622","5,200",+24%,2015-07-07 14:27:03,2015-07-07
+109,Bradbury Daniel,Dir,S - Sale+OE,ILMN,$219.70,"-1,700","-$373,488","14,376",-11%,2015-07-07 14:03:35,2015-07-06
+110,"Awm Investment Company, Inc.",10%,S - Sale,CRBO,$0.62,"-20,000","-$12,410","10,868,889",0%,2015-07-07 13:45:16,2015-07-01
+111,Rowe John W,Dir,P - Purchase,ADGE,$0.39,"+16,000","+$6,240","65,000",+33%,2015-07-07 13:42:05,2015-07-02
+112,Willis Mike,CFO,S - Sale,GEVO,$3.02,-48,-$145,"7,342",-1%,2015-07-07 13:26:45,2015-07-06
+113,Mather Ann,Dir,S - Sale+OE,GOOG,$530.85,"-2,000","-$1,061,690","4,200",-32%,2015-07-07 13:11:59,2015-07-06
+114,Finney Elisha W,"EVP, CFO",S - Sale+OE,VAR,$85.95,"-2,000","-$171,900","26,972",-7%,2015-07-07 13:10:19,2015-07-02
+115,Graves Greg M,Dir,P - Purchase,UMBF,$49.95,+225,"+$11,250","14,574",+2%,2015-07-07 11:47:30,2015-05-01
+116,Messersmith Gary A,SVP LEGAL COUNSEL,S - Sale+OE,DXPE,$46.21,"-3,000","-$138,630","12,594",-19%,2015-07-07 11:37:53,2015-06-29
+117,Shepherd W Clyde III,Dir,P - Purchase,LION,$17.25,+232,"+$3,999","328,001",0%,2015-07-07 11:22:55,2015-07-02
+118,Calamos John P Sr,"COB, CEO, Global Co-CIO, 10%",P - Purchase,CLMS,$12.23,"+25,029","+$306,014","4,084,575",+1%,2015-07-07 11:20:44,2015-07-02
+119,Blobel Friedhelm,"Pres, CEO",S - Sale+OE,SCLN,$10.80,"-20,000","-$215,912","202,273",-9%,2015-07-07 10:51:07,2015-07-06
+120,Kraus Al,Dir,S - Sale+OE,CTSO,$6.29,"-10,000","-$62,852","55,746",-15%,2015-07-07 10:43:26,2015-07-02
+121,Jennings James B,Dir,P - Purchase,EGY,$2.00,"+50,000","+$100,000","150,000",+50%,2015-07-07 10:00:11,2015-07-06
+122,Baumann Barbara M,Dir,P - Purchase,DVN,$56.58,"+4,500","+$254,606","13,120",+52%,2015-07-07 09:48:43,2015-07-06
+123,Goldberg Leonard R,Dir,S - Sale+OE,GLRE,$29.22,"-9,907","-$289,433","170,320",-5%,2015-07-07 09:25:57,2015-07-02
+124,Frost Phillip Md Et Al,"CEO, COB, 10%",P - Purchase,OPK,$16.07,"+3,600","+$57,860","177,055,936",0%,2015-07-07 06:46:03,2015-07-06

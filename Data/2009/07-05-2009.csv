@@ -1,0 +1,16 @@
+,Insider_Name,Insider_Title,Buy_or_Sell,Ticker,Price,Quantity,Value,Number_Owned,Change_in_Number_Owned,Filing_Date,Trade_Date
+0,Thompson Anthony W,10%,S - Sale,GBE,$0.82,"-125,000","-$102,250","6,559,181",-2%,2009-07-05 16:08:41,2009-06-30
+1,McComic Tammy,EVP,S - Sale,MXC,$12.81,"-1,000","-$12,812","20,380",-5%,2009-07-05 16:08:40,2009-07-02
+2,Smach Thomas J,Dir,S - Sale,CROX,$3.44,"-28,011","-$96,226","30,500",-48%,2009-07-05 16:08:38,2009-06-30
+3,Graham Thomas Jr,Chairman of the Board,S - Sale,MXC,$12.91,"-10,600","-$136,824","109,500",-9%,2009-07-05 16:08:37,2009-06-30
+4,Basson Israel,10%,S - Sale,SIMP,$0.00,"-25,000,000","-$25,000",0,-100%,2009-07-05 16:08:27,2009-06-16
+5,Zerbe Ingrid,"Secretary, 10%",P - Purchase,IGXT,$0.00,"+1,021,713","+$4,189","5,731,357",+22%,2009-07-05 16:08:25,2009-05-12
+6,Rosenberg Jonathan J,SVP Prod. Mgmt.,S - Sale+OE,GOOG,$423.13,-216,"-$91,397","57,820",0%,2009-07-05 16:08:22,2009-07-01
+7,Sayiner Necip,"Pres, CEO",S - Sale,SLAB,$39.15,"-3,500","-$137,025","293,528",-1%,2009-07-05 16:08:13,2009-07-01
+8,Crimi Stephen F,"VP, Bus. Dev, Alliances",S - Sale+OE,PAR,$12.50,"-2,500","-$31,250","50,319",-5%,2009-07-05 16:08:11,2009-07-02
+9,Dunn Eric,Dir,S - Sale,SFSF,$9.20,"-106,000","-$975,283","500,660",-17%,2009-07-05 16:07:56,2009-06-30
+10,Richter Irvin E,"COB, Chief Exec, 10%",S - Sale,HIL,$4.30,"-1,000,000","-$4,300,000","7,195,259",-12%,2009-07-05 16:07:51,2009-06-30
+11,Felt Bruce C. Jr.,CFO,S - Sale,SFSF,$9.50,"-13,517","-$128,412","308,057",-4%,2009-07-05 16:07:51,2009-06-30
+12,Womack Randall J.,"CIO, VP, OPERATIONS",S - Sale,SFSF,$9.50,"-6,188","-$58,786","163,750",-4%,2009-07-05 16:07:48,2009-06-30
+13,Slootman Frank,"Pres, CEO",S - Sale+OE,DDUP,$33.43,"-60,000","-$2,005,670","1,602",-97%,2009-07-05 16:07:45,2009-07-01
+14,Baily John Thomas,Dir,P - Purchase,ENH,$29.12,+33,+$969,"14,336",0%,2009-07-05 16:07:43,2009-06-30

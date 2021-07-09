@@ -1,0 +1,122 @@
+,Insider_Name,Insider_Title,Buy_or_Sell,Ticker,Price,Quantity,Value,Number_Owned,Change_in_Number_Owned,Filing_Date,Trade_Date
+0,Hoberman Kenneth,COO,S - Sale,STML,$7.02,"-22,139","-$155,416","601,085",-4%,2020-01-24 21:31:37,2020-01-22
+1,Wilson Steven K.,"SVP, Purchasing",S - Sale+OE,GO,$36.01,"-32,888","-$1,184,165","146,707",-18%,2020-01-24 21:20:48,2020-01-23
+2,Braverman Alan N,"Sr EVP, GC, Secy",S - Sale,DIS,$144.45,-38,"-$5,489","111,227",0%,2020-01-24 21:16:09,2020-01-22
+3,Woodford Brent,"EVP, Control, Fin Plan, Tax",S - Sale,DIS,$144.45,-4,-$578,"35,005",0%,2020-01-24 21:15:48,2020-01-22
+4,Ludwig Eric R,"EVP, COO, CFO",S - Sale+OE,GLUU,$6.51,"-68,334","-$444,766","424,693",-14%,2020-01-24 20:32:49,2020-01-22
+5,Morrissey Michael,"Pres, CEO",S - Sale+OE,EXEL,$19.41,"-25,000","-$485,250","425,840",-6%,2020-01-24 20:19:36,2020-01-23
+6,Scangos George A,Dir,S - Sale,EXEL,$19.75,"-25,000","-$493,750","1,061,626",-2%,2020-01-24 20:17:05,2020-01-22
+7,Irwin Dean,10%,S - Sale,RMED,$1.64,"-32,450","-$53,069","2,926,001",-1%,2020-01-24 19:55:48,2019-12-04
+8,Stretch Leslie,"Pres, CEO",S - Sale+OE,MDLA,$31.01,"-265,445","-$8,232,062","1,908,226",-12%,2020-01-24 19:47:34,2020-01-22
+9,Armstrong Mac,CEO,S - Sale,PLMR,$51.88,"-12,500","-$648,551","880,388",-1%,2020-01-24 19:35:22,2020-01-23
+10,Fisher Heath A,Pres,S - Sale,PLMR,$51.87,"-5,000","-$259,364","321,198",-2%,2020-01-24 19:35:07,2020-01-23
+11,Steinberg Joseph S,"Dir, 10%",P - Purchase,CWGL,$7.57,"+2,043","+$15,466","2,660,772",0%,2020-01-24 19:32:57,2020-01-24
+12,Cumming John D.,Dir,P - Purchase,CWGL,$7.57,+200,"+$1,514","308,207",0%,2020-01-24 19:24:47,2020-01-24
+13,Olesky Lee,CEO,S - Sale+OE,TW,$45.16,"-178,595","-$8,066,056","418,948",-30%,2020-01-24 19:22:15,2020-01-22
+14,Aulick Rodney,EVP,S - Sale+OE,AQUA,$19.62,"-10,228","-$200,716","82,295",-11%,2020-01-24 19:14:26,2020-01-22
+15,Dossett Jeffrey,"EVP, Sales, Marketing",S - Sale+OE,PI,$34.95,-250,"-$8,738","8,000",-3%,2020-01-24 19:14:11,2020-01-23
+16,Groenhuysen Wilhelmus Cm,CFO,S - Sale+OE,NVCR,$98.14,"-2,915","-$286,084","87,343",-3%,2020-01-24 19:11:23,2020-01-22
+17,Hallahan Daniel James,"SVP, Global Marketing",S - Sale+OE,CAI,$24.65,"-61,651","-$1,519,984","30,718",-67%,2020-01-24 19:10:24,2019-11-22
+18,Birnbaum Seth,"Pres, CEO",S - Sale,EVER,$38.26,"-10,400","-$397,913","629,616",-2%,2020-01-24 18:59:56,2020-01-22
+19,Revesz Tomas Jr,CTO,S - Sale,EVER,$37.05,"-5,000","-$185,245","581,649",-1%,2020-01-24 18:56:50,2020-01-22
+20,Suzuki Eugene,CIO,S - Sale+OE,EVER,$37.07,"-5,000","-$185,333","12,804",-28%,2020-01-24 18:54:48,2020-01-22
+21,Aguiar Eric,Dir,S - Sale+OE,BHVN,$56.48,"-2,021","-$114,152","1,250",-62%,2020-01-24 18:43:42,2020-01-22
+22,Walker David M,Chief Risk Officer,S - Sale+OE,PFSI,$33.87,"-10,000","-$338,706","485,022",-2%,2020-01-24 18:40:54,2020-01-23
+23,McCallion Anne,Dir,S - Sale+OE,PFSI,$33.89,"-10,000","-$338,850","250,994",-4%,2020-01-24 18:38:35,2020-01-22
+24,Montano Michael,Engineering Lead,S - Sale,TWTR,$34.13,"-1,750","-$59,728","562,275",0%,2020-01-24 18:38:03,2020-01-21
+25,Oltmann Christopher J,Chief Accounting Officer,P - Purchase,VEL,$13.91,+750,"+$10,433",750,New,2020-01-24 18:32:25,2020-01-24
+26,Lampert Darren,CEO,S - Sale,GRWG,$4.28,"-21,100","-$90,399","1,273,732",-2%,2020-01-24 18:16:55,2020-01-23
+27,Salaman Michael,Pres,S - Sale,GRWG,$4.28,"-21,100","-$90,399","1,323,319",-2%,2020-01-24 18:16:51,2020-01-23
+28,Dentzer James E,"Pres, CEO",S - Sale,CRIS,$1.67,"-6,752","-$11,258","42,158",-14%,2020-01-24 18:10:41,2020-01-23
+29,Crail Franklin E,Dir,S - Sale,RMCF,$8.70,-106,-$922,"480,563",0%,2020-01-24 18:03:08,2020-01-24
+30,Amidon Derek G,"SVP, Comm., Int'l Svcs. Group",S - Sale+OE,TTEK,$90.00,"-4,783","-$430,470","4,356",-52%,2020-01-24 17:48:01,2020-01-22
+31,Russell Dana C,"CFO, EVP",S - Sale+OE,VSLR,$9.00,"-1,000","-$9,000","325,445",0%,2020-01-24 17:43:01,2020-01-23
+32,Plagemann Thomas G.,"CCO; EVP, Capital Markets",S - Sale+OE,VSLR,$9.00,-561,"-$5,049","121,195",0%,2020-01-24 17:39:03,2020-01-23
+33,Papiernik Antoine,"Dir, 10%",S - Sale,SWAV,$43.93,"-54,920","-$2,412,758","3,134,096",-2%,2020-01-24 17:37:14,2020-01-22
+34,Sofinnova Capital VII Fcpr,10%,S - Sale,SWAV,$43.93,"-54,920","-$2,412,758","3,134,096",-2%,2020-01-24 17:36:51,2020-01-22
+35,Capitalg LP,10%,S - Sale+OE,CRWD,$63.94,"-12,487","-$798,419","140,000",-8%,2020-01-24 17:30:29,2020-01-22
+36,Boze Brandon B,"See Remarks, 10%",P - Purchase,TRN,$20.65,"+278,398","+$5,747,825","25,476,929",+1%,2020-01-24 17:25:50,2020-01-22
+37,McDowell Donald James,VP Corporate Development,P - Purchase,TLRS,$0.08,"+475,000","+$38,000","661,600",+255%,2020-01-24 17:15:04,2019-03-25
+38,Devereaux Edward J,Dir,S - Sale,AMAZ,$0.15,"-5,000",-$750,"155,000",-3%,2020-01-24 17:10:44,2019-12-31
+39,Tan Hock E,"Pres, CEO",S - Sale+OE,AVGO,$313.91,"-62,500","-$19,619,344","170,042",-27%,2020-01-24 17:10:38,2020-01-22
+40,Devereaux Edward J,Dir,S - Sale,AMAZ,$0.15,"-5,000",-$730,"160,000",-3%,2020-01-24 17:08:21,2019-12-27
+41,Zozaya Delano Jose Guillermo,"Pres, Exec Rep of Sub",S - Sale+OE,KSU,$164.24,"-13,700","-$2,250,088","44,783",-23%,2020-01-24 17:07:05,2020-01-23
+42,Butterfield Stewart,CEO,S - Sale,WORK,$22.37,"-2,500","-$55,925","228,655",-1%,2020-01-24 17:04:09,2020-01-22
+43,Fortress Investment Group LLC,10%,S - Sale,MCC,$2.18,"-38,977","-$85,109","6,702,483",-1%,2020-01-24 17:03:50,2020-01-22
+44,Henderson Cal,CTO,S - Sale,WORK,$22.44,"-1,500","-$33,660","126,500",-1%,2020-01-24 17:03:47,2020-01-22
+45,Bingham H Raymond,Dir,S - Sale,TNET,$57.53,"-1,250","-$71,917","130,897",-1%,2020-01-24 17:03:27,2020-01-22
+46,Kapoor Rohit,"CEO, Vice COB",S - Sale+OE,EXLS,$72.91,"-19,672","-$1,434,286","829,890",-2%,2020-01-24 17:00:33,2020-01-22
+47,Tasman Norman,Dir,P - Purchase,SYBT,$39.92,+58,"+$2,300","311,203",0%,2020-01-24 16:57:49,2020-01-23
+48,Faddis Jonathan,"SVP, Gen. Counsel, Secretary",S - Sale,VEEV,$146.25,-735,"-$107,494",800,-48%,2020-01-24 16:57:25,2020-01-23
+49,McDowell Donald James,VP Corporate Development,P - Purchase,TLRS,$0.09,"+1,500",+$130,"186,600",+1%,2020-01-24 16:56:11,2019-02-20
+50,Schutte John,Dir,P - Purchase,SYBT,$39.92,+88,"+$3,500","82,151",0%,2020-01-24 16:55:52,2020-01-23
+51,Priebe Stephen M,Dir,P - Purchase,SYBT,$39.92,+98,"+$3,925","21,253",0%,2020-01-24 16:54:54,2020-01-23
+52,Brown J McCauley,Dir,P - Purchase,SYBT,$39.92,+49,"+$1,963","12,112",0%,2020-01-24 16:53:15,2020-01-23
+53,Ryu Jennifer Y,Interim CFO,S - Sale,RECN,$16.03,"-1,586","-$25,429",0,-100%,2020-01-24 16:53:05,2020-01-22
+54,Baruch Richard F Jr,See remarks,S - Sale,ELF,$16.00,"-8,902","-$142,467","176,502",-5%,2020-01-24 16:52:44,2020-01-22
+55,Bickel Paul J III,Dir,P - Purchase,SYBT,$39.92,+98,"+$3,925","12,899",+1%,2020-01-24 16:52:06,2020-01-23
+56,McDowell Donald James,VP Corporate Development,P - Purchase,TLRS,$0.09,"+2,500",+$237,"185,100",+1%,2020-01-24 16:51:52,2019-02-15
+57,Santana Will,EVP,S - Sale,PETQ,$30.31,"-35,000","-$1,060,675","70,000",-33%,2020-01-24 16:50:06,2020-01-22
+58,Amin Tarang,CEO,S - Sale,ELF,$16.00,"-15,682","-$250,952","1,443,017",-1%,2020-01-24 16:48:54,2020-01-22
+59,Hockema Jack A,CEO,S - Sale,KALU,$101.14,"-12,500","-$1,264,240","48,573",-20%,2020-01-24 16:47:02,2020-01-22
+60,McDowell Donald James,VP Corporate Development,P - Purchase,TLRS,$0.09,"+3,000",+$261,"182,600",+2%,2020-01-24 16:44:57,2019-02-13
+61,Collins David M,Controller,S - Sale,LEN,$67.22,"-20,000","-$1,344,400","100,191",-17%,2020-01-24 16:44:16,2020-01-24
+62,Currie Mark G,Dir,S - Sale+OE,IRWD,$12.59,"-60,000","-$755,400","549,272",-10%,2020-01-24 16:43:56,2020-01-23
+63,Jackson Steven D.,Pres,S - Sale,NRC,$59.15,"-4,010","-$237,195","89,586",-4%,2020-01-24 16:42:24,2019-10-04
+64,Carvajal Alejandra,GC,S - Sale,MNTA,$28.98,"-1,577","-$45,701",0,-100%,2020-01-24 16:41:57,2020-01-22
+65,Fier Ian,"Chief Mfg, Program Officer",S - Sale,MNTA,$28.98,"-1,577","-$45,701","1,182",-57%,2020-01-24 16:41:27,2020-01-22
+66,Manning Anthony M.,Chief Scientific Officer,S - Sale,MNTA,$29.01,"-2,265","-$65,710","5,443",-29%,2020-01-24 16:40:56,2020-01-22
+67,Puretech Health LLC,10%,S - Sale,KRTX,$95.67,"-2,100,000","-$200,907,000","5,295,397",-28%,2020-01-24 16:40:43,2020-01-22
+68,Dayon Alexandre,"Pres, Chief Product Officer",S - Sale+OE,CRM,$186.09,"-86,394","-$16,076,757","71,782",-55%,2020-01-24 16:38:19,2020-01-22
+69,McDowell Donald James,VP Corporate Development,P - Purchase,TLRS,$0.09,"+2,000",+$185,"179,600",+1%,2020-01-24 16:37:01,2019-02-07
+70,Amandla Mk Trust,10%,S - Sale,NRC,$70.07,"-7,830","-$548,660","6,484,751",0%,2020-01-24 16:34:59,2020-01-22
+71,Madaus Martin D,Dir,S - Sale+OE,QTRX,$25.30,"-7,800","-$197,375","206,968",-4%,2020-01-24 16:34:36,2020-01-22
+72,Finn Patrick John,Chief Commercial Officer,S - Sale+OE,TWST,$22.52,"-15,000","-$337,831","40,472",-27%,2020-01-24 16:34:09,2020-01-22
+73,Hawkins Mark J,"Pres, CFO",S - Sale+OE,CRM,$185.39,"-6,251","-$1,158,873","19,913",-24%,2020-01-24 16:33:12,2020-01-22
+74,Finnegan Brian T,See Remarks,S - Sale,BRX,$21.00,"-3,000","-$63,000","93,978",-3%,2020-01-24 16:30:39,2020-01-22
+75,Benioff Marc,"COB, co-CEO",S - Sale+OE,CRM,$184.01,"-20,000","-$3,680,162","30,218,800",0%,2020-01-24 16:29:41,2020-01-22
+76,Jones Andrew R,Dir,S - Sale+OE,WHLR,$1.90,"-3,726","-$7,075","389,930",-1%,2020-01-24 16:28:14,2019-12-26
+77,Williams Roland L.,Dir,S - Sale,ABTX,$36.79,"-2,000","-$73,581","111,960",-2%,2020-01-24 16:26:53,2020-01-23
+78,McDowell Donald James,VP Corporate Development,P - Purchase,TLRS,$0.09,"+3,500",+$319,"177,600",+2%,2020-01-24 16:25:39,2019-02-04
+79,Flanders Scott N,CEO,S - Sale,EHTH,$109.94,"-121,000","-$13,302,802","680,359",-15%,2020-01-24 16:22:18,2020-01-22
+80,Bromberg Matthew S,COO,S - Sale,ZNGA,$6.59,"-12,000","-$79,080","718,675",-2%,2020-01-24 16:18:55,2020-01-22
+81,McDowell Donald James,VP Corporate Development,P - Purchase,TLRS,$0.09,"+2,000",+$176,"174,100",+1%,2020-01-24 16:16:57,2019-01-31
+82,Male Jeremy J.,"COB, CEO",S - Sale,OUT,$30.09,"-60,000","-$1,805,400","332,703",-15%,2020-01-24 16:15:12,2020-01-22
+83,Highbridge Capital Management LLC,10%,P - Purchase,PKD,$17.85,"+12,696","+$226,674","3,123,154",0%,2020-01-24 16:12:21,2020-01-22
+84,Sanjiv Yajnik,"Pres, Financial Services",S - Sale,COF,$107.01,"-13,925","-$1,490,114","97,148",-13%,2020-01-24 16:11:46,2020-01-22
+85,D'Arrigo Peter,CFO,S - Sale+OE,ENV,$71.28,"-3,000","-$213,840","51,840",-5%,2020-01-24 16:11:10,2020-01-22
+86,Parini Michael,"EVP, CL, AO",S - Sale+OE,VRTX,$237.50,-1,-$238,"35,003",0%,2020-01-24 16:10:51,2020-01-22
+87,Wiggins Mark C,Chief Business Officer,P - Purchase,TCON,$4.02,"+5,000","+$20,103","5,000",New,2020-01-24 16:10:25,2020-01-23
+88,Jalbert Paul A,CFO,S - Sale+OE,PRGS,$48.15,"-14,406","-$693,680","21,198",-40%,2020-01-24 16:10:19,2020-01-22
+89,Martin Daniel C.,Chief Commercial Officer,S - Sale+OE,DCPH,$67.18,"-26,999","-$1,813,709","17,000",-61%,2020-01-24 16:10:12,2020-01-22
+90,McDowell Donald James,VP Corporate Development,P - Purchase,TLRS,$0.09,"+2,000",+$172,"172,100",+1%,2020-01-24 16:09:48,2019-01-28
+91,Hollister Corey James Ariel,10%,S - Sale,AMMJ,$0.16,"-74,037","-$11,846","10,704,704",-1%,2020-01-24 16:09:13,2020-01-22
+92,Goodman Bruce G,Dir,P - Purchase,VISI,$2.66,"+5,000","+$13,299","1,959,719",0%,2020-01-24 16:06:18,2020-01-23
+93,Coughlin Patricia,Principal Accounting Officer,S - Sale,CSOD,$63.59,"-8,053","-$512,090","49,542",-14%,2020-01-24 16:05:30,2020-01-22
+94,Barker Steven,Dir,S - Sale+OE,MASI,$175.00,"-10,000","-$1,750,001","66,245",-13%,2020-01-24 16:04:23,2020-01-22
+95,Fernandez Phillip M,Dir,S - Sale,PTC,$85.51,-250,"-$21,378","20,025",-1%,2020-01-24 16:03:51,2020-01-23
+96,Smith Patrick W,CEO,S - Sale,AAXN,$79.06,"-50,000","-$3,953,125","630,011",-7%,2020-01-24 16:03:26,2020-01-22
+97,Burwick David A,"Pres, CEO",S - Sale+OE,SAM,$400.00,-760,"-$304,000","62,943",-1%,2020-01-24 16:03:18,2020-01-23
+98,McDowell Donald James,VP Corporate Development,P - Purchase,TLRS,$0.08,"+1,500",+$125,"170,100",+1%,2020-01-24 16:02:39,2019-01-25
+99,Lobach David M Jr,"Pres, CEO",S - Sale,EMYB,$18.00,-2,-$33,"421,750",0%,2020-01-24 15:59:28,2019-12-17
+100,McDowell Donald James,VP Corporate Development,P - Purchase,TLRS,$0.08,"+5,000",+$413,"168,600",+3%,2020-01-24 15:56:48,2019-01-22
+101,Bogan Marc J,"Pres, CEO",P - Purchase,FBSS,$20.39,+330,"+$6,729","14,566",+2%,2020-01-24 15:42:27,2020-01-23
+102,Morris Robert T,Dir,S - Sale,WLFC,$57.14,-484,"-$27,658","7,688",-6%,2020-01-24 15:33:36,2019-05-16
+103,McDowell Donald James,VP Corporate Development,P - Purchase,TLRS,$0.09,"+4,000",+$376,"163,600",+3%,2020-01-24 15:11:13,2019-01-17
+104,McDowell Donald James,VP Corporate Development,P - Purchase,TLRS,$0.10,"+3,500",+$335,"159,600",+2%,2020-01-24 15:02:18,2019-01-14
+105,Evangelista Paul A,EVP,P - Purchase,CNBKA,$155.85,+2,+$388,"8,026",0%,2020-01-24 14:57:33,2020-01-23
+106,Jackson Darren R,Dir,P - Purchase,FAST,$35.57,"+18,000","+$640,231","48,000",+60%,2020-01-24 14:56:38,2020-01-23
+107,Sloane Barry R,"CEO, Pres",P - Purchase,CNBKA,$155.85,+1,+$87,"5,789",0%,2020-01-24 14:55:39,2020-01-23
+108,McDowell Donald James,VP Corporate Development,P - Purchase,TLRS,$0.09,"+6,000",+$523,"156,100",+4%,2020-01-24 14:52:14,2019-01-08
+109,Sylvester Edward B,Dir,S - Sale,WABC,$66.13,"-5,000","-$330,658","57,490",-8%,2020-01-24 13:35:44,2020-01-22
+110,Hunt T Kendall,"Dir, 10%",S - Sale,OSPN,$20.20,"-134,219","-$2,711,667","6,733,450",-2%,2020-01-24 13:31:51,2020-01-15
+111,Olson James John,COB,P - Purchase,GRWC,$0.05,"+1,000,000","+$50,000","4,381,654",+30%,2020-01-24 12:37:02,2020-01-13
+112,Steffensen Dwight,Dir,S - Sale,SNX,$146.17,-732,"-$106,997",366,-67%,2020-01-24 12:30:38,2020-01-22
+113,Hall Trevor Keegan,"CFO, Treasurer",P - Purchase,GRWC,$0.05,"+1,000,000","+$50,000","2,210,000",+83%,2020-01-24 12:27:43,2020-01-13
+114,Collier Alan Brian,CEO,P - Purchase,ENDV,$2.00,+200,+$400,"25,719",+1%,2020-01-24 12:09:44,2019-12-30
+115,Collier Alan Brian,CEO,P - Purchase,ENDV,$0.03,"+5,700",+$163,"25,519",+29%,2020-01-24 11:56:57,2019-12-10
+116,Horizon Kinetics Asset Management LLC,10%,P - Purchase,TPL,$759.00,+135,"+$102,465","317,084",0%,2020-01-24 11:49:25,2020-01-23
+117,McPhee John J,Pres - HM Consumer,S - Sale+OE,MLHR,$41.04,"-38,690","-$1,588,009","2,832",-93%,2020-01-24 10:12:08,2020-01-22
+118,Baroni Gino J,Dir,S - Sale,EBTC,$29.95,-1,-$21,"14,242",0%,2020-01-24 09:23:56,2019-04-08
+119,Lang Sanford,Dir,S - Sale,STCB,$0.60,"-500,000","-$300,000","15,900,010",-3%,2020-01-24 08:04:35,2020-01-22
+120,Frost Phillip Md Et Al,"CEO, COB, 10%",P - Purchase,OPK,$1.63,"+50,000","+$81,500","222,279,181",0%,2020-01-24 07:30:04,2020-01-23

@@ -1,0 +1,183 @@
+,Insider_Name,Insider_Title,Buy_or_Sell,Ticker,Price,Quantity,Value,Number_Owned,Change_in_Number_Owned,Filing_Date,Trade_Date
+0,Warshaw Clive E,COB,S - Sale,STNR,$45.55,"-2,000","-$91,102","943,754",0%,2012-11-23 21:57:18,2012-11-20
+1,Gamble Paul,"EVP, Distrib, Inst Services",S - Sale,FNGN,$26.54,"-1,000","-$26,535","25,552",-4%,2012-11-23 21:07:00,2012-11-21
+2,Srinivasan Mallika,Dir,P - Purchase,AGCO,$45.48,"+56,961","+$2,590,739","2,701,708",+2%,2012-11-23 21:03:34,2012-11-23
+3,Taylor Scott C,Dir,S - Sale+OE,VHC,$30.48,"-20,000","-$609,600","8,333",-71%,2012-11-23 20:43:16,2012-11-20
+4,Shea William J,Dir,P - Purchase,LCDX,$1.50,"+9,000","+$13,530","599,801",+2%,2012-11-23 19:22:00,2012-11-20
+5,Wenz Richard,Dir,P - Purchase,SUMR,$1.54,"+37,267","+$57,223","100,831",+59%,2012-11-23 19:21:45,2012-11-20
+6,Watson Douglas G,Dir,S - Sale+OE,OSUR,$7.55,"-60,000","-$452,760","98,281",-38%,2012-11-23 19:12:49,2012-11-20
+7,McJunkin Jameson J,"Dir, 10%",P - Purchase,ENPH,$2.41,"+39,000","+$94,090","15,500",-166%,2012-11-23 18:58:40,2012-11-20
+8,Simoncic Richard J,"VP, Analog, Intrfc Prod Div",S - Sale,MCHP,$29.55,-330,"-$9,750","116,679",0%,2012-11-23 18:51:11,2012-11-21
+9,Sph Group Holdings LLC,10%,P - Purchase,SLI,$15.00,+200,"+$3,000","994,840",0%,2012-11-23 18:51:05,2012-11-21
+10,Little Mitchell R,"VP, WW Sales, Appns.",S - Sale,MCHP,$29.55,"-3,844","-$113,573","6,305",-38%,2012-11-23 18:50:34,2012-11-21
+11,Drehobl Stephen V,"VP, Security, MCU, Tech Div.",S - Sale,MCHP,$29.55,"-4,480","-$132,363","10,922",-29%,2012-11-23 18:50:13,2012-11-21
+12,Bjornholt James Eric,"VP, CFO",S - Sale,MCHP,$29.55,-979,"-$28,925","11,511",-8%,2012-11-23 18:49:51,2012-11-21
+13,Fallon Thomas J,"Pres, CEO",P - Purchase,INFN,$4.47,"+50,000","+$223,576","846,269",+6%,2012-11-23 18:37:10,2012-11-20
+14,"Chieftain Capital Management, Inc.",10%,P - Purchase,TPX,$24.95,"+162,615","+$4,056,771","2,141,775",+8%,2012-11-23 18:10:42,2012-11-20
+15,Harvey Richard A.,Pres WS BRAND,S - Sale,WSM,$44.58,"-11,275","-$502,621","21,472",-34%,2012-11-23 17:57:54,2012-11-20
+16,Stangl Sandra,Pres POTTERY BARN BRAND,S - Sale+OE,WSM,$44.25,"-17,994","-$796,222","18,944",-49%,2012-11-23 17:55:39,2012-11-20
+17,Killoy Christopher John,"VP Sales, Mtg.",S - Sale,RGR,$54.00,"-2,000","-$108,000","27,000",-7%,2012-11-23 17:48:34,2012-11-21
+18,Tudor David J,Dir,S - Sale,WES,$48.94,"-5,000","-$244,695","9,572",-34%,2012-11-23 17:28:04,2012-11-21
+19,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.36,"-3,300","-$27,597","6,685,611",0%,2012-11-23 17:25:57,2012-11-20
+20,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.32,"-14,900","-$124,008","6,697,811",0%,2012-11-23 17:25:31,2012-11-20
+21,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.33,"-4,400","-$36,669","6,688,911",0%,2012-11-23 17:25:04,2012-11-20
+22,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.30,"-4,500","-$37,351","6,693,311",0%,2012-11-23 17:24:31,2012-11-20
+23,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.88,"-3,400","-$30,203","6,678,811",0%,2012-11-23 17:24:06,2012-11-20
+24,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.68,"-3,400","-$29,509","6,682,211",0%,2012-11-23 17:23:38,2012-11-20
+25,Azzurro Capital Inc,10%,S - Sale,TZOO,$17.26,"-300,000","-$5,178,000","8,000,000",-4%,2012-11-23 17:23:15,2012-11-20
+26,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.91,"-5,000","-$44,527","6,670,611",0%,2012-11-23 17:23:10,2012-11-20
+27,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.91,"-3,200","-$28,526","6,675,611",0%,2012-11-23 17:22:22,2012-11-20
+28,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.97,"-4,200","-$37,681","6,666,411",0%,2012-11-23 17:21:57,2012-11-20
+29,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.99,"-3,900","-$35,044","6,662,511",0%,2012-11-23 17:21:30,2012-11-20
+30,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.96,"-3,800","-$34,059","6,658,711",0%,2012-11-23 17:21:04,2012-11-20
+31,Bartel Ralph,"Dir, 10%",S - Sale,TZOO,$17.26,"-300,000","-$5,178,000","8,000,000",-4%,2012-11-23 17:20:56,2012-11-20
+32,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.96,"-3,700","-$33,167","6,655,011",0%,2012-11-23 17:20:39,2012-11-20
+33,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.02,"-3,600","-$32,479","6,651,411",0%,2012-11-23 17:20:07,2012-11-20
+34,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.05,"-4,800","-$43,428","6,646,611",0%,2012-11-23 17:19:39,2012-11-20
+35,Ralph Bartel 2005 Trust,10%,S - Sale,TZOO,$17.26,"-300,000","-$5,178,000","16,090,000",-2%,2012-11-23 17:19:22,2012-11-20
+36,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.07,"-3,100","-$28,102","6,643,511",0%,2012-11-23 17:19:11,2012-11-20
+37,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.07,"-3,700","-$33,554","6,639,811",0%,2012-11-23 17:18:31,2012-11-20
+38,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.06,"-3,500","-$31,726","6,636,311",0%,2012-11-23 17:18:04,2012-11-20
+39,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.08,"-3,300","-$29,958","6,633,011",0%,2012-11-23 17:17:32,2012-11-20
+40,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.08,"-3,700","-$33,608","6,629,311",0%,2012-11-23 17:17:04,2012-11-20
+41,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.08,"-3,400","-$30,888","6,625,911",0%,2012-11-23 17:16:39,2012-11-20
+42,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.09,"-7,200","-$65,478","6,618,711",0%,2012-11-23 17:16:12,2012-11-20
+43,"Twin Haven Special Opportunities Fund Iii, L.P.",10%,P - Purchase,HCOM,$16.99,"+1,500","+$25,488","2,403,300",0%,2012-11-23 17:15:30,2012-11-20
+44,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.10,"-3,900","-$35,480","6,614,811",0%,2012-11-23 17:15:30,2012-11-20
+45,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.13,"-4,000","-$36,514","6,610,811",0%,2012-11-23 17:14:56,2012-11-20
+46,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.13,"-3,900","-$35,626","6,606,911",0%,2012-11-23 17:14:30,2012-11-20
+47,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.14,"-3,400","-$31,070","6,603,511",0%,2012-11-23 17:14:01,2012-11-20
+48,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.16,"-4,300","-$39,368","6,599,211",0%,2012-11-23 17:13:33,2012-11-20
+49,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.15,"-3,500","-$32,011","6,595,711",0%,2012-11-23 17:13:06,2012-11-20
+50,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.98,"-4,200","-$37,709","6,588,111",0%,2012-11-23 17:12:40,2012-11-20
+51,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.96,"-3,800","-$34,040","6,584,311",0%,2012-11-23 17:12:11,2012-11-20
+52,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.96,"-3,500","-$31,344","6,580,811",0%,2012-11-23 17:11:43,2012-11-20
+53,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.96,"-3,200","-$28,671","6,577,611",0%,2012-11-23 17:11:17,2012-11-20
+54,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.01,"-4,100","-$36,941","6,573,511",0%,2012-11-23 17:10:49,2012-11-20
+55,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.02,"-3,500","-$31,563","6,570,011",0%,2012-11-23 17:10:22,2012-11-20
+56,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.01,"-3,300","-$29,736","6,566,711",0%,2012-11-23 17:09:56,2012-11-20
+57,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.04,"-3,850","-$34,803","6,562,861",0%,2012-11-23 17:09:29,2012-11-20
+58,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.03,"-3,000","-$27,075","6,559,861",0%,2012-11-23 17:09:02,2012-11-20
+59,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.03,"-4,100","-$37,006","6,555,761",0%,2012-11-23 17:08:35,2012-11-20
+60,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.01,"-4,000","-$36,056","6,551,761",0%,2012-11-23 17:08:07,2012-11-20
+61,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.01,"-3,750","-$33,770","6,548,011",0%,2012-11-23 17:07:40,2012-11-20
+62,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.98,"-3,200","-$28,739","6,544,811",0%,2012-11-23 17:07:11,2012-11-20
+63,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$8.99,"-3,500","-$31,460","6,541,311",0%,2012-11-23 17:06:37,2012-11-20
+64,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.01,"-3,400","-$30,643","6,537,911",0%,2012-11-23 17:06:09,2012-11-20
+65,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.01,"-3,350","-$30,198","6,534,561",0%,2012-11-23 17:05:51,2012-11-20
+66,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.03,"-8,200","-$74,081","6,526,361",0%,2012-11-23 17:05:23,2012-11-20
+67,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.03,"-3,600","-$32,521","6,522,761",0%,2012-11-23 17:04:51,2012-11-20
+68,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.05,"-3,200","-$28,959","6,519,561",0%,2012-11-23 17:04:20,2012-11-20
+69,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.08,"-3,500","-$31,769","6,516,061",0%,2012-11-23 17:03:57,2012-11-20
+70,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.09,"-3,800","-$34,531","6,512,261",0%,2012-11-23 17:03:20,2012-11-20
+71,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.11,"-5,200","-$47,368","6,507,061",0%,2012-11-23 17:02:59,2012-11-20
+72,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.11,"-4,900","-$44,626","6,502,161",0%,2012-11-23 17:02:34,2012-11-20
+73,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.10,"-3,500","-$31,845","6,498,661",0%,2012-11-23 17:02:00,2012-11-20
+74,Miller Adam L,"Pres, CEO, 10%",S - Sale,CSOD,$27.34,"-46,485","-$1,270,765","5,858,286",-1%,2012-11-23 17:01:43,2012-11-20
+75,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.10,"-3,800","-$34,564","6,494,861",0%,2012-11-23 17:01:31,2012-11-20
+76,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.11,"-3,300","-$30,066","6,491,561",0%,2012-11-23 17:01:00,2012-11-20
+77,Szabados Michael,COO,S - Sale,NTCT,$24.32,"-2,000","-$48,645","38,782",-5%,2012-11-23 17:00:39,2012-11-20
+78,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.11,"-2,865","-$26,090","6,488,696",0%,2012-11-23 17:00:35,2012-11-20
+79,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.13,"-3,335","-$30,461","6,485,361",0%,2012-11-23 17:00:06,2012-11-20
+80,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.16,"-4,700","-$43,054","6,480,661",0%,2012-11-23 16:59:35,2012-11-20
+81,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.21,"-3,600","-$33,172","6,477,061",0%,2012-11-23 16:59:07,2012-11-20
+82,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.14,"-4,300","-$39,294","6,472,761",0%,2012-11-23 16:58:38,2012-11-20
+83,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.14,"-3,900","-$35,659","6,468,861",0%,2012-11-23 16:58:08,2012-11-20
+84,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.19,"-3,500","-$32,148","6,465,361",0%,2012-11-23 16:57:43,2012-11-20
+85,Schuermann James,"SVP, Sales, Marketing",S - Sale,HTWR,$83.97,-800,"-$67,175","7,517",-10%,2012-11-23 16:57:16,2012-11-21
+86,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.20,"-3,700","-$34,044","6,461,661",0%,2012-11-23 16:57:09,2012-11-20
+87,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.15,"-6,100","-$55,794","6,455,561",0%,2012-11-23 16:56:41,2012-11-20
+88,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.15,"-3,400","-$31,103","6,452,161",0%,2012-11-23 16:56:13,2012-11-20
+89,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.20,"-3,300","-$30,356","6,448,861",0%,2012-11-23 16:55:46,2012-11-20
+90,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.25,"-3,100","-$28,666","6,445,761",0%,2012-11-23 16:55:18,2012-11-20
+91,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.26,"-3,200","-$29,619","6,442,561",0%,2012-11-23 16:54:49,2012-11-20
+92,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.26,"-3,200","-$29,630","6,439,361",0%,2012-11-23 16:54:22,2012-11-20
+93,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.46,"-4,400","-$41,611","6,434,961",0%,2012-11-23 16:53:51,2012-11-20
+94,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.45,"-5,600","-$52,921","6,429,361",0%,2012-11-23 16:53:23,2012-11-20
+95,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.42,"-4,100","-$38,602","6,425,261",0%,2012-11-23 16:52:55,2012-11-20
+96,Larose Jeffrey,Chief Scientific Officer,S - Sale,HTWR,$83.97,-909,"-$76,327","22,645",-4%,2012-11-23 16:52:51,2012-11-21
+97,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.42,"-3,151","-$29,696","6,422,110",0%,2012-11-23 16:52:01,2012-11-20
+98,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.46,"-3,400","-$32,168","6,418,710",0%,2012-11-23 16:51:33,2012-11-20
+99,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.43,"-2,800","-$26,395","6,415,910",0%,2012-11-23 16:51:05,2012-11-20
+100,Godshall Douglas Evan,"Pres, Chief Exec Officer",S - Sale,HTWR,$83.97,"-3,817","-$320,512","62,582",-6%,2012-11-23 16:50:53,2012-11-21
+101,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.41,"-2,900","-$27,302","6,413,010",0%,2012-11-23 16:50:11,2012-11-20
+102,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.40,"-3,300","-$31,020","6,409,710",0%,2012-11-23 16:49:40,2012-11-20
+103,Shah Pragnesh N,"Pres, Global Consumer",S - Sale,RST,$12.94,-543,"-$7,026","9,801",-5%,2012-11-23 16:49:25,2012-11-20
+104,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.41,"-3,500","-$32,945","6,406,210",0%,2012-11-23 16:49:13,2012-11-20
+105,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.41,"-3,200","-$30,104","6,403,010",0%,2012-11-23 16:48:47,2012-11-20
+106,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.31,"-6,000","-$55,873","6,397,010",0%,2012-11-23 16:48:18,2012-11-20
+107,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.30,"-5,900","-$54,898","6,391,110",0%,2012-11-23 16:47:36,2012-11-20
+108,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.31,"-3,800","-$35,384","6,387,310",0%,2012-11-23 16:47:07,2012-11-20
+109,Farrell Lauren,"VP, Finance",S - Sale,HTWR,$85.98,-536,"-$46,087",676,-44%,2012-11-23 16:47:02,2012-11-21
+110,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.30,"-4,000","-$37,219","6,383,310",0%,2012-11-23 16:46:37,2012-11-20
+111,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.30,"-3,900","-$36,283","6,379,410",0%,2012-11-23 16:45:49,2012-11-20
+112,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.30,"-3,200","-$29,764","6,376,210",0%,2012-11-23 16:45:20,2012-11-20
+113,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.30,"-2,900","-$26,982","6,373,310",0%,2012-11-23 16:44:30,2012-11-20
+114,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.30,"-4,200","-$39,076","6,369,110",0%,2012-11-23 16:44:02,2012-11-20
+115,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.30,"-4,000","-$37,216","6,365,110",0%,2012-11-23 16:43:30,2012-11-20
+116,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.30,"-2,903","-$26,998","6,362,207",0%,2012-11-23 16:43:02,2012-11-20
+117,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.31,"-4,247","-$39,537","6,357,960",0%,2012-11-23 16:42:29,2012-11-20
+118,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.31,"-3,250","-$30,243","6,354,710",0%,2012-11-23 16:41:58,2012-11-20
+119,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.31,"-8,548","-$79,568","6,346,162",0%,2012-11-23 16:41:29,2012-11-20
+120,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.31,"-8,152","-$75,859","6,338,010",0%,2012-11-23 16:41:03,2012-11-20
+121,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.30,"-4,765","-$44,315","6,333,245",0%,2012-11-23 16:40:31,2012-11-20
+122,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.30,"-3,223","-$29,985","6,330,022",0%,2012-11-23 16:40:02,2012-11-20
+123,Mohamed Abdulmohsin Al Kharafi & Sons W L L,10%,S - Sale,KKD,$9.03,"-3,400","-$30,708","6,592,311",0%,2012-11-23 16:39:35,2012-11-20
+124,Davis Edward Mike,10%,S - Sale,RECV,$2.05,"-7,050","-$14,453","2,801,184",0%,2012-11-23 16:37:09,2012-11-23
+125,Baralonco Ltd,10%,P - Purchase,IRDM,$5.61,"+5,700","+$31,963","12,345,200",0%,2012-11-23 16:35:37,2012-11-20
+126,Baralonco Ltd,10%,P - Purchase,IRDM,$5.61,"+13,860","+$77,734","12,339,500",0%,2012-11-23 16:33:57,2012-11-20
+127,Baralonco Ltd,10%,P - Purchase,IRDM,$5.60,"+22,800","+$127,740","12,325,640",0%,2012-11-23 16:32:24,2012-11-20
+128,McClaugherty Joe L,Dir,P - Purchase,MHR,$3.70,"+7,000","+$25,900","812,279",+1%,2012-11-23 16:29:55,2012-10-20
+129,Baralonco Ltd,10%,P - Purchase,IRDM,$5.61,"+6,600","+$37,026","12,302,840",0%,2012-11-23 16:29:01,2012-11-20
+130,Baralonco Ltd,10%,P - Purchase,IRDM,$5.61,"+4,500","+$25,245","12,296,240",0%,2012-11-23 16:27:02,2012-11-20
+131,Baralonco Ltd,10%,P - Purchase,IRDM,$5.61,"+3,600","+$20,195","12,291,740",0%,2012-11-23 16:24:40,2012-11-20
+132,Baralonco Ltd,10%,P - Purchase,IRDM,$5.59,"+3,500","+$19,550","12,288,140",0%,2012-11-23 16:23:14,2012-11-20
+133,Baralonco Ltd,10%,P - Purchase,IRDM,$5.59,"+3,000","+$16,759","12,284,640",0%,2012-11-23 16:21:06,2012-11-20
+134,Baralonco Ltd,10%,P - Purchase,IRDM,$5.60,"+3,200","+$17,918","12,281,640",0%,2012-11-23 16:19:45,2012-11-20
+135,Fricklas Michael D,"EVP, GC, Secy",S - Sale+OE,VIA,$50.25,"-25,000","-$1,256,250","14,209",-64%,2012-11-23 16:09:51,2012-11-20
+136,Ascher Brian D.,Dir,S - Sale,VCRA,$26.40,"-3,833","-$101,187","2,337,584",0%,2012-11-23 15:54:49,2012-11-23
+137,Davey Stephen P,SVP,S - Sale+OE,VLY,$9.24,"-1,216","-$11,231","3,290",-27%,2012-11-23 15:28:04,2012-11-20
+138,Wohleber David L,Dir,P - Purchase,FFCO,$15.74,+372,"+$5,855","14,954",+3%,2012-11-23 15:16:39,2012-11-20
+139,Lindsey Timothy R,Dir,P - Purchase,RVM,$3.25,"+2,725","+$8,856","831,159",0%,2012-11-23 14:44:01,2012-11-21
+140,Ashley Richard H,Dir,S - Sale+OE,HOMB,$33.00,-605,"-$19,965","1,230,822",0%,2012-11-23 14:36:29,2012-11-21
+141,Hassan Shahid M,Dir,S - Sale+OE,WFM,$92.47,"-7,500","-$693,525","18,072",-29%,2012-11-23 14:29:19,2012-11-21
+142,Downs Kelly A,"SVP, Retail Services",S - Sale+OE,FMBH,$26.00,"-1,594","-$41,444","1,339",-54%,2012-11-23 14:18:46,2012-08-06
+143,Ballard Rand A,Chief Customer Officer,S - Sale+OE,MDAS,$16.05,"-13,850","-$222,293","231,782",-6%,2012-11-23 14:01:07,2012-11-20
+144,Bardis John A,"COB, Pres, CEO",S - Sale,MDAS,$16.62,"-80,000","-$1,329,700","1,186,074",-6%,2012-11-23 13:58:51,2012-11-20
+145,Lovoi John,10%,P - Purchase,EPM,$7.58,"+25,790","+$195,608","5,079,590",+1%,2012-11-23 13:53:13,2012-11-20
+146,Spurr John H Jr,Dir,S - Sale,INDB,$28.09,"-76,000","-$2,135,076","263,497",-22%,2012-11-23 13:36:32,2012-11-20
+147,"Elliott International, L.P.",10%,S - Sale,ELX,$6.71,"-270,461","-$1,814,235","5,801,778",-4%,2012-11-23 13:31:59,2012-11-20
+148,Williams Bradley James,Dir,S - Sale+OE,DGII,$12.05,"-10,517","-$126,738","84,465",-11%,2012-11-23 13:31:16,2012-02-03
+149,"Elliott Associates, L.P.",10%,S - Sale,ELX,$6.71,"-145,539","-$976,273","3,124,149",-4%,2012-11-23 13:30:44,2012-11-20
+150,Baker Felix,"Dir, 10%",P - Purchase,GHDX,$26.83,"+229,300","+$6,151,622","1,099,087",+26%,2012-11-23 13:24:26,2012-11-20
+151,Case Stephen M,"Dir, 10%",P - Purchase,MLP,$3.30,"+5,399","+$17,835","11,861,412",0%,2012-11-23 13:22:36,2012-11-20
+152,Lawal Kase Lukman,"COB, CEO",P - Purchase,CAK,$0.75,"+60,000","+$44,835","1,375,770",+5%,2012-11-23 12:56:26,2012-11-20
+153,"Discovery Group I, LLC",10%,S - Sale,ATRC,$7.22,"-2,093","-$15,105","1,799,540",0%,2012-11-23 12:52:16,2012-11-20
+154,Haddad David S Jr,Dir,S - Sale+OE,SFBC,$10.25,-432,"-$4,428","14,219",-3%,2012-11-23 12:23:47,2012-11-20
+155,Thompson William G,Dir,S - Sale+OE,HOMB,$32.75,-23,-$753,"13,093",0%,2012-11-23 12:23:44,2012-11-21
+156,Sweeney James E,Dir,P - Purchase,SFBC,$10.00,+500,"+$5,000","11,406",+5%,2012-11-23 12:21:22,2012-08-22
+157,McMullen Milton L,Dir,P - Purchase,SNFL,$10.00,+500,"+$5,000","10,549",+5%,2012-11-23 12:19:05,2012-08-22
+158,Jones Debra,Dir,P - Purchase,SFBC,$10.00,"+5,000","+$50,000","14,157",+55%,2012-11-23 12:05:31,2012-08-22
+159,Pearce Michael Cooper,Dir,S - Sale+OE,PTX,$7.26,"-20,682","-$150,086","36,667",-36%,2012-11-23 12:03:44,2012-11-20
+160,Riojas Rogelio,Dir,P - Purchase,SFBC,$10.00,"+1,000","+$10,000","20,648",+5%,2012-11-23 11:55:56,2012-08-22
+161,Stewart Laura Lee,"Pres , CEO",P - Purchase,SFBC,$10.00,"+5,000","+$50,000","30,879",+19%,2012-11-23 11:54:30,2012-08-22
+162,Myers Tyler K,Dir,P - Purchase,SFBC,$10.00,"+6,000","+$60,000","30,843",+24%,2012-11-23 11:52:19,2012-08-22
+163,Schut Johannes C,VP,S - Sale+OE,MTX,$71.90,"-2,400","-$172,560",256,-90%,2012-11-23 11:44:23,2012-11-21
+164,Azoff Irving,Exec COB,S - Sale,LYV,$8.68,"-78,200","-$678,385","3,181,127",-2%,2012-11-23 11:19:24,2012-11-20
+165,Desroche Jerold L,Dir,S - Sale,OII,$53.81,"-5,540","-$298,127","39,860",-12%,2012-11-23 11:14:59,2012-11-21
+166,Korell Harold M,Dir,S - Sale+OE,SWN,$36.22,"-50,000","-$1,811,095","2,451,524",-2%,2012-11-23 11:00:25,2012-11-21
+167,Beverley Jr Marshall J,"EVP, Senior Trust Officer",P - Purchase,FXNC,$4.90,+200,+$980,"15,500",+1%,2012-11-23 10:59:58,2012-11-21
+168,Rustand Warren,CEO,S - Sale,PRSC,$12.49,"-4,134","-$51,634","20,766",-17%,2012-11-23 10:52:02,2012-11-21
+169,Frost Phillip Md Et Al,"CEO, COB, 10%",P - Purchase,OPK,$4.44,"+45,000","+$199,681","134,408,800",0%,2012-11-23 10:13:30,2012-11-21
+170,Mak Tek Chee,VP Sales,S - Sale,KLIC,$10.57,"-6,666","-$70,481","102,607",-6%,2012-11-23 10:07:59,2012-11-21
+171,Dobkin Robert C,"VP of Engineering, CTO",S - Sale+OE,LLTC,$32.00,-14,-$448,"719,340",0%,2012-11-23 10:01:14,2012-11-21
+172,Turtora John,Principal Accounting Officer,P - Purchase,NTLS,$15.23,"+1,000","+$15,234","3,500",+40%,2012-11-23 09:47:42,2012-11-20
+173,Davis Henry R,Dir,P - Purchase,KSU,$73.92,"+67,300","+$4,974,867","172,084",+64%,2012-11-23 09:43:07,2012-11-16
+174,Cassidy John F,"Pres, CEO",S - Sale+OE,CBB,$5.01,"-184,818","-$925,938","1,388,273",-12%,2012-11-23 09:30:54,2012-11-21
+175,Filliol Oliver A,"Pres, CEO",S - Sale+OE,MTD,$181.31,"-15,000","-$2,719,650","16,279",-48%,2012-11-23 09:24:30,2012-11-21
+176,Rauch Waldemar,Head of Process Analytics,S - Sale+OE,MTD,$181.05,"-6,000","-$1,086,300","7,275",-45%,2012-11-23 09:23:23,2012-11-21
+177,Milne George M Jr,Dir,S - Sale+OE,MTD,$179.71,"-3,000","-$539,130","5,624",-35%,2012-11-23 09:21:58,2012-11-20
+178,Zaderej Karen L.,CEO,P - Purchase,AXGN,$2.69,+100,+$269,"119,890",0%,2012-11-23 09:18:17,2012-11-20
+179,O'Connor Paul,10%,S - Sale,KIOR,$6.30,"-50,000","-$315,100","1,818,421",-3%,2012-11-23 07:31:49,2012-11-14
+180,Barer Sol J,Dir,P - Purchase,NSPR,$1.33,"+34,980","+$46,516","4,000,000",+1%,2012-11-23 06:18:17,2012-11-21
+181,Lemaitre Cornelia W,"VP, HR,Dir",S - Sale,LMAT,$6.25,"-6,301","-$39,381","246,633",-2%,2012-11-23 06:10:53,2012-11-20

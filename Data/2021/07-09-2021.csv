@@ -1,0 +1,6 @@
+,Insider_Name,Insider_Title,Buy_or_Sell,Ticker,Price,Quantity,Value,Number_Owned,Change_in_Number_Owned,Filing_Date,Trade_Date
+0,Koch C James,"COB, 10%",S - Sale,SAM,$960.26,"-2,500","-$2,400,650","205,407",-1%,2021-07-09 08:53:37,2021-07-08
+1,Australiansuper Pty Ltd,10%,P - Purchase,CRN,$0.69,"+2,000","+$1,380","188,340,286",0%,2021-07-09 07:53:36,2021-07-07
+2,Australiansuper Pty Ltd,10%,S - Sale,CRN,$0.70,"-6,687","-$4,681","188,340,286",0%,2021-07-09 07:53:36,2021-07-06
+3,Chen Deyin,"CEO, 10%",P - Purchase,LAAA,$0.00,"+116,279",+$0,"960,465",+14%,2021-07-09 07:07:47,2021-06-15
+4,Takeda Pharmaceutical Co Ltd,10%,S - Sale,PHAT,$35.05,"-2,609","-$91,445","871,305",0%,2021-07-09 06:09:42,2021-07-07

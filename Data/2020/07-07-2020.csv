@@ -1,0 +1,145 @@
+,Insider_Name,Insider_Title,Buy_or_Sell,Ticker,Price,Quantity,Value,Number_Owned,Change_in_Number_Owned,Filing_Date,Trade_Date
+0,Blundin David B,"Dir, 10%",S - Sale,EVER,$60.44,"-18,181","-$1,098,785","627,841",-3%,2020-07-07 21:52:42,2020-07-01
+1,"Link Ventures, Lllp",10%,S - Sale,EVER,$60.44,"-6,293","-$380,323","199,875",-3%,2020-07-07 21:52:11,2020-07-01
+2,"Link Ventures Investment Vehicle Ii, LLC",10%,S - Sale,EVER,$60.44,"-11,888","-$718,462","427,966",-3%,2020-07-07 21:51:00,2020-07-01
+3,Galvin Carmel,"SVP, CHRO",S - Sale,ADSK,$242.30,"-4,587","-$1,111,444","19,081",-19%,2020-07-07 21:47:33,2020-07-02
+4,Yang Tseli Lily,Chief Accounting Officer,S - Sale+OE,PINS,$24.01,"-2,531","-$60,759","78,075",-3%,2020-07-07 21:43:12,2020-07-02
+5,Isaac Paul J,10%,S - Sale,STXS,$4.39,"-10,105","-$44,361","4,378,015",0%,2020-07-07 21:34:05,2020-07-06
+6,Maag Peter,CEO,S - Sale+OE,CDNA,$34.21,"-10,000","-$342,098","423,974",-2%,2020-07-07 21:25:02,2020-07-06
+7,Constantino Thomas,"EVP, CFO",S - Sale+OE,ATEN,$6.65,"-15,622","-$103,886","213,252",-7%,2020-07-07 21:22:01,2020-07-07
+8,Carpenter Michael J.,"Pres, GLBAL SALES, FLD OPS",S - Sale+OE,CRWD,$105.14,"-33,257","-$3,496,641","129,652",-20%,2020-07-07 21:16:17,2020-07-06
+9,Atalig Francisco M.,"SVP, CFO",S - Sale,BKGM,$10.50,-750,"-$7,875","1,205",-38%,2020-07-07 21:15:17,2020-07-06
+10,Ullem Scott B.,"CVP, CFO",S - Sale+OE,EW,$69.98,"-26,700","-$1,868,389","256,365",-9%,2020-07-07 21:04:07,2020-07-06
+11,Hamm Harold,"Exec COB, 10%",P - Purchase,CLR,$17.77,"+2,679,849","+$47,625,796","295,474,659",+1%,2020-07-07 20:58:14,2020-07-02
+12,Wang Huimin,"CVP, Japan, Intercontinental",S - Sale,EW,$70.00,-591,"-$41,370","93,792",-1%,2020-07-07 20:53:17,2020-07-06
+13,Isaac Paul J,10%,S - Sale,STXS,$4.36,"-7,992","-$34,845","4,388,120",0%,2020-07-07 20:53:14,2020-07-02
+14,Hennessy John L,Dir,S - Sale,GOOG,"$1,495.85",-60,"-$89,751","4,268",-1%,2020-07-07 20:39:10,2020-07-06
+15,Finn Patrick John,Chief Commercial Officer,S - Sale,TWST,$46.68,"-1,400","-$65,354","37,697",-4%,2020-07-07 20:05:16,2020-07-02
+16,Ingram William,Dir,S - Sale+OE,AVLR,$135.84,"-25,000","-$3,396,056","1,731",-94%,2020-07-07 20:03:27,2020-07-06
+17,Tallapragada Srinivas,"Pres, Chief Engineering Office",S - Sale+OE,CRM,$197.72,"-5,000","-$988,600","41,788",-11%,2020-07-07 19:56:41,2020-07-07
+18,Madden William Christopher,"EVP, FPGA, Silicon Tech",S - Sale+OE,XLNX,$101.60,"-3,427","-$348,176","15,100",-18%,2020-07-07 19:52:36,2020-07-06
+19,Benioff Marc,"Chair of the Board, CEO",S - Sale+OE,CRM,$198.50,"-15,000","-$2,977,429","30,028,800",0%,2020-07-07 19:51:04,2020-07-07
+20,Reinemund Steven,Dir,P - Purchase,GSAH,$0.00,"+100,000",+$0,"100,000",New,2020-07-07 19:49:36,2020-07-02
+21,Batcheler Colleen,"EVP GC, Corp Secty",S - Sale+OE,CAG,$36.01,"-23,305","-$839,115","169,873",-12%,2020-07-07 19:48:17,2020-07-02
+22,Sullivan Martha N.,Dir,P - Purchase,GSAH,$0.00,"+35,000",+$0,"35,000",New,2020-07-07 19:41:29,2020-07-02
+23,Tennenbaum Ross,See Remarks,S - Sale+OE,AVLR,$137.81,-926,"-$127,612","68,972",-1%,2020-07-07 19:40:15,2020-07-06
+24,Olson Eric R,Chief Scientific Officer,S - Sale,SYRS,$11.72,"-1,753","-$20,538",0,-100%,2020-07-07 19:33:05,2020-07-07
+25,Frist William H.,Dir,P - Purchase,GSAH,$0.00,"+300,000",+$0,"300,000",New,2020-07-07 19:30:31,2020-07-02
+26,Wenqing Yao,"EVP, Head of Discovery Chem",S - Sale+OE,INCY,$107.32,"-16,553","-$1,776,468","156,258",-10%,2020-07-07 19:30:07,2020-07-06
+27,Robinson David M.,Dir,P - Purchase,GSAH,$0.00,"+200,000",+$0,"200,000",New,2020-07-07 19:27:22,2020-07-02
+28,Stein Steven H,"EVP, Chief Medical Officer",S - Sale+OE,INCY,$107.25,"-36,124","-$3,874,171","100,750",-26%,2020-07-07 19:25:52,2020-07-06
+29,Lender Daniel,"EVP, CFO",S - Sale,QADA,$40.68,"-13,946","-$567,347","173,835",-7%,2020-07-07 19:21:53,2020-07-06
+30,Hoppenot Herve,"COB , CEO",S - Sale+OE,INCY,$110.00,"-89,771","-$9,874,810","730,139",-11%,2020-07-07 19:18:12,2020-07-07
+31,"Saltchuk Resources, Inc.",10%,P - Purchase,OSG,$1.92,"+232,278","+$447,019","11,668,196",+2%,2020-07-07 19:18:01,2020-07-06
+32,Dhanak Dashyant,"EVP, Chief Scientific Officer",S - Sale+OE,INCY,$106.58,-961,"-$102,423","25,591",-4%,2020-07-07 19:13:36,2020-07-06
+33,Scott Ryan M.,CMO,S - Sale+OE,ETSY,$111.11,"-11,041","-$1,226,788","1,198",-90%,2020-07-07 19:13:35,2020-07-02
+34,Simeone Jill,"General Counsel, Secretary",S - Sale,ETSY,$110.81,"-1,849","-$204,889","11,560",-14%,2020-07-07 19:12:23,2020-07-02
+35,Fisher Michael T,CTO,S - Sale+OE,ETSY,$110.82,"-5,208","-$577,141","24,705",-17%,2020-07-07 19:09:29,2020-07-02
+36,Darling Scott,"GC, Secr.",S - Sale+OE,SFIX,$28.98,"-20,000","-$579,500","78,074",-20%,2020-07-07 19:08:06,2020-07-02
+37,Lorig Brian,EVP,S - Sale,KLAC,$194.56,-136,"-$26,460","23,389",-1%,2020-07-07 19:04:51,2020-07-02
+38,Whited Elizabeth F,"EVP, CHRO",S - Sale+OE,UNP,$171.08,"-5,000","-$855,400","79,692",-6%,2020-07-07 18:59:32,2020-07-06
+39,Steinert Langley,"CEO, COB, 10%",S - Sale,CARG,$26.62,"-51,970","-$1,383,182","1,157,586",-4%,2020-07-07 18:58:46,2020-07-06
+40,Vifor (International) Ltd,10%,S - Sale,CCXI,$57.47,"-87,781","-$5,044,434","10,589,044",-1%,2020-07-07 18:57:30,2020-07-02
+41,Rosensweig Daniel,"Pres, CEO, CO-COB",S - Sale,CHGG,$70.83,"-28,000","-$1,983,240","2,140,021",-1%,2020-07-07 18:52:38,2020-07-07
+42,Sherman Jeffrey W,"EVP, Chief Medical Officer",S - Sale,HZNP,$57.50,"-9,100","-$523,250","293,812",-3%,2020-07-07 18:49:26,2020-07-06
+43,Goldin Mark,CTO,S - Sale,CSOD,$38.70,"-3,854","-$149,145","98,544",-4%,2020-07-07 18:42:00,2020-07-02
+44,Romp Charles R,"EVP, Commercial",S - Sale,SGEN,$167.49,-712,"-$119,253","55,307",-1%,2020-07-07 18:34:59,2020-07-02
+45,Steele Jim,"Pres, CRO",S - Sale+OE,YEXT,$17.37,"-5,821","-$101,101","4,438",-57%,2020-07-07 18:32:06,2020-07-06
+46,Cakebread Steven,CFO,S - Sale+OE,YEXT,$17.36,"-10,000","-$173,637","22,638",-31%,2020-07-07 18:31:44,2020-07-06
+47,Ittycheria Dev,"Pres, CEO",S - Sale+OE,MDB,$222.88,"-9,155","-$2,040,466","232,012",-4%,2020-07-07 18:31:27,2020-07-02
+48,Lerman Howard,CEO,S - Sale,YEXT,$17.36,"-75,000","-$1,302,083","3,731,739",-2%,2020-07-07 18:31:23,2020-07-06
+49,Bull Thomas,Principal Accounting Officer,S - Sale+OE,MDB,$222.88,-398,"-$88,705","16,878",-2%,2020-07-07 18:31:22,2020-07-02
+50,Pech Cedric,Chief Revenue Officer,S - Sale,MDB,$227.29,"-2,149","-$488,455","96,160",-2%,2020-07-07 18:31:19,2020-07-02
+51,Gordon Michael Lawrence,"COO, CFO",S - Sale+OE,MDB,$222.88,"-4,998","-$1,113,956","117,634",-4%,2020-07-07 18:31:15,2020-07-02
+52,Chapman Steven Leonard,CEO,S - Sale+OE,NTRA,$48.97,"-13,237","-$648,268","23,814",-36%,2020-07-07 18:25:48,2020-07-02
+53,Merrill Judd,CFO,S - Sale,AQMS,$1.15,"-61,445","-$70,662","312,671",-16%,2020-07-07 18:22:01,2020-07-02
+54,Cotton Stephen,CEO,S - Sale,AQMS,$1.15,"-169,606","-$195,047","861,004",-16%,2020-07-07 18:21:44,2020-07-02
+55,Bristol Investment Fund Ltd,10%,S - Sale,RSSS,$2.32,"-47,662","-$110,486","4,622,675",-1%,2020-07-07 18:07:35,2020-07-06
+56,Sanchez Robert,"Pres, CEO, O, R",P - Purchase,ED,$74.81,+64,"+$4,758","3,332",+2%,2020-07-07 18:06:41,2020-06-30
+57,Resheske Frances,"SVP, Corporate Affairs",P - Purchase,ED,$74.81,+1,+$98,"53,587",0%,2020-07-07 18:05:46,2020-06-30
+58,Nadkarni Gurudatta D,"VP, Strategic Planning",P - Purchase,ED,$74.81,+112,"+$8,401","7,579",+2%,2020-07-07 18:04:34,2020-06-30
+59,Nachmias Stuart,"Pres, CEO CET",P - Purchase,ED,$74.81,+20,"+$1,486",993,+2%,2020-07-07 18:02:53,2020-06-30
+60,Gilpin Jamie Cannon,CMO,S - Sale,SPT,$27.62,"-1,278","-$35,298","119,645",-1%,2020-07-07 18:01:35,2020-07-02
+61,Del Preto Joseph,"CFO, Treasurer",S - Sale,SPT,$27.62,"-2,115","-$58,416","112,730",-2%,2020-07-07 18:01:20,2020-07-02
+62,Muccilo Robert,"VP, Chief Accounting Officer",P - Purchase,ED,$74.81,+111,"+$8,329","7,585",+1%,2020-07-07 17:59:48,2020-06-30
+63,Burgoyne Celeste,EVP Americas Retail,S - Sale+OE,LULU,$304.52,"-4,723","-$1,438,248","5,515",-46%,2020-07-07 17:56:49,2020-07-02
+64,McAvoy John,"COB, Pres, CEO",P - Purchase,ED,$74.81,+76,"+$5,673","136,502",0%,2020-07-07 17:56:32,2020-06-30
+65,Hoglund Robert N,"SVP, CFO",P - Purchase,ED,$74.81,+143,"+$10,664","42,035",0%,2020-07-07 17:53:50,2020-06-30
+66,Choe Michelle Sun,Chief Product Officer,S - Sale+OE,LULU,$312.15,"-4,744","-$1,480,840","10,191",-32%,2020-07-07 17:52:23,2020-07-02
+67,Donnley Deneen L,"SVP, GC",P - Purchase,ED,$74.81,+35,"+$2,622",430,+9%,2020-07-07 17:50:58,2020-06-30
+68,Kennedy Keith,"COO , CFO",S - Sale+OE,VCYT,$28.20,"-86,424","-$2,437,213","119,632",-42%,2020-07-07 17:47:44,2020-07-02
+69,Cawley Timothy,"Pres, CECONY",P - Purchase,ED,$74.81,+70,"+$5,223","15,771",0%,2020-07-07 17:46:19,2020-06-30
+70,De La Bastide Lore,"SVP, Utility Shared Services",P - Purchase,ED,$74.81,+12,+$896,851,+1%,2020-07-07 17:42:03,2020-06-30
+71,Kdev Investments Ab,10%,S - Sale,APRE,$34.55,"-241,703","-$8,350,839","1,992,586",-11%,2020-07-07 17:41:14,2020-07-07
+72,Gianakakos Anastasios,"Pres, CEO",S - Sale,MYOK,$93.98,"-5,000","-$469,909","624,790",-1%,2020-07-07 17:39:30,2020-07-02
+73,Loewenbaum G Walter II,Dir,S - Sale,LMNX,$33.00,"-26,347","-$869,382","1,834,738",-1%,2020-07-07 17:38:19,2020-07-06
+74,Khechfe Amine,Chief Strategy Officer,S - Sale+OE,STMP,$200.00,"-10,000","-$2,000,019",666,-94%,2020-07-07 17:35:00,2020-07-02
+75,Davidson David,Chief Medical Officer,S - Sale,BLUE,$61.57,-42,"-$2,586","39,850",0%,2020-07-07 17:22:27,2020-07-02
+76,Leschly Nick,"Pres, CEO",S - Sale,BLUE,$61.57,-443,"-$27,277","268,603",0%,2020-07-07 17:19:10,2020-07-02
+77,Cole Jason,COO and,S - Sale,BLUE,$61.57,-38,"-$2,340","35,410",0%,2020-07-07 17:18:44,2020-07-02
+78,Smith-Farrell Joanne,Chief Business Officer,S - Sale,BLUE,$61.57,-38,"-$2,340","22,349",0%,2020-07-07 17:17:19,2020-07-02
+79,Loving Richard W,"SVP, CAO",S - Sale,BWXT,$56.84,-300,"-$17,052","19,765",-1%,2020-07-07 17:17:07,2020-07-06
+80,Finger Alison Cecily,Chief Commercial Officer,S - Sale,BLUE,$61.57,-36,"-$2,217","27,133",0%,2020-07-07 17:16:17,2020-07-02
+81,Gregory Philip D,Chief Scientific Officer,S - Sale,BLUE,$61.57,-59,"-$3,633","36,101",0%,2020-07-07 17:15:33,2020-07-02
+82,Mathis Vincent,"EVP, GC",S - Sale,LRN,$30.00,"-1,921","-$57,630","34,207",-5%,2020-07-07 17:03:43,2020-07-02
+83,Powers Johnny D,Dir,P - Purchase,ZOM,$0.16,"+625,000","+$100,000","625,000",New,2020-07-07 16:53:14,2020-07-07
+84,Rubin Kevin,CFO,S - Sale+OE,AYX,$176.61,"-10,950","-$1,933,889","47,851",-19%,2020-07-07 16:52:31,2020-07-06
+85,Jones Robert Scott,"Pres, Chief Revenue Officer",S - Sale+OE,AYX,$177.00,"-1,598","-$282,846","39,391",-4%,2020-07-07 16:50:33,2020-07-06
+86,Spurzem Richard T,10%,P - Purchase,BRBS,$14.76,"+3,281","+$48,428","755,641",0%,2020-07-07 16:46:07,2020-07-06
+87,Fisher Cynthia A,Dir,S - Sale,SAM,$570.00,-240,"-$136,800","144,732",0%,2020-07-07 16:44:39,2020-07-07
+88,Koch C James,"COB, 10%",S - Sale,SAM,$570.00,-240,"-$136,800","350,245",0%,2020-07-07 16:44:16,2020-07-07
+89,Collis Steven H,"COB, Pres, CEO",S - Sale+OE,ABC,$100.59,"-19,904","-$2,002,143","142,122",-12%,2020-07-07 16:42:30,2020-07-06
+90,Twomey Christopher J,Dir,S - Sale,TNDM,$100.28,"-7,500","-$752,074","55,000",-12%,2020-07-07 16:40:48,2020-07-02
+91,Berger David B,"EVP, Chief Legal, Compliance",S - Sale+OE,TNDM,$101.66,"-2,000","-$203,310","4,766",-30%,2020-07-07 16:40:14,2020-07-06
+92,Vosseller Leigh,"EVP, CFO",S - Sale+OE,TNDM,$105.04,"-10,000","-$1,050,387","4,665",-68%,2020-07-07 16:39:46,2020-07-06
+93,Walsh Paul S,Dir,S - Sale+OE,FDX,$155.54,"-4,600","-$715,461","12,000",-28%,2020-07-07 16:32:49,2020-07-06
+94,Booth Richard Douglas,CFO,S - Sale,EPAY,$50.38,"-1,074","-$54,104","111,559",-1%,2020-07-07 16:32:03,2020-07-02
+95,Weiss Adam J.,Chief Administrative Officer,S - Sale,CSOD,$38.70,"-2,983","-$115,438","98,488",-3%,2020-07-07 16:31:57,2020-07-02
+96,"Tpg Group Holdings (Sbs) Advisors, Inc.",10%,S - Sale,PGNY,$26.43,"-110,000","-$2,907,543","19,200,118",-1%,2020-07-07 16:31:35,2020-07-02
+97,Danieli Ilan,CEO,P - Purchase,PRPO,$0.96,"+2,585","+$2,482","18,176",+17%,2020-07-07 16:31:24,2020-07-06
+98,Hudson Deal W,Dir,S - Sale,ATLC,$11.50,"-7,000","-$80,500","99,000",-7%,2020-07-07 16:30:27,2020-07-06
+99,Danieli Ilan,CEO,P - Purchase,PRPO,$1.60,"+1,550","+$2,480","15,591",+11%,2020-07-07 16:30:22,2020-07-06
+100,Cohen Jamie,CFO,S - Sale+OE,ANGI,$14.10,"-31,029","-$437,509",0,-100%,2020-07-07 16:27:11,2020-07-02
+101,Millington Nicholas,Chief Product Officer,S - Sale+OE,SONO,$15.03,"-35,978","-$540,832","101,848",-26%,2020-07-07 16:24:21,2020-07-06
+102,"Ecp Controlco, LLC",10%,S - Sale,NOVA,$15.76,"-6,211,533","-$97,878,231","32,141,424",-16%,2020-07-07 16:22:30,2020-07-06
+103,Deluca Norman J,"MD, Banking Solutions",S - Sale,EPAY,$50.38,"-1,388","-$69,922","70,152",-2%,2020-07-07 16:21:27,2020-07-02
+104,Atkins M Shan,Dir,S - Sale,SPTN,$21.23,"-3,000","-$63,690","48,112",-6%,2020-07-07 16:21:00,2020-07-06
+105,Csp Management Ltd,"Dir, 10%",P - Purchase,SRT,$4.87,"+1,540,041","+$7,500,000","1,540,041",New,2020-07-07 16:18:19,2020-06-29
+106,Salem Enrique T,Dir,S - Sale,DOCU,$189.87,"-64,245","-$12,198,385","2,140,490",-3%,2020-07-07 16:15:57,2020-07-02
+107,Clover Wolf Capital - Limited Partnership,10%,P - Purchase,PSTI,$8.04,"+199,686","+$1,604,865","3,411,446",+6%,2020-07-07 16:12:43,2020-06-22
+108,Taylor Julie R.,"Corporate VP, CHRO",S - Sale+OE,BR,$130.00,"-3,203","-$416,390","11,053",-22%,2020-07-07 16:12:24,2020-07-06
+109,Boccassam Prashanth,Dir,S - Sale,APPN,$51.02,"-3,000","-$153,047","73,145",-4%,2020-07-07 16:11:25,2020-07-06
+110,Schodorf Thomas E,Dir,S - Sale,RPD,$53.41,-125,"-$6,676","28,670",0%,2020-07-07 16:08:33,2020-07-02
+111,Ammerman Douglas K,Dir,P - Purchase,DNB,$22.00,"+11,300","+$248,600","11,300",New,2020-07-07 16:07:56,2020-07-02
+112,Massey Richard N,Dir,P - Purchase,DNB,$22.00,"+100,000","+$2,200,000","1,439,608",+7%,2020-07-07 16:07:29,2020-07-02
+113,Jabbour Anthony M,CEO,P - Purchase,DNB,$22.00,"+200,000","+$4,400,000","4,563,628",+5%,2020-07-07 16:07:11,2020-07-02
+114,Reinhardt Joseph A. Ill,GC,P - Purchase,DNB,$22.00,"+25,000","+$550,000","427,840",+6%,2020-07-07 16:06:56,2020-07-02
+115,Hipsher Bryan T.,CFO,P - Purchase,DNB,$22.00,"+25,000","+$550,000","528,591",+5%,2020-07-07 16:06:41,2020-07-02
+116,Daffron Stephen C.,Pres,P - Purchase,DNB,$22.00,"+100,000","+$2,200,000","3,389,467",+3%,2020-07-07 16:06:13,2020-07-02
+117,Pietrontone Anthony Jr,Chief Accounting Officer,P - Purchase,DNB,$22.00,"+4,000","+$88,000","28,664",+16%,2020-07-07 16:05:56,2020-07-02
+118,Severino Paul Jean,COO of Subsidiary,S - Sale,FORD,$1.32,"-7,087","-$9,355","116,502",-6%,2020-07-07 16:01:09,2020-07-02
+119,Shillingburg Stephanie E,Executive Vice President,P - Purchase,FMBM,$19.30,+25,+$488,"8,364",0%,2020-07-07 15:47:49,2020-07-07
+120,Comer Carrie A,EVP & CFO,P - Purchase,FMBM,$19.30,+3,+$67,"3,842",0%,2020-07-07 15:31:56,2020-07-07
+121,Breen Nicole M,"Secretary, Treasurer, 10%",S - Sale,BUDZ,$0.29,"-41,854","-$12,093","22,864,309",0%,2020-07-07 15:27:44,2020-06-22
+122,Pendarvis David,Chief Administrative Officer,S - Sale+OE,RMD,$194.64,"-5,919","-$1,152,090","133,942",-4%,2020-07-07 15:14:11,2020-07-06
+123,Preston Margaret M V,Dir,S - Sale+OE,MKC,$181.80,"-8,408","-$1,528,562","40,517",-17%,2020-07-07 15:13:46,2020-07-02
+124,Lilly Endowment Inc,10%,S - Sale,LLY,$166.99,"-205,000","-$34,232,086","111,655,304",0%,2020-07-07 14:27:59,2020-07-06
+125,Woodward D Andrew,CEO,P - Purchase,BKEP,$0.00,"+22,892",+$0,"199,173",+13%,2020-07-07 14:17:46,2020-07-02
+126,Collier Alan Brian,CEO,P - Purchase,ENDV,$0.10,+400,+$41,"26,219",+2%,2020-07-07 13:47:09,2020-06-30
+127,Golisano B Thomas,10%,P - Purchase,CRGS,$3.33,"+37,500","+$125,000","37,500",New,2020-07-07 13:15:21,2020-07-02
+128,Stone Michael J,Dir,S - Sale,RLI,$80.39,"-1,360","-$109,330","272,382",0%,2020-07-07 12:07:44,2020-07-02
+129,Johnson Edwin D,"Pres, COO",S - Sale,CWST,$52.22,"-30,000","-$1,566,558","227,947",-12%,2020-07-07 12:00:44,2020-07-03
+130,Bagshaw Seth H,"SVP, CFO, Treasurer",S - Sale,MKSI,$116.84,"-5,000","-$584,197","24,169",-17%,2020-07-07 11:20:07,2020-07-06
+131,Horizon Kinetics Asset Management LLC,10%,P - Purchase,TPL,$569.99,+236,"+$134,518","281,085",0%,2020-07-07 11:19:36,2020-07-06
+132,Jones Thomas Randy,EVP-CLO,P - Purchase,HBMD,$9.56,+135,"+$1,291","1,382",+11%,2020-07-07 11:13:28,2020-07-06
+133,Schwabe Charles E.,EVP-CRO,P - Purchase,HBMD,$9.56,+135,"+$1,291","50,805",0%,2020-07-07 11:07:26,2020-07-06
+134,Steil Jack E,Dir,P - Purchase,HBMD,$9.56,+271,"+$2,591","47,491",+1%,2020-07-07 10:56:55,2020-07-06
+135,Fairchild Nancy,"SVP, HR",S - Sale+OE,LMNX,$33.00,"-23,475","-$774,675","58,111",-29%,2020-07-07 10:46:38,2020-07-06
+136,Turner Frank K Jr,EVP-Chief Commercial Banking,P - Purchase,HBMD,$9.56,+135,"+$1,291","6,359",+2%,2020-07-07 10:46:12,2020-07-06
+137,McKone Steven Drew,EVP-Chief Deposit Officer,P - Purchase,HBMD,$9.56,+135,"+$1,291",406,+50%,2020-07-07 10:00:46,2020-07-06
+138,Poynot Steven,EVP-CIO,P - Purchase,HBMD,$9.56,+108,"+$1,032",868,+14%,2020-07-07 09:46:11,2020-07-06
+139,Van Der Vaart Sandra D,"EVP, GC",S - Sale,LH,$170.00,-435,"-$73,950","4,044",-10%,2020-07-07 09:38:23,2020-07-02
+140,Scully Mary Ann,"COB, CEO",P - Purchase,HBMD,$9.56,+679,"+$6,491","144,323",0%,2020-07-07 09:34:30,2020-07-06
+141,Demurjian Michael,10%,S - Sale,TYME,$1.32,"-20,000","-$26,400","25,478,546",0%,2020-07-07 09:25:44,2020-07-06
+142,Knapp Jeffrey Herbert,EVP - HR (CHESI),P - Purchase,CLH,$32.80,+500,"+$16,400","13,027",+4%,2020-07-07 09:24:09,2020-03-19
+143,Boulet Virginia,Dir,P - Purchase,WTI,$2.20,"+18,604","+$40,927","255,177",+8%,2020-07-07 08:47:37,2020-07-06

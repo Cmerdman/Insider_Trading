@@ -1,0 +1,220 @@
+,Insider_Name,Insider_Title,Buy_or_Sell,Ticker,Price,Quantity,Value,Number_Owned,Change_in_Number_Owned,Filing_Date,Trade_Date
+0,Woodman Therese,Dir,P - Purchase,MLVF,$21.00,"+1,000","+$21,000","12,112",+9%,2018-10-17 21:56:33,2018-10-09
+1,Scartozzi Stephen P,Dir,P - Purchase,MLVF,$21.00,"+1,904","+$39,984","11,695",+19%,2018-10-17 21:55:17,2018-10-09
+2,Downey Chris A,Dir,P - Purchase,FPI,$6.27,"+15,395","+$96,598","70,699",+28%,2018-10-17 21:30:58,2018-10-15
+3,Alden Global Capital LLC,10%,P - Purchase,FRED,$2.66,"+1,150,000","+$3,061,069","10,425,000",+12%,2018-10-17 21:11:34,2018-10-15
+4,Wobensmith John C,"CEO, Pres, Secretary",S - Sale+OE,GNK,$12.51,"-46,784","-$585,377","220,358",-18%,2018-10-17 21:01:36,2018-10-15
+5,Conway Gerard L Jr,"GC, Corp Secretary, SVP",S - Sale+OE,PLUG,$1.86,"-100,000","-$185,850","10,519",-90%,2018-10-17 20:50:42,2018-10-15
+6,Huggenberger Raymond,Dir,S - Sale+OE,INGN,$196.63,"-10,500","-$2,064,560","7,797",-57%,2018-10-17 20:33:06,2018-10-15
+7,Smith Karyn,"GC, Secretary",S - Sale+OE,TWLO,$74.55,-939,"-$70,003","49,396",-2%,2018-10-17 20:13:21,2018-10-15
+8,Pearson Mark E.,Dir,P - Purchase,SNGX,$1.16,"+170,000","+$197,200","2,500,000",+7%,2018-10-17 20:09:48,2018-10-17
+9,Kirkpatrick Lee,CFO,S - Sale+OE,TWLO,$75.43,"-14,000","-$1,056,051","154,745",-8%,2018-10-17 20:09:11,2018-10-15
+10,Block Keith,co-CEO,S - Sale+OE,CRM,$145.37,"-2,160","-$313,999","21,676",-9%,2018-10-17 20:08:05,2018-10-16
+11,Benioff Marc,"COB, co-CEO",S - Sale,CRM,$146.67,"-5,000","-$733,328","32,240,800",0%,2018-10-17 19:59:44,2018-10-17
+12,Bozzini James,"COO, EVP",S - Sale+OE,WDAY,$127.23,"-4,981","-$633,712","350,760",-1%,2018-10-17 19:58:22,2018-10-15
+13,Liffman Joel D,"SVP, Finance",S - Sale,XON,$14.59,"-79,000","-$1,152,808","79,500",-50%,2018-10-17 19:51:49,2018-10-15
+14,Shaughnessy James P,"SVP, GC, Secty",S - Sale,WDAY,$127.35,"-2,190","-$278,902","99,075",-2%,2018-10-17 19:44:53,2018-10-15
+15,Tobias David,"Pres, 10%",S - Sale,CBDS,$5.28,"-27,600","-$145,660","4,391,187",-1%,2018-10-17 19:42:47,2018-10-15
+16,Stankey Michael A.,Dir,S - Sale,WDAY,$127.17,"-2,675","-$340,185","161,911",-2%,2018-10-17 19:40:28,2018-10-15
+17,Dermetzis Petros,Chief Products Officer,S - Sale+OE,WDAY,$127.23,"-5,439","-$691,986","225,770",-2%,2018-10-17 19:32:55,2018-10-15
+18,Sweet Lara,"VP, Chief Accounting Officer",S - Sale,SNAP,$7.12,"-20,848","-$148,454","598,948",-3%,2018-10-17 19:31:26,2018-10-16
+19,Fleisher Michael D,CFO,S - Sale+OE,W,$118.01,"-6,632","-$782,642","119,209",-5%,2018-10-17 19:31:07,2018-10-15
+20,Melo John,"Pres, CEO",S - Sale,AMRS,$7.50,"-5,195","-$38,952","743,713",-1%,2018-10-17 19:30:59,2018-10-15
+21,Stone Timothy R,CFO,S - Sale,SNAP,$7.12,"-13,608","-$96,954","1,206,231",-1%,2018-10-17 19:30:47,2018-10-16
+22,Oblak Steve,Chief Merchandising Officer,S - Sale+OE,W,$118.00,"-1,388","-$163,784","115,293",-1%,2018-10-17 19:30:28,2018-10-15
+23,Fernandez Gomez Luciano,Co-Pres,S - Sale,WDAY,$127.28,"-2,822","-$359,175","172,615",-2%,2018-10-17 19:30:19,2018-10-15
+24,Mulliken John Champlin,CTO,S - Sale+OE,W,$118.00,"-1,388","-$163,784","211,678",-1%,2018-10-17 19:29:52,2018-10-15
+25,Shah Niraj,"CEO, 10%",S - Sale+OE,W,$120.41,"-18,158","-$2,186,482","81,781",-18%,2018-10-17 19:29:16,2018-10-15
+26,Conine Steven,"Co-Founder, 10%",S - Sale+OE,W,$120.46,"-18,158","-$2,187,382","81,788",-18%,2018-10-17 19:28:39,2018-10-15
+27,Sisco Robynne,"Co-Pres, CFO",S - Sale+OE,WDAY,$127.25,"-6,281","-$799,237","131,898",-5%,2018-10-17 19:28:23,2018-10-15
+28,Savarese James,COO,S - Sale+OE,W,$118.00,"-1,851","-$218,418","463,288",0%,2018-10-17 19:28:04,2018-10-15
+29,Rodrigues Romero,Dir,S - Sale,W,$117.99,-67,"-$7,905","10,916",-1%,2018-10-17 19:27:25,2018-10-15
+30,Sheena Jonathan,CTO,S - Sale+OE,NTRA,$20.66,"-166,667","-$3,443,980","515,054",-24%,2018-10-17 19:26:54,2018-10-15
+31,Bhusri Aneel,CEO,S - Sale+OE,WDAY,$127.26,"-7,366","-$937,369","358,734",-2%,2018-10-17 19:26:05,2018-10-15
+32,Wittekind Beverly B.,"VP, GC",S - Sale+OE,ENSG,$38.61,"-5,000","-$193,042","53,984",-8%,2018-10-17 19:25:46,2018-10-15
+33,Macri Edmond,"Chief Product, Marketing",S - Sale+OE,W,$119.84,"-1,988","-$238,232","253,719",-1%,2018-10-17 19:24:23,2018-10-15
+34,Duffield David A,"Dir, 10%",S - Sale+OE,WDAY,$127.25,"-1,434","-$182,470","109,068",-1%,2018-10-17 19:22:52,2018-10-15
+35,Earnhardt Lisa D,"Pres, CEO",S - Sale+OE,XENT,$29.63,"-20,000","-$592,614","435,865",-4%,2018-10-17 18:54:56,2018-10-15
+36,Garcia Ernest C. II,10%,S - Sale+OE,CVNA,$45.23,"-69,977","-$3,165,039","90,338,714",0%,2018-10-17 18:53:22,2018-10-15
+37,Patel Mukesh,Dir,S - Sale,SGH,$31.86,"-39,339","-$1,253,197","10,749",-79%,2018-10-17 18:48:24,2018-10-15
+38,Li Jennifer,Dir,S - Sale,FLEX,$12.36,-48,-$593,"21,487",0%,2018-10-17 18:44:23,2018-10-17
+39,Tan Lay Koon,Dir,S - Sale,FLEX,$12.36,-430,"-$5,315","141,929",0%,2018-10-17 18:43:20,2018-10-17
+40,Marten Alan,SVP,S - Sale+OE,SGH,$31.79,"-8,800","-$279,752","97,666",-8%,2018-10-17 18:36:10,2018-10-15
+41,Baird William D III,CFO,S - Sale+OE,FOLD,$12.23,"-10,000","-$122,275","117,622",-8%,2018-10-17 18:28:05,2018-10-15
+42,Geschke John,"CLO, SVP Administration",S - Sale+OE,ZEN,$60.64,"-5,000","-$303,203","18,524",-21%,2018-10-17 18:19:45,2018-10-15
+43,Baird William D III,CFO,S - Sale,FOLD,$15.63,"-10,000","-$156,292","117,622",-8%,2018-10-17 18:17:19,2018-07-02
+44,Smith Mike C.,COO,S - Sale+OE,SFIX,$25.72,"-25,000","-$642,908",0,-100%,2018-10-17 18:14:13,2018-10-15
+45,Thill Howard J Sr,"EVP, CFO",S - Sale,SN,$2.46,"-21,877","-$53,883","348,373",-6%,2018-10-17 18:05:20,2018-10-15
+46,Cox Christopher K,Chief Product Officer,S - Sale,FB,$153.44,"-5,300","-$813,248","319,137",-2%,2018-10-17 18:03:17,2018-10-15
+47,Dalbergia Investments LLC,10%,P - Purchase,GCP,$25.38,"+31,957","+$811,172","5,415,838",+1%,2018-10-17 18:01:40,2018-10-15
+48,Klein Peter S,Dir,S - Sale+OE,APTI,$29.90,"-8,000","-$239,230","13,337",-37%,2018-10-17 18:00:40,2018-10-15
+49,Gopalswamy Sudhir,"EVP, Microcontroller, Connect",S - Sale,CY,$14.00,"-3,000","-$42,000","111,157",-3%,2018-10-17 17:53:38,2018-10-17
+50,Popovits Kimberly J,"Pres, CEO",S - Sale+OE,GHDX,$65.28,"-50,000","-$3,264,166","248,797",-17%,2018-10-17 17:52:44,2018-10-15
+51,Shifke Mark L,CFO,S - Sale,GDOT,$75.12,"-10,000","-$751,183","632,020",-2%,2018-10-17 17:46:22,2018-10-15
+52,Gochee James R.,Chief Product Officer,S - Sale,NEWR,$89.99,"-4,000","-$359,960","306,946",-1%,2018-10-17 17:41:51,2018-10-17
+53,Storch David P,Dir,S - Sale,AIR,$45.07,-983,"-$44,299","1,174,019",0%,2018-10-17 17:41:09,2018-10-16
+54,Weiner Paul S,CFO,S - Sale,CFMS,$0.94,-833,-$783,"315,928",0%,2018-10-17 17:40:12,2018-10-16
+55,Goldman Kenneth S,"SVP, CFO, Treasurer",S - Sale+OE,EVBG,$48.58,-815,"-$39,589",0,-100%,2018-10-17 17:34:47,2018-10-15
+56,Witte Owen N.,Dir,P - Purchase,ALLO,$18.00,"+15,000","+$270,000","236,182",+7%,2018-10-17 17:32:48,2018-10-15
+57,Humer Franz B,Dir,P - Purchase,ALLO,$18.00,"+30,000","+$540,000","104,870",+40%,2018-10-17 17:32:11,2018-10-15
+58,Graves Brad N,See remarks below.,S - Sale,SMLP,$14.84,"-5,000","-$74,200","36,225",-12%,2018-10-17 17:31:27,2018-10-17
+59,Chang David D,"Pres, CEO",P - Purchase,ALLO,$18.00,"+40,000","+$720,000","4,793,507",+1%,2018-10-17 17:30:08,2018-10-15
+60,Belldegrun Arie,"Dir, 10%",P - Purchase,ALLO,$18.00,"+35,000","+$630,000","2,020,586",+2%,2018-10-17 17:29:03,2018-10-15
+61,Rice Linda Johnson,Dir,S - Sale+OE,GRUB,$115.87,-596,"-$69,059",186,-76%,2018-10-17 17:28:07,2018-10-15
+62,Richmond David S.,"See Footnotes 1 and 2, 10%",P - Purchase,RMTI,$0.00,"+5,541,562",+$0,"6,080,984",>999%,2018-10-17 17:27:35,2018-10-15
+63,Johnson S P IV,"Pres, CEO",S - Sale,CRZO,$22.32,"-8,000","-$178,569","563,076",-1%,2018-10-17 17:25:58,2018-10-15
+64,Wise David S,Chief Administrative Officer,S - Sale,LIVN,$112.83,"-1,500","-$169,250","32,429",-4%,2018-10-17 17:25:40,2018-10-15
+65,Dewitt Adam,"Pres, CFO, Treasurer",S - Sale+OE,GRUB,$115.87,"-2,250","-$260,708","15,396",-13%,2018-10-17 17:24:32,2018-10-15
+66,Reasoner Scott J,"SVP, COO",S - Sale,PDCE,$50.43,"-1,341","-$67,627","75,989",-2%,2018-10-17 17:24:28,2018-10-15
+67,Moore Daniel Jeffrey,Dir,S - Sale,LIVN,$113.30,"-1,000","-$113,298","46,882",-2%,2018-10-17 17:23:08,2018-10-15
+68,"Fairclough, Jr. Fred W.",Dir,S - Sale,PUB,$31.87,"-1,375","-$43,822","40,036",-3%,2018-10-17 17:21:06,2018-10-17
+69,Lewnes Ann,"EVP, CMO",S - Sale,ADBE,$261.21,"-2,910","-$760,121","55,647",-5%,2018-10-17 17:19:18,2018-10-17
+70,Tan Hock E,"Pres, CEO",S - Sale+OE,AVGO,$231.03,"-20,000","-$4,620,600","109,834",-15%,2018-10-17 17:18:14,2018-10-15
+71,Pfizer Inc,10%,P - Purchase,ALLO,$18.00,"+55,556","+$1,000,008","22,032,040",0%,2018-10-17 17:17:16,2018-10-15
+72,"Tpg Group Holdings (Sbs) Advisors, Inc.",10%,P - Purchase,ALLO,$18.00,"+675,000","+$12,150,000","23,135,061",+3%,2018-10-17 17:10:22,2018-10-15
+73,Tilghman Richard G,Dir,S - Sale,SYY,$68.62,"-5,000","-$343,100","58,350",-8%,2018-10-17 17:07:53,2018-10-15
+74,Guthrie John T,"EVP, CFO, Assistant Sec.",S - Sale+OE,SITE,$71.46,"-10,000","-$714,600","28,186",-26%,2018-10-17 17:07:53,2018-10-16
+75,Convers Pascal,"EVP, Strategy, Development",S - Sale+OE,SITE,$69.79,"-9,750","-$680,453",0,-100%,2018-10-17 17:05:43,2018-10-15
+76,Barrett J Tutt,Dir,P - Purchase,AUBN,$38.97,+36,"+$1,403","6,402",+1%,2018-10-17 17:01:06,2018-10-16
+77,Orford Keith,"SVP, CLINICAL DEVELOPMENT",S - Sale,CALA,$6.05,-313,"-$1,894","10,314",-3%,2018-10-17 17:00:56,2018-10-15
+78,"Sg Vtb Holdings, LLC",10%,S - Sale,HEAR,$19.77,"-400,000","-$7,907,076","2,383,192",-14%,2018-10-17 17:00:32,2018-10-15
+79,Overturf James,"EVP, CMO",S - Sale,EXR,$86.24,-880,"-$75,888","71,657",-1%,2018-10-17 17:00:14,2018-10-15
+80,Brisendine L Briley Jr,"EVP, GC, Sec.",S - Sale,SITE,$69.25,"-1,600","-$110,800","19,308",-8%,2018-10-17 17:00:10,2018-10-15
+81,Fernandez Phillip M,Dir,S - Sale+OE,YEXT,$18.85,"-2,000","-$37,700","12,502",-14%,2018-10-17 16:58:06,2018-10-15
+82,McClain Mark D.,"CEO, Pres",S - Sale,SAIL,$27.04,"-33,000","-$892,323","3,100,796",-1%,2018-10-17 16:57:05,2018-10-15
+83,Jacobs William I,Dir,S - Sale,GPN,$116.75,-600,"-$70,050","34,000",-2%,2018-10-17 16:54:31,2018-10-15
+84,"Basswood Partners, L.L.C.","Dir, 10%",P - Purchase,BDGE,$31.19,+344,"+$10,730","589,007",0%,2018-10-17 16:53:20,2018-10-15
+85,Silberstein Alan M,Dir,S - Sale,GPN,$116.75,-700,"-$81,725","42,869",-2%,2018-10-17 16:52:15,2018-10-15
+86,Selig Allan H,Dir,P - Purchase,ODC,$30.67,"+1,000","+$30,667","35,000",+3%,2018-10-17 16:51:49,2018-10-16
+87,Wingo M Scot,Exec COB,S - Sale,ECOM,$12.06,"-4,700","-$56,701","648,207",-1%,2018-10-17 16:51:11,2018-10-15
+88,Minetola Matthew,See Remarks,S - Sale+OE,TVPT,$15.50,"-2,508","-$38,874","33,402",-7%,2018-10-17 16:50:27,2018-10-16
+89,Baldwin Robert H B Jr,Dir,S - Sale,GPN,$116.07,"-3,125","-$362,730","88,755",-3%,2018-10-17 16:49:46,2018-10-15
+90,"Basswood Capital Management, L.L.C.","Director-by-Deputization, 10%",P - Purchase,BDGE,$31.19,"+13,784","+$429,955","2,919,226",0%,2018-10-17 16:49:36,2018-10-15
+91,Manzer William R,"SVP, Manufacturing Operations",S - Sale,RYAM,$14.30,"-1,000","-$14,300","49,835",-2%,2018-10-17 16:45:26,2018-10-16
+92,Rishe Bryan,"SVP, Sales",S - Sale,TCMD,$61.72,"-3,000","-$185,160","70,328",-4%,2018-10-17 16:43:47,2018-10-15
+93,Way Andrew James,"Pres, CEO",S - Sale,EXTN,$25.49,"-34,517","-$879,932","500,379",-6%,2018-10-17 16:42:45,2018-10-15
+94,Helm Scott B,Dir,P - Purchase,VST,$23.94,+200,"+$4,788","32,567",+1%,2018-10-17 16:40:09,2018-10-16
+95,Lokuge Ishantha,"SVP, Chief Product Officer",S - Sale+OE,SFLY,$61.45,"-3,740","-$229,823","3,760",-50%,2018-10-17 16:39:33,2018-10-15
+96,Smith S. Scott,COO,S - Sale+OE,IRDM,$19.10,"-3,500","-$66,850","217,534",-2%,2018-10-17 16:38:48,2018-10-15
+97,Landon Timothy J,Dir,S - Sale,APEI,$28.54,-150,"-$4,281","16,007",-1%,2018-10-17 16:37:48,2018-10-15
+98,Ballbach John M,Dir,P - Purchase,RPM,$59.53,"+3,360","+$200,018","13,260",+34%,2018-10-17 16:36:27,2018-10-15
+99,Dowdupont Inc.,10%,P - Purchase,AGFS,$5.88,"+62,370","+$366,907","20,254,313",0%,2018-10-17 16:35:39,2018-10-15
+100,Chin Dean A,SVP - Chief Accounting Officer,S - Sale,ABM,$30.39,"-2,018","-$61,327","22,949",-8%,2018-10-17 16:33:56,2018-10-15
+101,Del Rio Frank J,"Pres, CEO",S - Sale,NCLH,$51.03,"-3,077","-$157,019","390,345",-1%,2018-10-17 16:30:45,2018-10-15
+102,Yoo Stephen,Chief Medical Officer,S - Sale+OE,RGNX,$60.28,"-20,414","-$1,230,541",0,-100%,2018-10-17 16:29:41,2018-10-15
+103,Young Matthew P.,"EVP, CFO",S - Sale,JAZZ,$158.08,-700,"-$110,658","32,768",-2%,2018-10-17 16:29:34,2018-10-15
+104,Schwartz Karl D,"VP, Controller, CAO",S - Sale,ATI,$27.10,"-1,000","-$27,100","32,983",-3%,2018-10-17 16:29:33,2018-10-15
+105,Heffernan Michael Thomas,Dir,S - Sale,COLL,$16.53,"-25,000","-$413,250","361,000",-6%,2018-10-17 16:27:58,2018-10-15
+106,Spinnaker Capital LLC,10%,S - Sale,CARG,$42.11,"-100,000","-$4,211,000","8,491,646",-1%,2018-10-17 16:27:42,2018-10-15
+107,Papermaster Mark D,"CTO, SVP",S - Sale,AMD,$26.17,"-50,000","-$1,308,500","1,262,198",-4%,2018-10-17 16:27:03,2018-10-15
+108,Lewis Holden,"CFO, EVP",P - Purchase,FAST,$52.28,+500,"+$26,142","3,500",+17%,2018-10-17 16:25:41,2018-10-16
+109,Tans Gillian,"Pres, CEO, Booking.com",S - Sale,BKNG,$6.11,-295,"-$1,804","6,126",-5%,2018-10-17 16:25:19,2018-10-15
+110,Vasista Vittal,CFO,S - Sale,RGNX,$59.37,"-7,500","-$445,275","137,283",-5%,2018-10-17 16:24:13,2018-10-15
+111,Popwell David T,Pres-Banking,P - Purchase,FHN,$15.88,"+15,750","+$250,077","301,343",+6%,2018-10-17 16:22:32,2018-10-17
+112,Havey Adam,"EVP, Business Operations",S - Sale+OE,EBS,$61.06,"-22,996","-$1,404,026","29,253",-44%,2018-10-17 16:19:50,2018-10-15
+113,Argonaut 22 LLC,10%,S - Sale,CARG,$42.11,"-100,000","-$4,211,000","8,491,646",-1%,2018-10-17 16:18:15,2018-10-15
+114,Mills Kenneth T.,"Pres, CEO",S - Sale,RGNX,$59.35,"-7,510","-$445,745","326,000",-2%,2018-10-17 16:17:58,2018-10-15
+115,Parafestas Anastasios,"Dir, 10%",S - Sale,CARG,$42.11,"-120,000","-$5,053,200","1,755,106",-6%,2018-10-17 16:16:13,2018-10-15
+116,Ackermann Christina,"EVP, GC",S - Sale,BHC,$24.98,"-19,946","-$498,302","51,456",-28%,2018-10-17 16:15:28,2018-10-15
+117,Noreck Daniel T,CFO,S - Sale,TTGT,$19.21,"-2,000","-$38,420","2,056",-49%,2018-10-17 16:14:06,2018-10-15
+118,Weiss Adam J.,Chief Administrative Officer,S - Sale,CSOD,$49.83,"-2,000","-$99,660","104,151",-2%,2018-10-17 16:11:22,2018-10-15
+119,Orthwein Peter Busch,Exec. COB,P - Purchase,THO,$0.00,"+500,000",+$0,"2,020,630",+33%,2018-10-17 16:10:45,2018-10-15
+120,Orthwein Peter Busch,Exec. COB,S - Sale,THO,$0.00,"-500,000",-$0,"2,020,630",-20%,2018-10-17 16:10:45,2018-10-15
+121,Kelly William A.,Pres of Subsidiary,S - Sale,PRI,$109.93,-856,"-$94,100","14,416",-6%,2018-10-17 16:05:47,2018-10-15
+122,Michel Gerard J,"CFO, VP, Corp. Development",S - Sale+OE,VCEL,$12.65,"-15,000","-$189,750","150,960",-9%,2018-10-17 16:05:43,2018-10-15
+123,Frazier Randall H,Dir,S - Sale,OCC,$5.30,"-4,534","-$24,030","59,561",-7%,2018-10-17 16:05:36,2018-10-15
+124,"David Bh Williams, Trustee Uad the Margo Janison Victoire Williams 2004 Trust",member of a group,P - Purchase,HY,$62.51,+3,+$188,"13,164",0%,2018-10-17 15:42:02,2018-10-15
+125,Williams Margo J.V.,Member of a Group,P - Purchase,HY,$62.51,+3,+$188,"13,164",0%,2018-10-17 15:41:05,2018-10-15
+126,"David Bh Williams, Trustee Uad the Helen Charles Williams 2004 Trust",Member of a Group,P - Purchase,HY,$62.51,+3,+$188,"13,165",0%,2018-10-17 15:39:59,2018-10-15
+127,Williams Helen Charles,Member of a Group,P - Purchase,HY,$62.51,+3,+$188,"13,165",0%,2018-10-17 15:38:59,2018-10-15
+128,Williams David B,Member of a Group,P - Purchase,HY,$62.30,+547,"+$34,078","221,631",0%,2018-10-17 15:37:53,2018-10-15
+129,Williams Clara R,Member of a Group,P - Purchase,HY,$62.30,+547,"+$34,078","221,631",0%,2018-10-17 15:35:05,2018-10-15
+130,"Chloe R. Seelbach, Trustee Under Claiborne Rankin Trust For Children of Chloe R. Seelbach Dtd 12/21/04 Fbo Thomas Wilson Seelbach",Member of a Group,P - Purchase,HY,$62.19,+3,+$187,810,0%,2018-10-17 15:33:27,2018-10-15
+131,Seelbach Thomas Wilson,Member of a Group,P - Purchase,HY,$62.19,+3,+$187,810,0%,2018-10-17 15:32:05,2018-10-15
+132,"Chloe R. Seelbach, Trustee Uad 2/2/05 the Taplin Elizabeth Seelbach Trust",Member of a Group,P - Purchase,HY,$62.19,+3,+$187,"1,291",0%,2018-10-17 15:30:28,2018-10-15
+133,Seelbach Taplin E,Member of a Group,P - Purchase,HY,$62.19,+3,+$187,"1,291",0%,2018-10-17 15:28:13,2018-10-15
+134,Seelbach Scott W,Member of a Group,P - Purchase,HY,$62.32,+15,+$935,"23,056",0%,2018-10-17 15:26:59,2018-10-15
+135,"Chloe R. Seelbach, Trustee Under Claiborne Rankin Trust For Children of Chloe R. Seelbach Dtd 12/21/04 Fbo Isabelle Scott Seelbach",Member of a Group,P - Purchase,HY,$62.19,+3,+$187,"1,291",0%,2018-10-17 15:25:21,2018-10-15
+136,Seelbach Isabelle,Member of a Group,P - Purchase,HY,$62.19,+3,+$187,"1,291",0%,2018-10-17 15:23:26,2018-10-15
+137,Seelbach Chloe R,Member of a Group,P - Purchase,HY,$62.32,+15,+$935,"23,056",0%,2018-10-17 15:22:27,2018-10-15
+138,"Matthew M. Rankin & James T. Rankin Co-Trustees For William Alexander Rankin U/a/d May 10, 2007",Member of a Group,P - Purchase,HY,$62.51,+3,+$188,"2,131",0%,2018-10-17 15:21:04,2018-10-15
+139,Lescalleet Thomas M.,"SVP, Griffin Indust division",S - Sale+OE,GRIF,$38.06,"-2,400","-$91,346","2,400",-50%,2018-10-17 15:20:06,2018-10-15
+140,Rankin William A,Member of a Group,P - Purchase,HY,$62.51,+3,+$188,"2,131",0%,2018-10-17 15:19:58,2018-10-15
+141,Rankin Thomas Parker,Member of a Group,P - Purchase,HY,$62.30,+11,+$685,"25,524",0%,2018-10-17 15:18:49,2018-10-15
+142,"Matthew M Rankin & James T. Rankin Co-Trustees For Mary M. Rankin U/a/d May 10, 2007",member of a group,P - Purchase,HY,$62.51,+3,+$188,"2,361",0%,2018-10-17 15:17:42,2018-10-15
+143,Rankin Mary M,Member of a Group,P - Purchase,HY,$62.51,+3,+$188,"2,361",0%,2018-10-17 15:16:42,2018-10-15
+144,Vested Trust For Margaret Pollard Rankin,Member of a group,P - Purchase,HY,$62.22,+4,+$249,617,+1%,2018-10-17 15:13:54,2018-10-15
+145,Rankin Margaret Pollard,Member of a Group,P - Purchase,HY,$62.22,+4,+$249,617,+1%,2018-10-17 15:11:36,2018-10-15
+146,Sandoval Tacho M,10%,P - Purchase,CCTC,$0.30,"+1,765,063","+$521,232","18,780,675",+10%,2018-10-17 15:02:18,2018-01-12
+147,Subin Neil S,10%,S - Sale,ITI,$4.42,"-89,374","-$394,836","4,431,955",-2%,2018-10-17 14:59:52,2018-10-16
+148,Rankin Lynne T,Member of a Group,P - Purchase,HY,$62.30,+20,"+$1,246","32,640",0%,2018-10-17 14:58:20,2018-10-15
+149,Rankin James T,Member of a Group,P - Purchase,HY,$62.30,+20,"+$1,246","32,640",0%,2018-10-17 14:57:13,2018-10-15
+150,"Vested Trust For James T. Rankin, Jr.",Member of a group,P - Purchase,HY,$62.22,+4,+$249,425,+1%,2018-10-17 14:55:47,2018-10-15
+151,Rankin Matthew M,Member of a Group,P - Purchase,HY,$62.35,+12,+$748,"28,039",0%,2018-10-17 14:54:36,2018-10-15
+152,Rankin Elizabeth B,Member of a Group,P - Purchase,HY,$62.35,+12,+$748,"27,876",0%,2018-10-17 14:53:20,2018-10-15
+153,"Alison A. Rankin, As Trustee Fbo Elisabeth M. Rankin Under Irrevocable Trust, Dated December 18, 1997, with Roger Rankin, Grantor",Member of a Group,P - Purchase,HY,$62.51,+3,+$188,"21,047",0%,2018-10-17 14:51:32,2018-10-15
+154,Rankin Elisabeth M,Member of a Group,P - Purchase,HY,$62.51,+3,+$188,"23,098",0%,2018-10-17 14:50:28,2018-10-15
+155,"Trust Dated 1/1/1977, Pnc Bank & Alfred M. Rankin, Jr. As Co-Trustees & Clara L.T. Rankin, Fbo Clara L.T. Rankin",member of a group,P - Purchase,HY,$62.30,"+1,715","+$106,849","111,814",+2%,2018-10-17 14:49:07,2018-10-15
+156,Rankin Clara L T,Member of a Group,P - Purchase,HY,$62.30,"+1,715","+$106,849","111,814",+2%,2018-10-17 14:47:52,2018-10-15
+157,Claiborne Rankin Trust For Children of Claiborne Rankin Jr Fbo Claiborne Read Rankin III,Member of a group,P - Purchase,HY,$62.61,+2,+$125,524,0%,2018-10-17 14:46:34,2018-10-15
+158,Rankin Thomas T,Member of a Group,P - Purchase,HY,$62.30,+663,"+$41,305","333,766",0%,2018-10-17 14:45:15,2018-10-15
+159,Rankin Corbin,Member of a Group,P - Purchase,HY,$62.30,+663,"+$41,305","333,766",0%,2018-10-17 14:43:21,2018-10-15
+160,Andrus Terry W,Dir,P - Purchase,AUBN,$38.96,+33,"+$1,286","3,352",+1%,2018-10-17 14:41:40,2018-10-16
+161,Rankin Chloe O,Member of a Group,P - Purchase,HY,$62.30,+484,"+$30,156","328,653",0%,2018-10-17 14:37:28,2018-10-15
+162,Rankin Claiborne R,Member of a Group,P - Purchase,HY,$62.30,+484,"+$30,156","328,653",0%,2018-10-17 14:35:28,2018-10-15
+163,Rankin Victoire G,Member of a Group,P - Purchase,HY,$62.90,"+1,808","+$113,716","647,409",0%,2018-10-17 14:32:14,2018-10-15
+164,Rankin Victoire G,Member of a Group,P - Purchase,HY,$62.00,+402,"+$24,923","647,203",0%,2018-10-17 14:31:35,2018-10-15
+165,Subin Neil S,10%,S - Sale,IDSY,$6.23,"-17,200","-$107,240","2,155,003",-1%,2018-10-17 14:31:08,2018-10-16
+166,Rankin Victoire G,Member of a Group,P - Purchase,HY,$62.00,"+3,207","+$198,841","645,807",0%,2018-10-17 14:30:51,2018-10-15
+167,Rankin Alfred M Et Al,COB,P - Purchase,HY,$62.90,"+1,808","+$113,716","647,409",0%,2018-10-17 14:30:07,2018-10-15
+168,Rankin Alfred M Et Al,COB,P - Purchase,HY,$62.00,+402,"+$24,923","647,203",0%,2018-10-17 14:29:26,2018-10-15
+169,Rankin Alfred M Et Al,COB,P - Purchase,HY,$62.00,"+3,207","+$198,841","645,807",0%,2018-10-17 14:27:55,2018-10-15
+170,"Trust Dated 9/28/2000 Between Alfred M. Rankin, Jr., As Trustee & Bruce T. Rankin, For the Benefit of Bruce T. Rankin",Member of a Group,P - Purchase,HY,$62.30,"+1,074","+$66,909","126,441",+1%,2018-10-17 14:27:08,2018-10-15
+171,Rankin Bruce T,Member of a Group,P - Purchase,HY,$62.30,"+1,074","+$66,909","126,441",+1%,2018-10-17 14:26:02,2018-10-15
+172,Kuo John W,"SVP, GC, Secretary",S - Sale+OE,VAR,$105.26,-862,"-$90,737","30,086",-3%,2018-10-17 14:22:03,2018-10-15
+173,Kang Yihua,"CEO, Pres, 10%",P - Purchase,EVK,$0.00,"+174,800",+$0,"4,977,115",+4%,2018-10-17 14:14:36,2018-10-09
+174,Rankin Roger F,Member of a Group,P - Purchase,HY,$62.90,+224,"+$14,089","437,156",0%,2018-10-17 14:10:28,2018-10-16
+175,Rankin Roger F,Member of a Group,P - Purchase,HY,$62.01,+447,"+$27,717","436,933",0%,2018-10-17 14:08:42,2018-10-15
+176,Rankin Alison A,Member of a Group,P - Purchase,HY,$62.90,+224,"+$14,089","436,993",0%,2018-10-17 14:06:33,2018-10-16
+177,Rankin Alison A,Member of a Group,P - Purchase,HY,$62.01,+447,"+$27,717","436,771",0%,2018-10-17 14:05:08,2018-10-15
+178,Rankin A Farnham,Member of a Group,P - Purchase,HY,$62.51,+3,+$188,"23,097",0%,2018-10-17 13:44:22,2018-10-15
+179,Anne Farnham Rankin Trust 8/15/2012,Member of a Group,P - Purchase,HY,$62.51,+3,+$188,"1,372",0%,2018-10-17 13:43:00,2018-10-15
+180,Rankin James T. Jr.,Member of a Group,P - Purchase,HY,$62.22,+4,+$249,425,+1%,2018-10-17 13:40:33,2018-10-15
+181,Rankin Claiborne R Jr,Member of a Group,P - Purchase,HY,$62.61,+2,+$125,"12,086",0%,2018-10-17 13:38:28,2018-10-15
+182,Sung Derrick,"EVP, Strat Corp Development",S - Sale+OE,IRTC,$88.01,"-10,000","-$880,100","19,458",-34%,2018-10-17 13:37:35,2018-10-16
+183,Rankin Claiborne Read III,Member of a Group,P - Purchase,HY,$62.61,+2,+$125,524,0%,2018-10-17 13:37:17,2018-10-15
+184,Trust For Children of Julia Kuipers Fbo Matilda Alan Kuipers,Member of a group,P - Purchase,HY,$62.19,+3,+$187,524,+1%,2018-10-17 13:36:20,2018-10-15
+185,Yeros John Peter,CEO,P - Purchase,EVO,$3.00,"+50,000","+$150,000","74,650",+203%,2018-10-17 13:35:29,2018-04-16
+186,Kuipers Matilda Alan,Member of a Group,P - Purchase,HY,$62.19,+3,+$187,524,+1%,2018-10-17 13:35:17,2018-10-15
+187,"Trust Dated December 21, 2004, Between Claiborne R. Rankin, As Trustee, & Julia L. Rankin, Creating A Trust Fbo Julia L. Rankin",Member of a Group,P - Purchase,HY,$62.51,+3,+$188,"24,198",0%,2018-10-17 13:34:12,2018-10-15
+188,Rankin Julia L,Member of a Group,P - Purchase,HY,$62.35,+12,+$748,"25,632",0%,2018-10-17 13:33:11,2018-10-15
+189,Kuipers Jacob A,Member of a Group,P - Purchase,HY,$62.35,+12,+$748,"25,632",0%,2018-10-17 13:32:05,2018-10-15
+190,2013 Trust Fbo Evelyn R. Kuipers,Member of a Group,P - Purchase,HY,$62.19,+3,+$187,669,0%,2018-10-17 13:30:38,2018-10-15
+191,Kuipers Evelyn R,Member of a Group,P - Purchase,HY,$62.19,+3,+$187,669,0%,2018-10-17 13:29:07,2018-10-15
+192,Butler Helen Rankin,Member of a Group,P - Purchase,HY,$62.30,+547,"+$34,078","248,320",0%,2018-10-17 13:27:52,2018-10-15
+193,Griffin Bedwell Butler 2002 Trust Dtd 11/5/2002,Member of a Group,P - Purchase,HY,$62.51,+3,+$188,"13,166",0%,2018-10-17 13:26:34,2018-10-15
+194,Butler Griffin B,Member of a Group,P - Purchase,HY,$62.51,+3,+$188,"13,166",0%,2018-10-17 13:25:37,2018-10-15
+195,Clara Rankin Butler 2002 Trust Dtd 11/5/2002,member of a group,P - Purchase,HY,$62.51,+3,+$188,"13,166",0%,2018-10-17 13:24:24,2018-10-15
+196,Butler Clara R,Member of a Group,P - Purchase,HY,$62.51,+3,+$188,"13,166",0%,2018-10-17 13:23:28,2018-10-15
+197,Butler John C Jr,Member of a Group,P - Purchase,HY,$62.30,+547,"+$34,078","248,320",0%,2018-10-17 13:22:28,2018-10-15
+198,Thamm Michael Olaf,Group CEO - Costa Crociere,S - Sale,CUK,$56.93,"-46,290","-$2,635,322","27,429",-63%,2018-10-17 13:18:35,2018-10-15
+199,Sandercock Brett,CFO,S - Sale,RMD,$103.16,"-2,000","-$206,320","71,232",-3%,2018-10-17 13:09:15,2018-10-15
+200,Littlejohns Barry,"Pres, Biologics, SDD",S - Sale+OE,CTLT,$41.64,"-47,265","-$1,968,115","37,718",-56%,2018-10-17 12:28:54,2018-10-15
+201,Ormsby Lenard T,"EVP, GC",S - Sale+OE,EIG,$43.00,"-3,000","-$129,000","89,106",-3%,2018-10-17 12:28:36,2018-10-15
+202,Englesson John G,Dir,S - Sale,EMYB,$17.60,-300,"-$5,280","51,638",-1%,2018-10-17 11:46:20,2018-10-12
+203,Ham William F Jr,Dir,P - Purchase,AUBN,$38.92,+27,"+$1,051","3,660",+1%,2018-10-17 11:45:08,2018-10-16
+204,Cook Brian J,EVP,S - Sale,USG,$42.85,"-15,000","-$642,785","49,070",-23%,2018-10-17 11:22:32,2018-10-15
+205,McCoy Jr. Albert E,Dir,P - Purchase,BDGE,$30.83,"+2,500","+$77,072","152,811",+2%,2018-10-17 10:46:45,2018-10-15
+206,Herald Christopher E,"Pres, CEO",P - Purchase,XPL,$0.34,"+5,000","+$1,680","1,580,000",0%,2018-10-17 10:20:50,2018-10-16
+207,Berkenblit Anna,"VP, Chief Medical Officer",S - Sale,IMGN,$8.00,"-5,851","-$46,808","132,769",-4%,2018-10-17 09:51:16,2018-10-16
+208,Witmer Mark R,"Sr EVP, Chief Banking Officer",S - Sale,FMNB,$15.06,"-6,708","-$101,022","50,655",-12%,2018-10-17 08:47:09,2018-09-25
+209,Witmer Mark R,"Sr EVP, Chief Banking Officer",S - Sale,FMNB,$15.38,"-2,842","-$43,723","57,363",-5%,2018-10-17 08:45:45,2018-09-24
+210,Witmer Mark R,"Sr EVP, Chief Banking Officer",S - Sale,FMNB,$15.33,"-6,840","-$104,836","60,205",-10%,2018-10-17 08:43:54,2018-09-20
+211,Witmer Mark R,"Sr EVP, Chief Banking Officer",S - Sale,FMNB,$15.30,"-4,753","-$72,721","67,045",-7%,2018-10-17 08:41:33,2018-09-19
+212,Witmer Mark R,"Sr EVP, Chief Banking Officer",S - Sale,FMNB,$15.50,-247,"-$3,829","71,798",0%,2018-10-17 08:39:56,2018-09-18
+213,Witmer Mark R,"Sr EVP, Chief Banking Officer",S - Sale,FMNB,$15.50,-207,"-$3,209","72,045",0%,2018-10-17 08:38:20,2018-09-01
+214,Lumb Richard,Group Chief Exec-Fin Serv,S - Sale,ACN,$160.63,"-2,000","-$321,268","119,983",-2%,2018-10-17 08:32:48,2018-10-16
+215,Singer Paula R,"CEO Walden, Online Partners",S - Sale,LAUR,$14.89,"-7,703","-$114,698","60,661",-11%,2018-10-17 08:22:33,2018-10-15
+216,Witmer Mark R,"Sr EVP, Chief Banking Officer",S - Sale,FMNB,$16.10,"-4,916","-$79,148","81,634",-6%,2018-10-17 08:22:15,2018-08-13
+217,Witmer Mark R,"Sr EVP, Chief Banking Officer",S - Sale,FMNB,$16.10,-705,"-$11,351","86,550",-1%,2018-10-17 08:20:03,2018-08-10
+218,Witmer Mark R,"Sr EVP, Chief Banking Officer",S - Sale,FMNB,$16.50,-426,"-$7,029","87,255",0%,2018-10-17 08:18:08,2018-07-27
