@@ -15,15 +15,29 @@ inside <- read_csv("Data/OpenInsider_all_original.csv")
 ```
 
 ```{r cleaning data}
+#deleted the first column, extra id column from csv formatting
 inside <- inside[,-1]
+#changing column names
 colnames(inside)[9] <- "Pct_Change_in_Number_Owned"
+# possibly insider title as factor, but with multiple labels to name
+
+#Price to a numeric
 inside$Price <- as.numeric(gsub('[$,]', '', inside$Price))
 # p or s as factor
+inside$Buy_or_Sell <- factor(substr(inside$Buy_or_Sell, 1, 1), levels = c("P","S"),
+                             labels = c("Purchase", "Sale"))
 # ticker as factor
+inside$Ticker <- as.factor(inside$Ticker)
+#Quantity as a numeric
 inside$Quantity <- as.numeric(gsub('[,]', '', inside$Quantity))
+#Value as numeric
 inside$Value <- as.numeric(gsub('[$,]', '', inside$Value))
-inside$Change_in_Number_Owned <- as.numeric(gsub('[%,]', '', inside$Change_in_Number_Owned))/100
 # change as a two parter, percent and new or not
+inside$Change_in_Number_Owned <- as.numeric(gsub('[%,]', '', inside$Change_in_Number_Owned))/100
+#filing date as date time
+
+#trade date as date
+
 ```
 
 ```{r saving data}
