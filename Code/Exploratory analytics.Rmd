@@ -12,4 +12,13 @@ setwd("~/R/Insider_Trading")
 
 ```{r loading data, include=F}
 inside <- read_csv("Data/OpenInsider_all.csv")
+inside$Factored_Title <- as.factor(inside$Factored_Title)
+inside$Insider_Name <- as.factor(inside$Insider_Name)
+inside$Buy_or_Sell <- as.factor(inside$Buy_or_Sell)
+inside$Ticker <- as.factor(inside$Ticker)
+```
+
+
+```{r loading data, include=F}
+
 ```

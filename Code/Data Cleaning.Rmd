@@ -7,6 +7,8 @@ output: html_document
 
 ```{r setup, include=FALSE}
 library(tidyverse)
+library(tidyquant)
+library(QuantTools)
 setwd("~/R/Insider_Trading")
 ```
 
@@ -20,7 +22,27 @@ inside <- inside[,-1]
 #changing column names
 colnames(inside)[9] <- "Pct_Change_in_Number_Owned"
 # possibly insider title as factor, but with multiple labels to name
-
+titles <- c("Officer", "COB", "CEO", "Pres", "COO", "CFO", "GC", "VP", "Dir", "10%")
+reps <- c()
+for(i in 1019964:nrow(inside)){
+  title <- inside$Insider_Title[i]
+  x = 0
+  for(i in 1:length(titles)){
+    if(grepl(titles[i], title, fixed = T)){
+      x = i
+    }
+  }
+  
+  if(x != 0){ 
+    reps <- c(reps, titles[x]) 
+  }else{
+    reps <- c(reps, "Other")
+  }
+}
+inside$Factored_Title <- as.factor(reps)
+#Isn't perfect, can change if seems important
+#name as factor
+inside$Insider_Name <- as.factor(inside$Insider_Name)
 #Price to a numeric
 inside$Price <- as.numeric(gsub('[$,]', '', inside$Price))
 # p or s as factor
@@ -33,14 +55,46 @@ inside$Quantity <- as.numeric(gsub('[,]', '', inside$Quantity))
 #Value as numeric
 inside$Value <- as.numeric(gsub('[$,]', '', inside$Value))
 # change as a two parter, percent and new or not
-inside$Change_in_Number_Owned <- as.numeric(gsub('[%,]', '', inside$Change_in_Number_Owned))/100
-#filing date as date time
+keeps <- c()
+for(t in 1:nrow(inside)){
+  if(inside$Pct_Change_in_Number_Owned[t] == "New"){
+    keeps <- c(keeps, TRUE) #doesn't work, swith to true and false and unlist the result so it can compare
+  }else{
+    keeps <- c(keeps, FALSE)
+  }
+}
+inside$is_new <- as.factor(keeps)
+inside$Pct_Change_in_Number_Owned <- as.numeric(gsub('[%,]', '', inside$Pct_Change_in_Number_Owned))/100 #doesn't work also
 
+#filing date as date time
+inside$Filing_Date <- as.POSIXct(inside$Filing_Date,format="%m/%d/%Y %H:%M:%S",tz=Sys.timezone())
 #trade date as date
+inside$Trade_Date <- as.POSIXct(inside$Trade_Date,tz=Sys.timezone())
+
+#rearranging columns
+inside <- inside %>% relocate(Factored_Title, .after = Insider_Title)
+inside <- inside %>% relocate(is_new, .after = Pct_Change_in_Number_Owned)
+```
+
+Using TidyQuant to populate price data, look at price 1 day later, 7 days later, 1 month later, 6 months later, 1 year later
+
+```{r profitability creation}
+getSymbols(as.character(inside$Ticker[1197784]),
+           from = inside$Trade_Date[1197784], to = inside$Trade_Date[1197784] + 7,
+           warnings = F, auto.assign = F)
+
+get_yahoo_data(as.character(inside$Ticker[1197784]),
+               from = inside$Trade_Date[1197784], to = as.Date(inside$Trade_Date[1197784]) + 7,
+               split.adjusted = T, dividend.adjusted = F)
+
+get_google_data(as.character(inside$Ticker[1]),
+               from = inside$Trade_Date[1], to = as.Date(inside$Trade_Date[1]) + 7)
 
 ```
 
+
 ```{r saving data}
+#saved everything but inside$changein owned, and dates. Can load this and only change that to avoid redoing script
 write_csv(inside, file = "Data/OpenInsider_all.csv")
 ```
 
